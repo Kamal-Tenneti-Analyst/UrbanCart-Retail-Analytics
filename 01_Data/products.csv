@@ -1,0 +1,2001 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Cost_Price,Selling_Price
+1,Red Label Beverages Classic 1286,Groceries,Beverages,Red Label,95.69,130.36
+2,Nivea Skincare Elite 6951,Beauty & Personal Care,Skincare,Nivea,263.01,300.05
+3,Penguin Fiction Essential 9651,Books & Stationery,Fiction,Penguin,807.85,1098.43
+4,HarperCollins Fiction Classic 9220,Books & Stationery,Fiction,HarperCollins,737.38,907.21
+5,Bombay Dyeing Bedding Superior 5154,Home & Kitchen,Bedding,Bombay Dyeing,3464.71,4874.51
+6,Fossil Bag Max 6201,Fashion,Bags,Fossil,4339.92,5876.10
+7,Axe Fragrances Elite 5246,Beauty & Personal Care,Fragrances,Axe,3930.69,4963.32
+8,Pantene Haircare Pro 9511,Beauty & Personal Care,Haircare,Pantene,679.34,898.63
+9,Nestle Dairy Value 1299,Groceries,Dairy,Nestle,60.66,78.14
+10,Red Label Beverages Elite 742,Groceries,Beverages,Red Label,81.96,110.74
+11,Britannia Snacks Value 8237,Groceries,Snacks,Britannia,196.76,290.81
+12,Decathlon Yoga & Accessories Classic 5172,Sports & Fitness,Yoga & Accessories,Decathlon,3376.51,4963.01
+13,Boldfit Yoga & Accessories Premium 7664,Sports & Fitness,Yoga & Accessories,Boldfit,2123.06,2807.03
+14,Lakme Makeup Essential 6619,Beauty & Personal Care,Makeup,Lakme,1383.35,2064.15
+15,Zara Women's Clothing Sport 9102,Fashion,Women's Clothing,Zara,1589.63,1846.54
+16,Parker Office Supplies Signature 6333,Books & Stationery,Office Supplies,Parker,133.25,157.14
+17,Dove Haircare Original 9752,Beauty & Personal Care,Haircare,Dove,435.89,534.78
+18,Morphy Richards Kitchen Appliances Signature 9378,Home & Kitchen,Kitchen Appliances,Morphy Richards,3190.88,4743.69
+19,Titan Smartwatches Standard 6528,Electronics,Smartwatches,Titan,12161.30,16012.61
+20,HarperCollins Fiction Pro 3520,Books & Stationery,Fiction,HarperCollins,407.39,468.28
+21,Samsung Mobile Phones Superior 2578,Electronics,Mobile Phones,Samsung,72839.63,100240.57
+22,H&M Women's Clothing Sport 2533,Fashion,Women's Clothing,H&M,3322.47,5083.25
+23,Amul Dairy Ultra 8096,Groceries,Dairy,Amul,421.31,551.78
+24,Johnson's Baby Care Plus 1774,Toys & Baby Products,Baby Care,Johnson's,1925.90,2760.12
+25,Huggies Diaper Smart 478,Toys & Baby Products,Diapers,Huggies,1218.75,1539.02
+26,Sony Cameras Pro 4378,Electronics,Cameras,Sony,93082.73,117290.13
+27,Lakme Makeup Value 3297,Beauty & Personal Care,Makeup,Lakme,2757.32,4048.43
+28,Wow Haircare Original 5925,Beauty & Personal Care,Haircare,Wow,1568.74,2424.21
+29,Boldfit Yoga & Accessories Max 5740,Sports & Fitness,Yoga & Accessories,Boldfit,3192.60,4931.34
+30,Aashirvaad Staples Ultra 3816,Groceries,Staples,Aashirvaad,449.80,592.47
+31,Titan Smartwatches Signature 1489,Electronics,Smartwatches,Titan,4200.80,5355.36
+32,Wild Stone Fragrance Elite 5547,Beauty & Personal Care,Fragrances,Wild Stone,4025.21,5735.21
+33,Johnson's Baby Care Lite 2885,Toys & Baby Products,Baby Care,Johnson's,2532.00,2816.59
+34,Huggies Diapers Value 9862,Toys & Baby Products,Diapers,Huggies,878.38,1104.72
+35,Prestige Cookware Ultra 8727,Home & Kitchen,Cookware,Prestige,3229.66,3755.01
+36,Dove Haircare Deluxe 3586,Beauty & Personal Care,Haircare,Dove,664.30,802.64
+37,Bingo Snack Elite 2247,Groceries,Snacks,Bingo,315.40,474.35
+38,HarperCollins Non-Fiction Smart 8464,Books & Stationery,Non-Fiction,HarperCollins,111.56,144.81
+39,Bombay Dyeing Bedding Plus 2923,Home & Kitchen,Bedding,Bombay Dyeing,1099.17,1515.31
+40,Wildcraft Bags Everyday 8592,Fashion,Bags,Wildcraft,3056.38,4429.98
+41,HP Laptops Deluxe 791,Electronics,Laptops,HP,72117.82,97559.42
+42,Casio Watches Value 8382,Fashion,Watches,Casio,2926.20,3583.81
+43,Huggies Diapers Smart 4353,Toys & Baby Products,Diapers,Huggies,1150.31,1370.21
+44,Fisher-Price Toys Ultra 6528,Toys & Baby Products,Toys,Fisher-Price,576.17,696.17
+45,Fabindia Women's Clothing Advanced 2104,Fashion,Women's Clothing,Fabindia,4598.72,5378.21
+46,Bru Beverage Plus 7763,Groceries,Beverages,Bru,809.65,1035.71
+47,Hot Wheels Toys Lite 7170,Toys & Baby Products,Toys,Hot Wheels,2798.86,3609.34
+48,Lays Snacks Signature 419,Groceries,Snacks,Lays,197.79,280.16
+49,Reynolds Office Supplie Smart 1153,Books & Stationery,Office Supplies,Reynolds,780.47,938.79
+50,Van Heusen Men's Clothing Deluxe 748,Fashion,Men's Clothing,Van Heusen,3871.83,4575.33
+51,Bajaj Kitchen Appliances Sport 2547,Home & Kitchen,Kitchen Appliances,Bajaj,11229.97,14852.48
+52,Fortune Staples Classic 3103,Groceries,Staples,Fortune,119.54,181.97
+53,Nike Footwear Value 3743,Fashion,Footwear,Nike,845.06,1257.66
+54,Lego Toys Standard 6944,Toys & Baby Products,Toys,Lego,1886.67,2185.05
+55,Lakme Skincare Deluxe 925,Beauty & Personal Care,Skincare,Lakme,587.40,892.55
+56,Puma Sportswear Compact 8293,Sports & Fitness,Sportswear,Puma,3525.59,4307.33
+57,Boat Headphones Premium 402,Electronics,Headphones,Boat,11844.48,14038.73
+58,Fisher-Price Toys Ultra 7180,Toys & Baby Products,Toys,Fisher-Price,3752.29,5628.17
+59,Adidas Sportswear Everyday 3354,Sports & Fitness,Sportswear,Adidas,4294.17,6089.24
+60,Bajaj Kitchen Appliance Classic 2226,Home & Kitchen,Kitchen Appliances,Bajaj,13515.28,20217.98
+61,Penguin Non-Fiction Pro 6340,Books & Stationery,Non-Fiction,Penguin,1120.77,1571.03
+62,Puma Sportswear Classic 7627,Sports & Fitness,Sportswear,Puma,1189.04,1451.90
+63,Sony Headphones Everyday 9063,Electronics,Headphones,Sony,1021.66,1529.50
+64,Lakme Makeup Premium 5594,Beauty & Personal Care,Makeup,Lakme,1352.49,1776.62
+65,Wow Haircare Premium 1588,Beauty & Personal Care,Haircare,Wow,604.84,689.76
+66,Bloomsbury Fiction Premium 5009,Books & Stationery,Fiction,Bloomsbury,299.68,361.04
+67,D'Decor Bedding Everyday 8196,Home & Kitchen,Bedding,D'Decor,1143.83,1630.95
+68,Wonderchef Cookware Elite 8382,Home & Kitchen,Cookware,Wonderchef,746.35,996.89
+69,TCL Television Essential 1494,Electronics,Televisions,TCL,18776.95,23702.49
+70,Fastrack Watches Standard 931,Fashion,Watches,Fastrack,8163.57,11480.43
+71,Johnson's Baby Care Compact 1248,Toys & Baby Products,Baby Care,Johnson's,1922.39,2549.74
+72,Wildcraft Bags Original 4231,Fashion,Bags,Wildcraft,5089.08,6135.66
+73,Tresemme Haircare Original 6367,Beauty & Personal Care,Haircare,Tresemme,217.85,328.89
+74,Cosco Fitness Equipment Pro 9925,Sports & Fitness,Fitness Equipment,Cosco,3336.89,4051.89
+75,Nike Sportswear Original 1093,Sports & Fitness,Sportswear,Nike,2631.11,4045.67
+76,Fabindia Women's Clothing Original 4865,Fashion,Women's Clothing,Fabindia,3684.34,4526.19
+77,Johnson's Baby Care Standard 3364,Toys & Baby Products,Baby Care,Johnson's,835.39,951.21
+78,Lego Toys Compact 1352,Toys & Baby Products,Toys,Lego,6585.16,8575.55
+79,Cosco Yoga & Accessories Max 1322,Sports & Fitness,Yoga & Accessories,Cosco,584.27,780.49
+80,Sprite Beverages Smart 4680,Groceries,Beverages,Sprite,602.40,725.36
+81,Johnson's Baby Care Lite 158,Toys & Baby Products,Baby Care,Johnson's,2424.56,3410.67
+82,Camlin Office Supplies Elite 5735,Books & Stationery,Office Supplies,Camlin,107.94,134.83
+83,Parle Snacks Ultra 3307,Groceries,Snacks,Parle,382.99,471.24
+84,India Gate Staple Sport 9753,Groceries,Staples,India Gate,1181.31,1701.14
+85,Boat Headphones Classic 4779,Electronics,Headphones,Boat,3419.76,5256.05
+86,Camlin Office Supplies Signature 7108,Books & Stationery,Office Supplies,Camlin,690.61,955.73
+87,Nivea Skincare Elite 7486,Beauty & Personal Care,Skincare,Nivea,1851.72,2152.36
+88,Decathlon Yoga & Accessorie Standard 2185,Sports & Fitness,Yoga & Accessories,Decathlon,1480.06,1815.72
+89,Montra Cycles Essential 5028,Sports & Fitness,Cycles,Montra,26379.01,30438.32
+90,Hawkins Cookware Smart 8244,Home & Kitchen,Cookware,Hawkins,2419.34,3154.44
+91,Britannia Dairy Plus 9074,Groceries,Dairy,Britannia,91.30,104.16
+92,Fortune Staple Essential 6134,Groceries,Staples,Fortune,738.43,1107.10
+93,Camlin Notebooks Smart 3540,Books & Stationery,Notebooks,Camlin,151.39,170.76
+94,Firefox Cycles Smart 8770,Sports & Fitness,Cycles,Firefox,33333.50,39906.31
+95,Decathlon Sportswear Sport 7404,Sports & Fitness,Sportswear,Decathlon,2372.11,2942.38
+96,Dell Laptops Elite 7854,Electronics,Laptops,Dell,70105.24,79423.07
+97,Himalaya Baby Care Ultra 3766,Toys & Baby Products,Baby Care,Himalaya,443.76,592.45
+98,Titan Watche Standard 747,Fashion,Watches,Titan,2021.22,2741.23
+99,Panasonic Televisions Advanced 2196,Electronics,Televisions,Panasonic,56712.30,73546.99
+100,Levi's Men's Clothing Advanced 8692,Fashion,Men's Clothing,Levi's,4022.76,4772.06
+101,Under Armour Sportswear Premium 271,Sports & Fitness,Sportswear,Under Armour,2879.15,4457.99
+102,Firefox Cycle Original 8722,Sports & Fitness,Cycles,Firefox,11256.59,17248.21
+103,Decathlon Fitness Equipment Max 8264,Sports & Fitness,Fitness Equipment,Decathlon,18830.60,26197.61
+104,Adidas Footwear Elite 6165,Fashion,Footwear,Adidas,2012.61,2244.76
+105,Nestle Dairy Sport 3345,Groceries,Dairy,Nestle,14.78,18.21
+106,Zara Women's Clothing Max 5207,Fashion,Women's Clothing,Zara,3961.27,4703.10
+107,Lego Toys Advanced 1885,Toys & Baby Products,Toys,Lego,3415.86,4045.37
+108,Nivea Fragrance Classic 9845,Beauty & Personal Care,Fragrances,Nivea,1726.10,2064.11
+109,Philips Kitchen Appliances Classic 3116,Home & Kitchen,Kitchen Appliances,Philips,19147.10,28674.93
+110,Allen Solly Men's Clothing Everyday 3224,Fashion,Men's Clothing,Allen Solly,983.26,1495.68
+111,Lego Toys Sport 6225,Toys & Baby Products,Toys,Lego,3058.03,3513.77
+112,Nike Footwear Signature 6984,Fashion,Footwear,Nike,7324.86,8465.12
+113,Park Avenue Fragrance Advanced 7185,Beauty & Personal Care,Fragrances,Park Avenue,3023.09,3591.65
+114,Lego Toy Signature 7874,Toys & Baby Products,Toys,Lego,2845.78,4169.98
+115,Bloomsbury Fiction Classic 7703,Books & Stationery,Fiction,Bloomsbury,108.82,164.76
+116,Nike Sportswear Value 5655,Sports & Fitness,Sportswear,Nike,2041.59,2553.49
+117,Skullcandy Headphone Everyday 4615,Electronics,Headphones,Skullcandy,15416.93,21090.45
+118,Allen Solly Men's Clothing Ultra 7885,Fashion,Men's Clothing,Allen Solly,3108.66,4071.06
+119,Parker Office Supplies Original 2274,Books & Stationery,Office Supplies,Parker,160.25,234.14
+120,Under Armour Sportswear Essential 5470,Sports & Fitness,Sportswear,Under Armour,4433.15,5795.68
+121,American Tourister Bag Sport 2720,Fashion,Bags,American Tourister,721.24,804.36
+122,Red Label Beverage Ultra 1282,Groceries,Beverages,Red Label,87.34,99.86
+123,Mee Mee Diaper Lite 3937,Toys & Baby Products,Diapers,Mee Mee,651.65,978.17
+124,Ponds Skincare Advanced 4677,Beauty & Personal Care,Skincare,Ponds,1711.73,2170.19
+125,Decathlon Sportswear Essential 3143,Sports & Fitness,Sportswear,Decathlon,1476.97,1726.57
+126,Maybelline Makeup Sport 4223,Beauty & Personal Care,Makeup,Maybelline,3374.16,4481.88
+127,Himalaya Skincare Compact 706,Beauty & Personal Care,Skincare,Himalaya,357.67,469.86
+128,Park Avenue Fragrance Classic 4911,Beauty & Personal Care,Fragrances,Park Avenue,299.01,409.72
+129,Ponds Skincare Smart 3012,Beauty & Personal Care,Skincare,Ponds,1368.45,1665.38
+130,Vivo Mobile Phones Max 713,Electronics,Mobile Phones,Vivo,14936.19,17800.80
+131,Cosco Fitness Equipment Premium 5461,Sports & Fitness,Fitness Equipment,Cosco,8832.63,11193.71
+132,Cosco Fitness Equipment Classic 8220,Sports & Fitness,Fitness Equipment,Cosco,11754.15,13264.23
+133,Timex Watche Plus 8849,Fashion,Watches,Timex,2487.97,3515.33
+134,Reynolds Office Supplies Elite 941,Books & Stationery,Office Supplies,Reynolds,483.66,609.77
+135,Rupa Fiction Max 6501,Books & Stationery,Fiction,Rupa,634.36,755.94
+136,Boat Smartwatches Elite 1960,Electronics,Smartwatches,Boat,12512.50,18734.68
+137,Hot Wheels Toys Premium 946,Toys & Baby Products,Toys,Hot Wheels,4388.11,6623.45
+138,Fossil Bag Signature 8365,Fashion,Bags,Fossil,2304.33,2702.55
+139,Prestige Cookware Sport 8136,Home & Kitchen,Cookware,Prestige,3246.18,4727.95
+140,Lakme Makeup Classic 8009,Beauty & Personal Care,Makeup,Lakme,1130.40,1552.54
+141,HarperCollins Fiction Essential 6727,Books & Stationery,Fiction,HarperCollins,544.88,647.46
+142,Barbie Toys Max 783,Toys & Baby Products,Toys,Barbie,3564.33,4536.00
+143,W Women's Clothing Max 773,Fashion,Women's Clothing,W,4534.75,6707.43
+144,Sony Televisions Ultra 6487,Electronics,Televisions,Sony,58804.98,81278.42
+145,Boldfit Yoga & Accessories Superior 4183,Sports & Fitness,Yoga & Accessories,Boldfit,2280.24,2966.72
+146,Funskool Toys Premium 8119,Toys & Baby Products,Toys,Funskool,3087.44,4255.60
+147,Fisher-Price Toy Sport 1854,Toys & Baby Products,Toys,Fisher-Price,2495.35,3155.12
+148,Pampers Diaper Classic 2234,Toys & Baby Products,Diapers,Pampers,966.39,1401.20
+149,H&M Men's Clothing Sport 2331,Fashion,Men's Clothing,H&M,343.08,387.63
+150,W Women's Clothing Original 4816,Fashion,Women's Clothing,W,4888.43,7392.37
+151,Nilkamal Furniture Signature 4232,Home & Kitchen,Furniture,Nilkamal,6829.46,10267.69
+152,Cosco Yoga & Accessories Deluxe 8328,Sports & Fitness,Yoga & Accessories,Cosco,1694.03,2314.64
+153,MAC Makeup Classic 3359,Beauty & Personal Care,Makeup,MAC,692.09,811.52
+154,Montra Cycle Lite 4430,Sports & Fitness,Cycles,Montra,21426.07,29703.90
+155,Amul Dairy Deluxe 8876,Groceries,Dairy,Amul,271.56,346.90
+156,Parle Snack Signature 9559,Groceries,Snacks,Parle,144.34,164.06
+157,Wow Haircare Classic 4955,Beauty & Personal Care,Haircare,Wow,1752.13,2127.34
+158,Tata Staple Essential 2547,Groceries,Staples,Tata,808.14,1040.85
+159,Aashirvaad Staples Original 3823,Groceries,Staples,Aashirvaad,86.14,96.86
+160,Lays Snacks Smart 5951,Groceries,Snacks,Lays,178.80,220.91
+161,Urban Ladder Furniture Value 7880,Home & Kitchen,Furniture,Urban Ladder,6824.08,7549.82
+162,Tresemme Haircare Ultra 1143,Beauty & Personal Care,Haircare,Tresemme,1377.14,2054.81
+163,Boldfit Yoga & Accessories Premium 1019,Sports & Fitness,Yoga & Accessories,Boldfit,1963.71,2469.65
+164,Mee Mee Diapers Essential 2804,Toys & Baby Products,Diapers,Mee Mee,170.21,227.94
+165,HarperCollins Non-Fiction Lite 1056,Books & Stationery,Non-Fiction,HarperCollins,1169.59,1341.76
+166,Tresemme Haircare Max 8591,Beauty & Personal Care,Haircare,Tresemme,1314.94,1746.41
+167,Westland Non-Fiction Pro 5019,Books & Stationery,Non-Fiction,Westland,831.01,1285.85
+168,Pampers Diapers Sport 7254,Toys & Baby Products,Diapers,Pampers,656.67,941.52
+169,Hot Wheels Toy Ultra 4383,Toys & Baby Products,Toys,Hot Wheels,349.86,437.66
+170,Reebok Fitness Equipment Standard 7244,Sports & Fitness,Fitness Equipment,Reebok,14647.08,22157.71
+171,Firefox Cycle Pro 8413,Sports & Fitness,Cycles,Firefox,11733.77,14153.85
+172,Loreal Haircare Max 6468,Beauty & Personal Care,Haircare,Loreal,737.78,890.96
+173,Sebamed Baby Care Premium 534,Toys & Baby Products,Baby Care,Sebamed,1147.95,1637.07
+174,Decathlon Sportswear Value 9690,Sports & Fitness,Sportswear,Decathlon,672.83,1015.88
+175,Prestige Cookware Ultra 1847,Home & Kitchen,Cookware,Prestige,2710.66,3179.10
+176,Prestige Cookware Classic 2367,Home & Kitchen,Cookware,Prestige,2998.21,4153.26
+177,Levi's Men's Clothing Superior 6054,Fashion,Men's Clothing,Levi's,1038.59,1588.59
+178,Titan Watche Essential 3470,Fashion,Watches,Titan,894.89,1366.64
+179,Bata Footwear Ultra 2273,Fashion,Footwear,Bata,1072.79,1545.69
+180,MAC Makeup Everyday 7042,Beauty & Personal Care,Makeup,MAC,953.77,1199.76
+181,Reebok Fitness Equipment Everyday 9963,Sports & Fitness,Fitness Equipment,Reebok,10823.22,16052.14
+182,Noise Smartwatches Elite 8597,Electronics,Smartwatches,Noise,10787.07,15286.32
+183,Mamaearth Skincare Advanced 2891,Beauty & Personal Care,Skincare,Mamaearth,1330.40,1776.88
+184,Decathlon Fitness Equipment Signature 8141,Sports & Fitness,Fitness Equipment,Decathlon,2249.88,3178.73
+185,Morphy Richards Kitchen Appliance Signature 8540,Home & Kitchen,Kitchen Appliances,Morphy Richards,20090.88,24665.14
+186,Tresemme Haircare Lite 1900,Beauty & Personal Care,Haircare,Tresemme,1997.60,2886.67
+187,Pampers Diaper Everyday 5926,Toys & Baby Products,Diapers,Pampers,1191.59,1788.97
+188,Titan Watches Signature 3477,Fashion,Watches,Titan,5731.96,7710.76
+189,Prestige Kitchen Appliances Compact 2178,Home & Kitchen,Kitchen Appliances,Prestige,16179.78,23280.19
+190,Sennheiser Headphone Everyday 8648,Electronics,Headphones,Sennheiser,17963.07,25111.39
+191,Red Label Beverages Compact 4314,Groceries,Beverages,Red Label,122.25,159.89
+192,Loreal Haircare Advanced 2632,Beauty & Personal Care,Haircare,Loreal,1552.91,2389.37
+193,Haldiram's Snacks Essential 5475,Groceries,Snacks,Haldiram's,114.17,174.65
+194,Fabindia Women's Clothing Ultra 3301,Fashion,Women's Clothing,Fabindia,2106.68,3250.02
+195,Montra Cycle Deluxe 3314,Sports & Fitness,Cycles,Montra,35073.73,43013.08
+196,Classmate Notebooks Premium 6637,Books & Stationery,Notebooks,Classmate,191.92,230.32
+197,Decathlon Yoga & Accessories Plus 4314,Sports & Fitness,Yoga & Accessories,Decathlon,1446.76,2073.82
+198,Navneet Notebooks Superior 3845,Books & Stationery,Notebooks,Navneet,276.41,360.51
+199,Lays Snacks Elite 4071,Groceries,Snacks,Lays,304.20,420.81
+200,Strauss Yoga & Accessories Compact 422,Sports & Fitness,Yoga & Accessories,Strauss,1461.95,2052.37
+201,Homesake Home Decor Sport 8125,Home & Kitchen,Home Decor,Homesake,3870.01,4442.27
+202,Adidas Sportswear Max 8606,Sports & Fitness,Sportswear,Adidas,1970.71,2919.06
+203,Huggies Diaper Original 8491,Toys & Baby Products,Diapers,Huggies,1034.62,1310.30
+204,Britannia Dairy Max 3111,Groceries,Dairy,Britannia,173.77,250.78
+205,Skybags Bag Classic 4236,Fashion,Bags,Skybags,2593.53,2868.42
+206,Oxford Notebook Superior 4444,Books & Stationery,Notebooks,Oxford,137.09,175.50
+207,Nivea Fragrance Max 2795,Beauty & Personal Care,Fragrances,Nivea,3319.89,4861.34
+208,Axe Fragrances Essential 2496,Beauty & Personal Care,Fragrances,Axe,2746.63,4033.25
+209,Oxford Notebooks Standard 2150,Books & Stationery,Notebooks,Oxford,205.46,298.46
+210,Nykaa Makeup Deluxe 7081,Beauty & Personal Care,Makeup,Nykaa,2336.12,3075.98
+211,Firefox Cycles Advanced 5348,Sports & Fitness,Cycles,Firefox,17761.14,24630.89
+212,Bru Beverage Sport 1034,Groceries,Beverages,Bru,487.00,606.85
+213,Raymond Home Bedding Superior 345,Home & Kitchen,Bedding,Raymond Home,4013.00,4793.07
+214,Puma Footwear Value 1763,Fashion,Footwear,Puma,4576.43,6793.15
+215,Bajaj Kitchen Appliances Plus 3516,Home & Kitchen,Kitchen Appliances,Bajaj,16947.95,19923.35
+216,Skybags Bags Max 8201,Fashion,Bags,Skybags,3326.41,4769.61
+217,Pampers Diaper Standard 2040,Toys & Baby Products,Diapers,Pampers,389.81,453.24
+218,Pampers Diapers Original 7752,Toys & Baby Products,Diapers,Pampers,928.21,1124.02
+219,Bombay Dyeing Bedding Lite 5354,Home & Kitchen,Bedding,Bombay Dyeing,2943.26,3982.69
+220,Boldfit Yoga & Accessories Elite 6961,Sports & Fitness,Yoga & Accessories,Boldfit,2336.34,2759.76
+221,Tata Staples Value 851,Groceries,Staples,Tata,1188.88,1484.56
+222,Puma Bag Original 2467,Fashion,Bags,Puma,4373.87,6041.95
+223,Fortune Staples Everyday 7874,Groceries,Staples,Fortune,719.15,1086.31
+224,Boldfit Yoga & Accessories Elite 4221,Sports & Fitness,Yoga & Accessories,Boldfit,2830.85,3487.03
+225,Mee Mee Baby Care Smart 4551,Toys & Baby Products,Baby Care,Mee Mee,2232.86,2802.61
+226,Fogg Fragrances Everyday 3250,Beauty & Personal Care,Fragrances,Fogg,1334.08,1819.55
+227,Peter England Men's Clothing Standard 6752,Fashion,Men's Clothing,Peter England,2426.32,2723.22
+228,Decathlon Fitness Equipment Classic 3211,Sports & Fitness,Fitness Equipment,Decathlon,17509.30,23003.26
+229,GoPro Cameras Value 6261,Electronics,Cameras,GoPro,65726.35,92896.41
+230,Biba Women's Clothing Compact 2949,Fashion,Women's Clothing,Biba,731.99,864.91
+231,Noise Smartwatches Premium 6143,Electronics,Smartwatches,Noise,4746.34,5881.69
+232,Firefox Cycles Elite 661,Sports & Fitness,Cycles,Firefox,17839.36,24775.20
+233,Samsung Smartwatches Smart 745,Electronics,Smartwatches,Samsung,23182.75,29893.74
+234,Classmate Notebooks Premium 6442,Books & Stationery,Notebooks,Classmate,421.32,588.47
+235,Havells Kitchen Appliance Standard 1771,Home & Kitchen,Kitchen Appliances,Havells,10350.46,15557.75
+236,Noise Smartwatches Premium 2093,Electronics,Smartwatches,Noise,25641.30,30723.67
+237,Zara Women's Clothing Premium 4612,Fashion,Women's Clothing,Zara,3735.27,4516.02
+238,Pigeon Cookware Plus 1481,Home & Kitchen,Cookware,Pigeon,1372.42,1853.96
+239,Mee Mee Baby Care Classic 623,Toys & Baby Products,Baby Care,Mee Mee,87.79,97.15
+240,Casio Watche Advanced 9932,Fashion,Watches,Casio,11043.99,14565.34
+241,Sony Headphones Superior 7288,Electronics,Headphones,Sony,3787.55,5813.36
+242,Skechers Footwear Lite 6947,Fashion,Footwear,Skechers,3836.34,5563.23
+243,Sebamed Baby Care Everyday 4890,Toys & Baby Products,Baby Care,Sebamed,756.30,1043.56
+244,Aashirvaad Staples Value 5156,Groceries,Staples,Aashirvaad,1244.76,1507.09
+245,Navneet Notebooks Compact 4741,Books & Stationery,Notebooks,Navneet,144.52,176.40
+246,Bombay Dyeing Bedding Advanced 2404,Home & Kitchen,Bedding,Bombay Dyeing,4885.60,7280.73
+247,Pepperfry Home Decor Signature 8858,Home & Kitchen,Home Decor,Pepperfry,470.69,635.03
+248,HarperCollins Non-Fiction Advanced 1043,Books & Stationery,Non-Fiction,HarperCollins,892.26,1168.32
+249,Sugar Makeup Premium 6407,Beauty & Personal Care,Makeup,Sugar,1610.95,1835.62
+250,Aashirvaad Staples Sport 9596,Groceries,Staples,Aashirvaad,352.46,519.88
+251,Mother Dairy Dairy Max 3584,Groceries,Dairy,Mother Dairy,91.26,107.81
+252,Decathlon Cycles Superior 5980,Sports & Fitness,Cycles,Decathlon,20941.95,24440.39
+253,Fire-Boltt Smartwatches Ultra 6189,Electronics,Smartwatches,Fire-Boltt,23576.70,27591.10
+254,Sony Headphone Smart 437,Electronics,Headphones,Sony,4587.29,6843.53
+255,Huggies Diapers Deluxe 4684,Toys & Baby Products,Diapers,Huggies,1212.37,1752.19
+256,Homesake Home Decor Everyday 3393,Home & Kitchen,Home Decor,Homesake,4226.91,5368.98
+257,Samsung Mobile Phones Standard 6156,Electronics,Mobile Phones,Samsung,37658.74,57476.37
+258,Puma Bag Ultra 1573,Fashion,Bags,Puma,3514.68,4879.38
+259,Rupa Non-Fiction Lite 6177,Books & Stationery,Non-Fiction,Rupa,1233.59,1907.47
+260,Dove Haircare Deluxe 5867,Beauty & Personal Care,Haircare,Dove,181.79,245.20
+261,Realme Mobile Phone Smart 8020,Electronics,Mobile Phones,Realme,15181.99,21857.93
+262,Sugar Makeup Superior 7329,Beauty & Personal Care,Makeup,Sugar,2597.85,2980.88
+263,Britannia Snacks Sport 2133,Groceries,Snacks,Britannia,164.75,213.95
+264,Milton Cookware Max 690,Home & Kitchen,Cookware,Milton,818.17,1206.62
+265,Skybags Bags Plus 7427,Fashion,Bags,Skybags,5535.17,7047.86
+266,Samsung Televisions Compact 5666,Electronics,Televisions,Samsung,28452.66,32778.16
+267,Bru Beverage Essential 1029,Groceries,Beverages,Bru,392.83,589.33
+268,Lego Toy Elite 6846,Toys & Baby Products,Toys,Lego,259.96,352.75
+269,Firefox Cycle Deluxe 8144,Sports & Fitness,Cycles,Firefox,18753.89,24700.68
+270,Bombay Dyeing Bedding Max 9274,Home & Kitchen,Bedding,Bombay Dyeing,2996.90,3682.61
+271,Puma Sportswear Elite 4384,Sports & Fitness,Sportswear,Puma,5089.96,7717.84
+272,Casio Watche Elite 2757,Fashion,Watches,Casio,9393.66,11573.80
+273,Samsung Smartwatche Everyday 8468,Electronics,Smartwatches,Samsung,775.83,1143.96
+274,Puma Sportswear Elite 764,Sports & Fitness,Sportswear,Puma,4676.68,5603.69
+275,Godrej Interio Furniture Smart 3875,Home & Kitchen,Furniture,Godrej Interio,27478.77,32659.07
+276,H&M Men's Clothing Original 4587,Fashion,Men's Clothing,H&M,942.38,1094.73
+277,Lakme Makeup Premium 1176,Beauty & Personal Care,Makeup,Lakme,2380.55,3175.19
+278,Sony Cameras Everyday 4716,Electronics,Cameras,Sony,88829.92,117420.51
+279,Apple Smartwatche Plus 4462,Electronics,Smartwatches,Apple,17067.59,26345.04
+280,Apple Laptops Signature 9519,Electronics,Laptops,Apple,15521.94,20705.03
+281,Pampers Diapers Ultra 5944,Toys & Baby Products,Diapers,Pampers,1062.29,1582.25
+282,Amul Dairy Advanced 1864,Groceries,Dairy,Amul,405.21,535.96
+283,GoPro Camera Plus 438,Electronics,Cameras,GoPro,13410.58,18487.63
+284,Pigeon Cookware Deluxe 9199,Home & Kitchen,Cookware,Pigeon,3505.01,3902.95
+285,Vero Moda Women's Clothing Premium 9920,Fashion,Women's Clothing,Vero Moda,3334.27,4363.80
+286,Fogg Fragrances Signature 1638,Beauty & Personal Care,Fragrances,Fogg,277.30,320.38
+287,MamyPoko Diaper Ultra 2099,Toys & Baby Products,Diapers,MamyPoko,1140.70,1532.79
+288,Pantene Haircare Superior 7670,Beauty & Personal Care,Haircare,Pantene,1600.90,1879.37
+289,Mi Televisions Elite 9881,Electronics,Televisions,Mi,56459.08,72156.68
+290,Sony Headphones Sport 4038,Electronics,Headphones,Sony,15290.32,22619.92
+291,Amul Dairy Everyday 8576,Groceries,Dairy,Amul,72.43,101.85
+292,Red Label Beverage Premium 6070,Groceries,Beverages,Red Label,173.35,215.99
+293,Lakme Skincare Plus 6993,Beauty & Personal Care,Skincare,Lakme,2885.82,4182.89
+294,Pampers Diapers Classic 663,Toys & Baby Products,Diapers,Pampers,836.41,1265.55
+295,Decathlon Fitness Equipment Deluxe 2093,Sports & Fitness,Fitness Equipment,Decathlon,11171.32,14468.66
+296,Boat Headphones Advanced 5794,Electronics,Headphones,Boat,2821.99,3858.87
+297,Nivia Fitness Equipment Superior 8846,Sports & Fitness,Fitness Equipment,Nivia,19819.73,25725.80
+298,Pepperfry Home Decor Superior 4823,Home & Kitchen,Home Decor,Pepperfry,1251.41,1790.98
+299,Cosco Yoga & Accessories Sport 3396,Sports & Fitness,Yoga & Accessories,Cosco,1322.46,1985.42
+300,Strauss Yoga & Accessorie Advanced 607,Sports & Fitness,Yoga & Accessories,Strauss,846.13,1125.86
+301,Classmate Notebooks Signature 2759,Books & Stationery,Notebooks,Classmate,110.31,148.98
+302,Mee Mee Baby Care Max 4941,Toys & Baby Products,Baby Care,Mee Mee,201.09,223.17
+303,Skybags Bags Compact 1116,Fashion,Bags,Skybags,5023.10,6325.84
+304,American Tourister Bags Plus 6928,Fashion,Bags,American Tourister,2329.53,3270.44
+305,Nivia Fitness Equipment Deluxe 2185,Sports & Fitness,Fitness Equipment,Nivia,8917.49,10223.99
+306,Bloomsbury Fiction Sport 9470,Books & Stationery,Fiction,Bloomsbury,177.57,263.25
+307,Nivia Fitness Equipment Compact 7602,Sports & Fitness,Fitness Equipment,Nivia,6291.78,7919.32
+308,Britannia Dairy Everyday 210,Groceries,Dairy,Britannia,336.39,498.64
+309,Pampers Baby Care Advanced 3118,Toys & Baby Products,Baby Care,Pampers,1396.08,2040.14
+310,Navneet Notebooks Pro 5508,Books & Stationery,Notebooks,Navneet,359.60,531.19
+311,Red Label Beverage Premium 519,Groceries,Beverages,Red Label,487.28,645.07
+312,Strauss Yoga & Accessories Sport 7706,Sports & Fitness,Yoga & Accessories,Strauss,2069.93,2603.97
+313,Samsung Television Smart 3856,Electronics,Televisions,Samsung,41943.90,53705.06
+314,Durian Furniture Original 6680,Home & Kitchen,Furniture,Durian,17339.77,23947.46
+315,Aashirvaad Staples Signature 5311,Groceries,Staples,Aashirvaad,122.86,152.33
+316,Pigeon Cookware Everyday 8437,Home & Kitchen,Cookware,Pigeon,3793.92,4891.88
+317,Raymond Home Bedding Smart 3504,Home & Kitchen,Bedding,Raymond Home,3151.89,3733.88
+318,Wonderchef Cookware Value 1846,Home & Kitchen,Cookware,Wonderchef,1616.77,2501.45
+319,Mi Televisions Premium 145,Electronics,Televisions,Mi,72307.00,79665.02
+320,Decathlon Yoga & Accessories Superior 352,Sports & Fitness,Yoga & Accessories,Decathlon,764.36,1012.05
+321,Under Armour Sportswear Max 6835,Sports & Fitness,Sportswear,Under Armour,3187.61,3714.87
+322,Levi's Men's Clothing Pro 2894,Fashion,Men's Clothing,Levi's,4039.99,5335.58
+323,Mee Mee Diapers Classic 304,Toys & Baby Products,Diapers,Mee Mee,787.82,917.63
+324,MAC Makeup Lite 638,Beauty & Personal Care,Makeup,MAC,971.81,1112.49
+325,Adidas Footwear Compact 6418,Fashion,Footwear,Adidas,501.90,601.79
+326,Bloomsbury Fiction Classic 4004,Books & Stationery,Fiction,Bloomsbury,256.31,287.01
+327,Homesake Home Decor Compact 5075,Home & Kitchen,Home Decor,Homesake,1847.19,2241.35
+328,Hot Wheels Toy Sport 9681,Toys & Baby Products,Toys,Hot Wheels,2163.77,3232.43
+329,Hot Wheels Toy Pro 2942,Toys & Baby Products,Toys,Hot Wheels,2632.46,2904.74
+330,Boldfit Yoga & Accessories Ultra 5588,Sports & Fitness,Yoga & Accessories,Boldfit,1384.06,1773.59
+331,Peter England Men's Clothing Signature 9174,Fashion,Men's Clothing,Peter England,1221.53,1448.78
+332,Firefox Cycle Elite 672,Sports & Fitness,Cycles,Firefox,3305.85,4833.79
+333,Dove Haircare Max 4518,Beauty & Personal Care,Haircare,Dove,1184.41,1722.56
+334,Himalaya Baby Care Lite 6127,Toys & Baby Products,Baby Care,Himalaya,938.08,1336.87
+335,Westland Non-Fiction Original 8371,Books & Stationery,Non-Fiction,Westland,331.62,492.87
+336,Pepperfry Home Decor Superior 6129,Home & Kitchen,Home Decor,Pepperfry,2327.42,2983.44
+337,Dove Haircare Smart 1598,Beauty & Personal Care,Haircare,Dove,1179.72,1441.24
+338,HarperCollins Fiction Advanced 345,Books & Stationery,Fiction,HarperCollins,367.35,418.31
+339,Urban Ladder Furniture Max 1885,Home & Kitchen,Furniture,Urban Ladder,3442.26,5202.05
+340,Nike Sportswear Advanced 1540,Sports & Fitness,Sportswear,Nike,1386.18,1603.48
+341,Reynolds Office Supplies Sport 7709,Books & Stationery,Office Supplies,Reynolds,750.30,1116.12
+342,Chumbak Home Decor Premium 6106,Home & Kitchen,Home Decor,Chumbak,2926.08,4092.49
+343,Amul Dairy Compact 4170,Groceries,Dairy,Amul,424.13,542.98
+344,Vero Moda Women's Clothing Ultra 4538,Fashion,Women's Clothing,Vero Moda,4674.83,6686.52
+345,Noise Smartwatches Value 2754,Electronics,Smartwatches,Noise,22694.54,26559.08
+346,Sony Cameras Lite 9349,Electronics,Cameras,Sony,60220.06,85662.16
+347,Boldfit Yoga & Accessories Premium 1932,Sports & Fitness,Yoga & Accessories,Boldfit,2666.04,3276.16
+348,GoPro Cameras Classic 4105,Electronics,Cameras,GoPro,8409.11,10455.46
+349,India Gate Staple Sport 3717,Groceries,Staples,India Gate,141.34,215.67
+350,Oxford Notebooks Smart 7518,Books & Stationery,Notebooks,Oxford,290.86,346.90
+351,Prestige Kitchen Appliance Classic 9260,Home & Kitchen,Kitchen Appliances,Prestige,11882.96,18255.04
+352,Lakme Makeup Classic 2853,Beauty & Personal Care,Makeup,Lakme,1273.71,1637.02
+353,Lakme Makeup Plus 8069,Beauty & Personal Care,Makeup,Lakme,2308.04,2785.90
+354,Mamaearth Skincare Compact 2280,Beauty & Personal Care,Skincare,Mamaearth,2787.15,3506.67
+355,Adidas Sportswear Superior 9328,Sports & Fitness,Sportswear,Adidas,1455.04,2012.66
+356,Puma Bags Lite 2636,Fashion,Bags,Puma,2937.27,4243.69
+357,Himalaya Skincare Advanced 302,Beauty & Personal Care,Skincare,Himalaya,1110.11,1324.25
+358,Sony Headphones Max 1911,Electronics,Headphones,Sony,9685.98,11147.06
+359,Britannia Dairy Superior 6046,Groceries,Dairy,Britannia,131.32,177.40
+360,Motorola Mobile Phones Original 1475,Electronics,Mobile Phones,Motorola,28584.69,40948.97
+361,Nivia Fitness Equipment Elite 8101,Sports & Fitness,Fitness Equipment,Nivia,4227.39,5683.23
+362,Boat Headphones Advanced 4219,Electronics,Headphones,Boat,1937.13,2782.41
+363,Boat Smartwatche Advanced 6127,Electronics,Smartwatches,Boat,19244.07,28492.31
+364,Pigeon Cookware Value 5452,Home & Kitchen,Cookware,Pigeon,1723.36,2397.69
+365,Haldiram's Snacks Signature 2333,Groceries,Snacks,Haldiram's,160.41,236.47
+366,Nivea Skincare Ultra 9387,Beauty & Personal Care,Skincare,Nivea,2399.32,3633.73
+367,HarperCollins Fiction Original 7030,Books & Stationery,Fiction,HarperCollins,453.90,531.46
+368,Cosco Fitness Equipment Essential 2781,Sports & Fitness,Fitness Equipment,Cosco,3145.17,4360.91
+369,Penguin Fiction Compact 7954,Books & Stationery,Fiction,Penguin,210.10,299.45
+370,Oppo Mobile Phone Plus 4740,Electronics,Mobile Phones,Oppo,8764.89,12444.82
+371,India Gate Staples Premium 2988,Groceries,Staples,India Gate,234.12,288.69
+372,MamyPoko Diapers Superior 3301,Toys & Baby Products,Diapers,MamyPoko,746.11,994.23
+373,Rupa Non-Fiction Value 1434,Books & Stationery,Non-Fiction,Rupa,1050.41,1183.81
+374,Bingo Snacks Superior 6999,Groceries,Snacks,Bingo,207.02,288.03
+375,Decathlon Cycle Premium 3194,Sports & Fitness,Cycles,Decathlon,28918.67,40807.48
+376,Raymond Home Bedding Standard 9615,Home & Kitchen,Bedding,Raymond Home,5628.12,7102.69
+377,Nivea Fragrance Deluxe 1971,Beauty & Personal Care,Fragrances,Nivea,4118.24,4905.94
+378,Vero Moda Women's Clothing Ultra 3172,Fashion,Women's Clothing,Vero Moda,2818.84,3419.80
+379,Barbie Toys Compact 3811,Toys & Baby Products,Toys,Barbie,4764.24,6817.70
+380,Titan Watches Compact 2300,Fashion,Watches,Titan,7235.14,10285.27
+381,Wildcraft Bags Compact 6521,Fashion,Bags,Wildcraft,5770.06,6844.68
+382,Hot Wheels Toys Signature 1042,Toys & Baby Products,Toys,Hot Wheels,406.25,454.50
+383,Park Avenue Fragrances Ultra 2321,Beauty & Personal Care,Fragrances,Park Avenue,3785.87,5222.71
+384,Himalaya Skincare Signature 2852,Beauty & Personal Care,Skincare,Himalaya,1129.06,1669.50
+385,Boat Headphones Essential 6211,Electronics,Headphones,Boat,11292.65,14235.87
+386,Barbie Toys Signature 1732,Toys & Baby Products,Toys,Barbie,2285.92,3134.85
+387,LG Television Deluxe 5905,Electronics,Televisions,LG,48889.73,72218.59
+388,Funskool Toy Original 1909,Toys & Baby Products,Toys,Funskool,1823.35,2128.96
+389,Cosco Yoga & Accessories Superior 4200,Sports & Fitness,Yoga & Accessories,Cosco,2380.85,3484.82
+390,Funskool Toys Everyday 2572,Toys & Baby Products,Toys,Funskool,3336.71,3717.89
+391,OnePlus Mobile Phones Value 9929,Electronics,Mobile Phones,OnePlus,38911.78,45574.55
+392,Himalaya Baby Care Value 8570,Toys & Baby Products,Baby Care,Himalaya,248.33,309.96
+393,Lakme Makeup Superior 815,Beauty & Personal Care,Makeup,Lakme,789.02,1158.77
+394,Sebamed Baby Care Compact 6455,Toys & Baby Products,Baby Care,Sebamed,2393.32,2971.22
+395,Nestle Dairy Essential 436,Groceries,Dairy,Nestle,114.52,171.13
+396,LG Televisions Plus 4567,Electronics,Televisions,LG,12094.36,18699.24
+397,Nescafe Beverages Standard 1660,Groceries,Beverages,Nescafe,661.42,916.00
+398,Puma Footwear Essential 2412,Fashion,Footwear,Puma,5326.15,6587.38
+399,Bingo Snacks Essential 5841,Groceries,Snacks,Bingo,305.27,381.73
+400,Parle Snacks Smart 6117,Groceries,Snacks,Parle,344.37,533.26
+401,Godrej Interio Furniture Premium 7524,Home & Kitchen,Furniture,Godrej Interio,16025.70,20484.59
+402,Under Armour Sportswear Pro 2456,Sports & Fitness,Sportswear,Under Armour,1746.47,2163.57
+403,Aashirvaad Staples Superior 1411,Groceries,Staples,Aashirvaad,408.10,513.83
+404,Pampers Baby Care Pro 8038,Toys & Baby Products,Baby Care,Pampers,854.27,1007.06
+405,Cosco Fitness Equipment Deluxe 3981,Sports & Fitness,Fitness Equipment,Cosco,15039.16,18020.55
+406,Navneet Notebooks Value 4730,Books & Stationery,Notebooks,Navneet,279.11,331.73
+407,Acer Laptop Classic 1399,Electronics,Laptops,Acer,106841.14,145193.57
+408,Hawkins Cookware Deluxe 8897,Home & Kitchen,Cookware,Hawkins,2794.16,3092.44
+409,Aashirvaad Staples Everyday 5453,Groceries,Staples,Aashirvaad,63.11,83.24
+410,Nescafe Beverage Elite 844,Groceries,Beverages,Nescafe,527.09,763.85
+411,Parker Office Supplies Premium 521,Books & Stationery,Office Supplies,Parker,481.65,743.86
+412,Samsung Smartwatche Everyday 2667,Electronics,Smartwatches,Samsung,5254.24,6116.96
+413,Puma Footwear Elite 5737,Fashion,Footwear,Puma,4286.10,5849.76
+414,Raymond Home Bedding Essential 4324,Home & Kitchen,Bedding,Raymond Home,4895.21,6436.73
+415,Sony Televisions Standard 7524,Electronics,Televisions,Sony,40690.07,54456.96
+416,Puma Sportswear Premium 9244,Sports & Fitness,Sportswear,Puma,2582.95,3602.98
+417,Tata Tea Beverages Sport 1573,Groceries,Beverages,Tata Tea,536.94,620.16
+418,Loreal Haircare Value 6090,Beauty & Personal Care,Haircare,Loreal,1582.35,2383.48
+419,Bombay Dyeing Bedding Signature 4074,Home & Kitchen,Bedding,Bombay Dyeing,2794.09,4154.60
+420,Nykaa Makeup Compact 3574,Beauty & Personal Care,Makeup,Nykaa,1161.20,1749.44
+421,Levi's Men's Clothing Sport 5845,Fashion,Men's Clothing,Levi's,479.93,649.77
+422,Navneet Notebook Premium 4227,Books & Stationery,Notebooks,Navneet,304.32,367.87
+423,Bru Beverage Elite 4665,Groceries,Beverages,Bru,844.42,1011.17
+424,Bajaj Kitchen Appliance Plus 5016,Home & Kitchen,Kitchen Appliances,Bajaj,7445.66,9817.08
+425,Loreal Haircare Value 9890,Beauty & Personal Care,Haircare,Loreal,2035.01,2432.72
+426,MSI Laptops Signature 856,Electronics,Laptops,MSI,112126.66,132537.49
+427,Homesake Home Decor Ultra 2589,Home & Kitchen,Home Decor,Homesake,4143.17,4575.06
+428,Under Armour Sportswear Signature 1698,Sports & Fitness,Sportswear,Under Armour,3905.47,5112.32
+429,Bloomsbury Fiction Everyday 6599,Books & Stationery,Fiction,Bloomsbury,755.92,1164.76
+430,Nikon Camera Max 351,Electronics,Cameras,Nikon,53864.71,64865.66
+431,Penguin Fiction Classic 5285,Books & Stationery,Fiction,Penguin,110.38,126.90
+432,Barbie Toy Elite 142,Toys & Baby Products,Toys,Barbie,4688.20,5469.12
+433,Skybags Bags Original 1366,Fashion,Bags,Skybags,1561.96,2398.20
+434,Ponds Skincare Lite 349,Beauty & Personal Care,Skincare,Ponds,830.78,939.63
+435,Acer Laptops Classic 6786,Electronics,Laptops,Acer,122091.87,148981.82
+436,India Gate Staples Standard 4722,Groceries,Staples,India Gate,888.64,1370.33
+437,Strauss Yoga & Accessories Everyday 8947,Sports & Fitness,Yoga & Accessories,Strauss,3310.39,4218.05
+438,Navneet Notebooks Premium 4017,Books & Stationery,Notebooks,Navneet,393.77,478.27
+439,HarperCollins Non-Fiction Ultra 1522,Books & Stationery,Non-Fiction,HarperCollins,1088.21,1580.94
+440,Titan Smartwatches Standard 5414,Electronics,Smartwatches,Titan,13563.64,18997.31
+441,Pampers Diapers Original 7810,Toys & Baby Products,Diapers,Pampers,803.35,1243.30
+442,Park Avenue Fragrances Pro 6547,Beauty & Personal Care,Fragrances,Park Avenue,1197.60,1672.83
+443,Patanjali Staple Essential 4440,Groceries,Staples,Patanjali,1076.26,1599.29
+444,Mother Dairy Dairy Plus 1178,Groceries,Dairy,Mother Dairy,394.20,527.41
+445,Loreal Haircare Essential 2923,Beauty & Personal Care,Haircare,Loreal,374.19,523.04
+446,Pigeon Cookware Sport 6027,Home & Kitchen,Cookware,Pigeon,3565.92,5234.77
+447,Fossil Watche Deluxe 6246,Fashion,Watches,Fossil,4855.67,7096.30
+448,Decathlon Yoga & Accessorie Deluxe 6580,Sports & Fitness,Yoga & Accessories,Decathlon,1582.83,1820.74
+449,Huggies Diaper Smart 2555,Toys & Baby Products,Diapers,Huggies,270.12,356.55
+450,Sugar Makeup Everyday 6344,Beauty & Personal Care,Makeup,Sugar,926.32,1250.81
+451,Sony Camera Classic 9776,Electronics,Cameras,Sony,74607.15,91286.91
+452,Haldiram's Snack Deluxe 7277,Groceries,Snacks,Haldiram's,272.00,404.33
+453,Tresemme Haircare Advanced 6188,Beauty & Personal Care,Haircare,Tresemme,1960.04,2788.81
+454,Classmate Office Supplies Advanced 6783,Books & Stationery,Office Supplies,Classmate,518.16,629.86
+455,Axe Fragrances Plus 3239,Beauty & Personal Care,Fragrances,Axe,3632.31,4943.92
+456,Vero Moda Women's Clothing Pro 1409,Fashion,Women's Clothing,Vero Moda,3913.56,4973.08
+457,Classmate Notebooks Ultra 9812,Books & Stationery,Notebooks,Classmate,397.38,562.47
+458,Camlin Notebooks Lite 1166,Books & Stationery,Notebooks,Camlin,214.48,285.32
+459,LG Televisions Max 6681,Electronics,Televisions,LG,94874.74,116913.34
+460,Britannia Dairy Ultra 1575,Groceries,Dairy,Britannia,102.97,116.84
+461,Motorola Mobile Phones Pro 3632,Electronics,Mobile Phones,Motorola,8743.84,12297.70
+462,Amul Dairy Standard 6947,Groceries,Dairy,Amul,359.70,418.36
+463,HarperCollins Fiction Everyday 5577,Books & Stationery,Fiction,HarperCollins,209.65,323.28
+464,Raymond Home Bedding Smart 4398,Home & Kitchen,Bedding,Raymond Home,788.75,1003.82
+465,Strauss Yoga & Accessories Classic 5127,Sports & Fitness,Yoga & Accessories,Strauss,2962.21,4327.45
+466,Firefox Cycle Plus 953,Sports & Fitness,Cycles,Firefox,25783.06,39180.01
+467,Huggies Diaper Signature 5699,Toys & Baby Products,Diapers,Huggies,1181.05,1594.72
+468,Sony Television Premium 8833,Electronics,Televisions,Sony,97335.96,143134.87
+469,JBL Headphone Compact 4876,Electronics,Headphones,JBL,4686.19,7206.98
+470,Pampers Baby Care Max 3429,Toys & Baby Products,Baby Care,Pampers,203.10,263.05
+471,Allen Solly Men's Clothing Pro 9869,Fashion,Men's Clothing,Allen Solly,2232.84,2470.39
+472,Prestige Kitchen Appliances Advanced 3557,Home & Kitchen,Kitchen Appliances,Prestige,3881.92,5628.38
+473,The Body Shop Skincare Ultra 3403,Beauty & Personal Care,Skincare,The Body Shop,2345.30,3583.37
+474,Westland Non-Fiction Compact 7056,Books & Stationery,Non-Fiction,Westland,272.84,307.08
+475,Hawkins Cookware Compact 4910,Home & Kitchen,Cookware,Hawkins,3264.96,4876.62
+476,Bru Beverages Deluxe 5414,Groceries,Beverages,Bru,195.88,298.81
+477,Fogg Fragrance Everyday 6325,Beauty & Personal Care,Fragrances,Fogg,1300.14,1813.27
+478,Zara Women's Clothing Plus 3113,Fashion,Women's Clothing,Zara,2328.40,3272.59
+479,Van Heusen Men's Clothing Ultra 3548,Fashion,Men's Clothing,Van Heusen,4233.63,6446.73
+480,Bata Footwear Signature 391,Fashion,Footwear,Bata,5829.40,7714.91
+481,Zara Women's Clothing Deluxe 5063,Fashion,Women's Clothing,Zara,3144.45,4224.01
+482,W Women's Clothing Original 4542,Fashion,Women's Clothing,W,3970.59,5734.66
+483,Maybelline Makeup Superior 9910,Beauty & Personal Care,Makeup,Maybelline,422.58,465.09
+484,Loreal Haircare Classic 2917,Beauty & Personal Care,Haircare,Loreal,747.24,973.15
+485,MAC Makeup Lite 1896,Beauty & Personal Care,Makeup,MAC,2696.58,3328.13
+486,Puma Bag Ultra 9136,Fashion,Bags,Puma,1261.42,1610.80
+487,Samsung Mobile Phone Smart 9590,Electronics,Mobile Phones,Samsung,51176.35,59333.15
+488,Fortune Staple Lite 5989,Groceries,Staples,Fortune,1201.39,1500.82
+489,Himalaya Baby Care Deluxe 1640,Toys & Baby Products,Baby Care,Himalaya,324.65,391.99
+490,Bajaj Kitchen Appliance Standard 8964,Home & Kitchen,Kitchen Appliances,Bajaj,10260.04,12043.35
+491,Sony Camera Signature 3339,Electronics,Cameras,Sony,58774.38,90783.92
+492,Dove Haircare Premium 1832,Beauty & Personal Care,Haircare,Dove,2007.10,2648.94
+493,Dove Haircare Lite 2617,Beauty & Personal Care,Haircare,Dove,1796.01,2782.32
+494,Classmate Notebooks Advanced 9435,Books & Stationery,Notebooks,Classmate,46.75,63.60
+495,Wow Haircare Smart 1118,Beauty & Personal Care,Haircare,Wow,1755.32,1988.55
+496,Tata Staples Max 2962,Groceries,Staples,Tata,455.19,666.74
+497,Huggies Diapers Premium 5301,Toys & Baby Products,Diapers,Huggies,595.12,763.66
+498,W Women's Clothing Smart 2838,Fashion,Women's Clothing,W,974.36,1222.77
+499,Godrej Interio Furniture Essential 5524,Home & Kitchen,Furniture,Godrej Interio,27365.95,30926.25
+500,Noise Smartwatches Original 8710,Electronics,Smartwatches,Noise,27082.03,38948.23
+501,Fabindia Women's Clothing Classic 6090,Fashion,Women's Clothing,Fabindia,4062.16,4637.26
+502,Red Label Beverage Original 2310,Groceries,Beverages,Red Label,594.37,734.84
+503,Mi Televisions Superior 2798,Electronics,Televisions,Mi,85216.69,123819.30
+504,Decathlon Fitness Equipment Deluxe 3902,Sports & Fitness,Fitness Equipment,Decathlon,5284.17,7209.89
+505,Axe Fragrances Classic 6522,Beauty & Personal Care,Fragrances,Axe,1731.73,2393.32
+506,Britannia Dairy Pro 3841,Groceries,Dairy,Britannia,280.92,414.72
+507,Nestle Dairy Premium 5022,Groceries,Dairy,Nestle,213.56,236.49
+508,Fastrack Watches Elite 5006,Fashion,Watches,Fastrack,4595.17,5496.49
+509,Britannia Dairy Value 633,Groceries,Dairy,Britannia,132.40,150.88
+510,Decathlon Sportswear Elite 8917,Sports & Fitness,Sportswear,Decathlon,4173.43,4817.47
+511,Boat Smartwatches Sport 4547,Electronics,Smartwatches,Boat,5100.75,5995.10
+512,Nestle Dairy Original 5318,Groceries,Dairy,Nestle,405.93,539.09
+513,Tresemme Haircare Smart 248,Beauty & Personal Care,Haircare,Tresemme,60.13,70.89
+514,Axe Fragrances Deluxe 5872,Beauty & Personal Care,Fragrances,Axe,4184.76,5986.54
+515,Westland Non-Fiction Elite 1343,Books & Stationery,Non-Fiction,Westland,698.69,872.67
+516,BSA Cycles Advanced 6258,Sports & Fitness,Cycles,BSA,31390.92,35373.14
+517,Mee Mee Baby Care Premium 1033,Toys & Baby Products,Baby Care,Mee Mee,2238.47,3356.88
+518,Puma Bags Compact 5197,Fashion,Bags,Puma,5340.48,7626.14
+519,Lego Toy Original 2344,Toys & Baby Products,Toys,Lego,6373.48,7789.38
+520,The Body Shop Skincare Lite 9759,Beauty & Personal Care,Skincare,The Body Shop,1929.20,2365.96
+521,Sugar Makeup Premium 6992,Beauty & Personal Care,Makeup,Sugar,1903.84,2443.39
+522,Fastrack Watches Signature 4646,Fashion,Watches,Fastrack,10706.92,14166.24
+523,Sony Cameras Plus 3389,Electronics,Cameras,Sony,90082.68,105664.03
+524,Homesake Home Decor Superior 4976,Home & Kitchen,Home Decor,Homesake,4131.36,5989.18
+525,Bru Beverage Advanced 7878,Groceries,Beverages,Bru,284.31,368.81
+526,Puma Footwear Sport 5336,Fashion,Footwear,Puma,3169.72,4861.15
+527,Cosco Fitness Equipment Value 7476,Sports & Fitness,Fitness Equipment,Cosco,10771.08,13827.00
+528,Homesake Home Decor Plus 4669,Home & Kitchen,Home Decor,Homesake,3245.94,4257.37
+529,Rupa Fiction Sport 6043,Books & Stationery,Fiction,Rupa,625.89,799.88
+530,Reebok Fitness Equipment Compact 292,Sports & Fitness,Fitness Equipment,Reebok,1107.77,1630.63
+531,Decathlon Cycles Signature 4450,Sports & Fitness,Cycles,Decathlon,34159.08,51034.35
+532,Puma Bag Ultra 5129,Fashion,Bags,Puma,1345.54,1917.81
+533,Fastrack Watches Everyday 6653,Fashion,Watches,Fastrack,10366.22,13034.22
+534,IKEA Furniture Smart 6877,Home & Kitchen,Furniture,IKEA,25902.28,39000.57
+535,Urban Ladder Furniture Pro 6869,Home & Kitchen,Furniture,Urban Ladder,3394.02,3738.17
+536,Nivea Fragrances Max 9499,Beauty & Personal Care,Fragrances,Nivea,3355.67,4717.38
+537,Godrej Interio Furniture Essential 8301,Home & Kitchen,Furniture,Godrej Interio,5566.05,6830.50
+538,Panasonic Television Sport 4810,Electronics,Televisions,Panasonic,73594.55,104261.38
+539,Reebok Fitness Equipment Value 3591,Sports & Fitness,Fitness Equipment,Reebok,19230.64,23829.90
+540,Fortune Staple Premium 8574,Groceries,Staples,Fortune,1073.24,1337.60
+541,Titan Smartwatche Plus 7421,Electronics,Smartwatches,Titan,2435.68,3167.76
+542,Motorola Mobile Phone Ultra 8025,Electronics,Mobile Phones,Motorola,49931.51,62566.45
+543,Tata Tea Beverage Standard 3523,Groceries,Beverages,Tata Tea,827.44,1125.23
+544,MSI Laptops Lite 564,Electronics,Laptops,MSI,45156.53,57280.32
+545,Decathlon Fitness Equipment Sport 6494,Sports & Fitness,Fitness Equipment,Decathlon,10998.65,15012.49
+546,Ponds Skincare Standard 5497,Beauty & Personal Care,Skincare,Ponds,1976.80,2398.43
+547,Huggies Diapers Elite 7537,Toys & Baby Products,Diapers,Huggies,1136.03,1565.40
+548,Sugar Makeup Max 1933,Beauty & Personal Care,Makeup,Sugar,1422.82,1746.03
+549,Himalaya Skincare Smart 370,Beauty & Personal Care,Skincare,Himalaya,1337.85,1590.66
+550,Lakme Makeup Standard 4953,Beauty & Personal Care,Makeup,Lakme,2563.94,3914.46
+551,Vivo Mobile Phone Max 6947,Electronics,Mobile Phones,Vivo,66717.42,95065.24
+552,Firefox Cycles Superior 5272,Sports & Fitness,Cycles,Firefox,13360.63,14962.69
+553,Pepperfry Home Decor Premium 7555,Home & Kitchen,Home Decor,Pepperfry,3310.52,4152.46
+554,Pepperfry Home Decor Original 1455,Home & Kitchen,Home Decor,Pepperfry,3884.59,5662.32
+555,Funskool Toy Smart 9331,Toys & Baby Products,Toys,Funskool,2698.87,3398.46
+556,Apple Laptops Deluxe 8603,Electronics,Laptops,Apple,97396.10,123972.40
+557,HarperCollins Non-Fiction Premium 1920,Books & Stationery,Non-Fiction,HarperCollins,342.97,467.61
+558,Penguin Fiction Pro 7697,Books & Stationery,Fiction,Penguin,675.70,805.28
+559,Puma Footwear Value 9268,Fashion,Footwear,Puma,6813.12,8979.94
+560,Lakme Skincare Max 5909,Beauty & Personal Care,Skincare,Lakme,1174.61,1347.06
+561,Durian Furniture Compact 9472,Home & Kitchen,Furniture,Durian,22769.56,31567.04
+562,Barbie Toy Classic 7811,Toys & Baby Products,Toys,Barbie,4463.51,6641.03
+563,Nivea Fragrance Value 2422,Beauty & Personal Care,Fragrances,Nivea,2160.83,2748.07
+564,Dove Haircare Sport 9374,Beauty & Personal Care,Haircare,Dove,1686.53,2480.42
+565,Dell Laptop Max 115,Electronics,Laptops,Dell,20476.59,24739.88
+566,Mamaearth Skincare Superior 6878,Beauty & Personal Care,Skincare,Mamaearth,825.85,965.45
+567,Noise Smartwatche Ultra 3162,Electronics,Smartwatches,Noise,16079.80,22144.39
+568,Patanjali Staple Sport 137,Groceries,Staples,Patanjali,66.38,92.39
+569,Fossil Bags Value 9841,Fashion,Bags,Fossil,3363.87,4768.85
+570,Strauss Yoga & Accessories Premium 9273,Sports & Fitness,Yoga & Accessories,Strauss,198.35,292.24
+571,Funskool Toys Max 7129,Toys & Baby Products,Toys,Funskool,4200.33,4783.58
+572,Tata Staple Essential 1761,Groceries,Staples,Tata,370.46,459.05
+573,Decathlon Sportswear Value 9541,Sports & Fitness,Sportswear,Decathlon,4996.29,7224.41
+574,Apple Mobile Phones Classic 1962,Electronics,Mobile Phones,Apple,59820.07,71559.57
+575,Camlin Notebooks Value 9512,Books & Stationery,Notebooks,Camlin,389.70,557.15
+576,Levi's Men's Clothing Premium 2312,Fashion,Men's Clothing,Levi's,3647.60,4719.44
+577,Acer Laptop Advanced 7337,Electronics,Laptops,Acer,30090.72,43765.72
+578,Fortune Staple Sport 1651,Groceries,Staples,Fortune,232.21,354.36
+579,MamyPoko Diaper Deluxe 4191,Toys & Baby Products,Diapers,MamyPoko,740.47,928.05
+580,Lays Snacks Essential 5713,Groceries,Snacks,Lays,228.46,262.09
+581,Nestle Dairy Signature 1152,Groceries,Dairy,Nestle,233.44,358.22
+582,IKEA Furniture Classic 8921,Home & Kitchen,Furniture,IKEA,10048.67,15201.44
+583,W Women's Clothing Advanced 323,Fashion,Women's Clothing,W,3710.70,4802.10
+584,H&M Women's Clothing Compact 2826,Fashion,Women's Clothing,H&M,3595.73,5162.43
+585,Westland Non-Fiction Deluxe 553,Books & Stationery,Non-Fiction,Westland,198.12,295.15
+586,Nike Sportswear Value 1212,Sports & Fitness,Sportswear,Nike,3634.83,4495.39
+587,H&M Men's Clothing Premium 1303,Fashion,Men's Clothing,H&M,1688.93,1965.92
+588,Timex Watche Deluxe 7473,Fashion,Watches,Timex,1707.55,2111.26
+589,Rupa Non-Fiction Ultra 7646,Books & Stationery,Non-Fiction,Rupa,494.99,729.88
+590,Boat Smartwatches Ultra 3522,Electronics,Smartwatches,Boat,20191.00,24732.81
+591,Dell Laptops Pro 2689,Electronics,Laptops,Dell,89436.04,110935.31
+592,Nike Sportswear Plus 7987,Sports & Fitness,Sportswear,Nike,765.47,1180.51
+593,Classmate Office Supplie Superior 9662,Books & Stationery,Office Supplies,Classmate,60.64,67.10
+594,Fabindia Home Decor Standard 2988,Home & Kitchen,Home Decor,Fabindia,690.79,1004.82
+595,BSA Cycles Lite 8669,Sports & Fitness,Cycles,BSA,33675.81,50822.10
+596,Pepperfry Home Decor Premium 3769,Home & Kitchen,Home Decor,Pepperfry,2798.01,4194.16
+597,Camlin Office Supplies Original 4407,Books & Stationery,Office Supplies,Camlin,48.64,68.03
+598,Bru Beverages Premium 7842,Groceries,Beverages,Bru,113.75,148.67
+599,Fisher-Price Toys Ultra 8045,Toys & Baby Products,Toys,Fisher-Price,1255.67,1511.62
+600,Funskool Toy Max 1212,Toys & Baby Products,Toys,Funskool,3067.98,3704.85
+601,Tata Staples Smart 3743,Groceries,Staples,Tata,298.10,409.89
+602,Penguin Fiction Elite 8698,Books & Stationery,Fiction,Penguin,103.60,138.28
+603,Nescafe Beverage Pro 7920,Groceries,Beverages,Nescafe,786.02,1027.65
+604,Milton Cookware Everyday 1704,Home & Kitchen,Cookware,Milton,1015.05,1419.37
+605,Tata Staple Original 7990,Groceries,Staples,Tata,663.65,917.42
+606,Mi Televisions Classic 8900,Electronics,Televisions,Mi,80166.11,112152.65
+607,Chumbak Home Decor Sport 5375,Home & Kitchen,Home Decor,Chumbak,3176.96,4720.30
+608,Tata Tea Beverages Premium 9896,Groceries,Beverages,Tata Tea,619.40,806.59
+609,Bose Headphones Plus 3238,Electronics,Headphones,Bose,6878.84,8183.83
+610,Titan Watches Lite 306,Fashion,Watches,Titan,6420.95,7253.23
+611,Mother Dairy Dairy Value 3645,Groceries,Dairy,Mother Dairy,91.30,119.76
+612,Boldfit Yoga & Accessorie Essential 5372,Sports & Fitness,Yoga & Accessories,Boldfit,701.58,902.15
+613,Sony Cameras Lite 4006,Electronics,Cameras,Sony,4815.35,6613.36
+614,Strauss Yoga & Accessories Standard 9076,Sports & Fitness,Yoga & Accessories,Strauss,570.98,689.86
+615,Bata Footwear Plus 2345,Fashion,Footwear,Bata,7638.05,8866.76
+616,Aashirvaad Staple Essential 7027,Groceries,Staples,Aashirvaad,758.31,988.53
+617,Camlin Office Supplies Plus 4506,Books & Stationery,Office Supplies,Camlin,606.38,692.89
+618,Penguin Fiction Advanced 1255,Books & Stationery,Fiction,Penguin,287.61,441.52
+619,Philips Kitchen Appliances Smart 6274,Home & Kitchen,Kitchen Appliances,Philips,17265.41,24068.60
+620,Fossil Watches Original 8790,Fashion,Watches,Fossil,10308.94,15509.25
+621,Fogg Fragrances Superior 4250,Beauty & Personal Care,Fragrances,Fogg,844.50,1191.97
+622,Decathlon Sportswear Signature 8682,Sports & Fitness,Sportswear,Decathlon,1535.04,2256.39
+623,Fujifilm Cameras Max 5475,Electronics,Cameras,Fujifilm,5734.13,7534.11
+624,Bajaj Kitchen Appliance Essential 7155,Home & Kitchen,Kitchen Appliances,Bajaj,20650.40,27757.11
+625,HarperCollins Non-Fiction Signature 5992,Books & Stationery,Non-Fiction,HarperCollins,539.71,713.74
+626,Tata Tea Beverage Max 4458,Groceries,Beverages,Tata Tea,441.50,661.38
+627,Bloomsbury Fiction Superior 7540,Books & Stationery,Fiction,Bloomsbury,803.64,1092.66
+628,Parle Snacks Everyday 2974,Groceries,Snacks,Parle,295.83,415.46
+629,Bajaj Kitchen Appliances Ultra 4887,Home & Kitchen,Kitchen Appliances,Bajaj,13858.87,19202.36
+630,MAC Makeup Deluxe 2777,Beauty & Personal Care,Makeup,MAC,2808.61,3849.21
+631,Dell Laptops Value 8863,Electronics,Laptops,Dell,78073.98,86902.31
+632,Dell Laptop Essential 164,Electronics,Laptops,Dell,34635.25,52135.60
+633,Nivea Skincare Ultra 1451,Beauty & Personal Care,Skincare,Nivea,2783.55,4276.87
+634,Bajaj Kitchen Appliances Pro 8657,Home & Kitchen,Kitchen Appliances,Bajaj,6624.61,9515.50
+635,Hero Cycle Pro 4425,Sports & Fitness,Cycles,Hero,5675.98,7837.53
+636,Puma Sportswear Everyday 8320,Sports & Fitness,Sportswear,Puma,2659.88,3151.36
+637,MSI Laptop Elite 6411,Electronics,Laptops,MSI,16870.52,20921.48
+638,Titan Watche Pro 9704,Fashion,Watches,Titan,10221.03,13322.84
+639,Barbie Toys Pro 7831,Toys & Baby Products,Toys,Barbie,1016.74,1206.59
+640,Himalaya Skincare Compact 4047,Beauty & Personal Care,Skincare,Himalaya,2247.92,2979.81
+641,Tata Staple Essential 485,Groceries,Staples,Tata,391.38,543.20
+642,Huggies Diapers Lite 3452,Toys & Baby Products,Diapers,Huggies,1268.77,1908.68
+643,Nilkamal Furniture Essential 7684,Home & Kitchen,Furniture,Nilkamal,29708.81,43735.71
+644,Boldfit Yoga & Accessorie Smart 5119,Sports & Fitness,Yoga & Accessories,Boldfit,2117.46,2414.15
+645,Sennheiser Headphone Essential 2578,Electronics,Headphones,Sennheiser,13486.73,16323.36
+646,Lenovo Laptops Ultra 8403,Electronics,Laptops,Lenovo,112864.69,158980.80
+647,MamyPoko Diapers Pro 1840,Toys & Baby Products,Diapers,MamyPoko,839.66,1088.86
+648,Skechers Footwear Smart 3735,Fashion,Footwear,Skechers,3637.06,5395.70
+649,Parker Office Supplie Everyday 936,Books & Stationery,Office Supplies,Parker,390.25,541.10
+650,Nike Sportswear Standard 2212,Sports & Fitness,Sportswear,Nike,602.73,848.54
+651,Skullcandy Headphones Pro 5683,Electronics,Headphones,Skullcandy,2095.43,2676.36
+652,Levi's Men's Clothing Advanced 2312,Fashion,Men's Clothing,Levi's,2364.68,3346.18
+653,Sprite Beverage Value 6757,Groceries,Beverages,Sprite,161.86,233.76
+654,Reynolds Office Supplies Ultra 4078,Books & Stationery,Office Supplies,Reynolds,471.36,537.94
+655,Navneet Notebooks Lite 9996,Books & Stationery,Notebooks,Navneet,324.72,414.65
+656,Pantene Haircare Original 1853,Beauty & Personal Care,Haircare,Pantene,1850.41,2462.66
+657,Ponds Skincare Smart 7787,Beauty & Personal Care,Skincare,Ponds,2432.43,3436.77
+658,Haldiram's Snacks Everyday 3172,Groceries,Snacks,Haldiram's,29.58,32.54
+659,Maybelline Makeup Deluxe 744,Beauty & Personal Care,Makeup,Maybelline,3066.19,4686.39
+660,Bru Beverages Deluxe 6093,Groceries,Beverages,Bru,531.28,678.70
+661,Cosco Fitness Equipment Premium 6826,Sports & Fitness,Fitness Equipment,Cosco,16129.51,23329.42
+662,Himalaya Skincare Lite 2566,Beauty & Personal Care,Skincare,Himalaya,2429.14,2948.84
+663,Britannia Dairy Advanced 2288,Groceries,Dairy,Britannia,110.83,157.49
+664,JBL Headphones Everyday 2378,Electronics,Headphones,JBL,20300.21,30306.45
+665,Fujifilm Cameras Everyday 7804,Electronics,Cameras,Fujifilm,80833.39,120557.45
+666,MAC Makeup Essential 1148,Beauty & Personal Care,Makeup,MAC,421.69,525.94
+667,Xiaomi Mobile Phones Signature 1257,Electronics,Mobile Phones,Xiaomi,40497.27,45504.47
+668,Mee Mee Diapers Advanced 7909,Toys & Baby Products,Diapers,Mee Mee,477.24,660.75
+669,Mee Mee Baby Care Advanced 5871,Toys & Baby Products,Baby Care,Mee Mee,1486.69,1706.20
+670,Fastrack Watches Elite 293,Fashion,Watches,Fastrack,8645.93,10319.52
+671,Lays Snacks Superior 671,Groceries,Snacks,Lays,244.03,271.02
+672,Philips Kitchen Appliance Lite 8679,Home & Kitchen,Kitchen Appliances,Philips,11238.52,16130.09
+673,Fabindia Women's Clothing Value 1046,Fashion,Women's Clothing,Fabindia,1303.72,1952.20
+674,Rupa Non-Fiction Pro 6929,Books & Stationery,Non-Fiction,Rupa,328.39,405.83
+675,Red Label Beverage Standard 8297,Groceries,Beverages,Red Label,742.08,1018.27
+676,HarperCollins Non-Fiction Premium 9133,Books & Stationery,Non-Fiction,HarperCollins,1130.74,1301.22
+677,Tata Staple Max 8372,Groceries,Staples,Tata,654.77,985.03
+678,Wild Stone Fragrance Standard 3596,Beauty & Personal Care,Fragrances,Wild Stone,2714.50,3967.33
+679,Westland Non-Fiction Value 4622,Books & Stationery,Non-Fiction,Westland,366.37,438.69
+680,Funskool Toys Premium 5673,Toys & Baby Products,Toys,Funskool,1199.39,1741.82
+681,Under Armour Sportswear Lite 3903,Sports & Fitness,Sportswear,Under Armour,3193.27,4811.82
+682,Himalaya Skincare Compact 9834,Beauty & Personal Care,Skincare,Himalaya,2130.55,2604.90
+683,Bloomsbury Fiction Premium 7351,Books & Stationery,Fiction,Bloomsbury,745.89,1112.02
+684,Westland Non-Fiction Compact 2911,Books & Stationery,Non-Fiction,Westland,846.11,1310.56
+685,Mother Dairy Dairy Max 3830,Groceries,Dairy,Mother Dairy,78.45,100.77
+686,Reynolds Office Supplies Lite 3680,Books & Stationery,Office Supplies,Reynolds,126.19,172.30
+687,Skybags Bags Lite 6942,Fashion,Bags,Skybags,2817.92,4333.51
+688,Mee Mee Baby Care Original 8595,Toys & Baby Products,Baby Care,Mee Mee,552.26,754.60
+689,Spaces Bedding Essential 1300,Home & Kitchen,Bedding,Spaces,2286.87,2910.15
+690,Titan Watches Signature 7065,Fashion,Watches,Titan,9129.70,13494.83
+691,Morphy Richards Kitchen Appliance Standard 205,Home & Kitchen,Kitchen Appliances,Morphy Richards,16798.50,22082.64
+692,Oxford Notebooks Lite 9180,Books & Stationery,Notebooks,Oxford,319.71,352.25
+693,Pepperfry Home Decor Everyday 9766,Home & Kitchen,Home Decor,Pepperfry,2479.25,2972.27
+694,D'Decor Bedding Lite 4780,Home & Kitchen,Bedding,D'Decor,951.48,1430.92
+695,Sony Cameras Original 7322,Electronics,Cameras,Sony,40127.08,60303.66
+696,Parle Snack Ultra 5549,Groceries,Snacks,Parle,260.95,353.43
+697,Reebok Fitness Equipment Sport 1200,Sports & Fitness,Fitness Equipment,Reebok,7863.30,11880.17
+698,Sony Headphone Advanced 8210,Electronics,Headphones,Sony,14754.71,16374.65
+699,Dove Haircare Plus 2506,Beauty & Personal Care,Haircare,Dove,701.79,841.22
+700,Classmate Office Supplies Ultra 2457,Books & Stationery,Office Supplies,Classmate,783.34,893.26
+701,Prestige Kitchen Appliances Classic 8240,Home & Kitchen,Kitchen Appliances,Prestige,8565.56,9781.23
+702,Spaces Bedding Advanced 724,Home & Kitchen,Bedding,Spaces,774.58,907.96
+703,Vivo Mobile Phones Lite 1940,Electronics,Mobile Phones,Vivo,12479.99,14836.88
+704,Bru Beverages Ultra 7218,Groceries,Beverages,Bru,357.60,465.15
+705,Hot Wheels Toys Lite 3047,Toys & Baby Products,Toys,Hot Wheels,5414.91,7481.86
+706,Samsung Smartwatches Value 649,Electronics,Smartwatches,Samsung,16608.94,24879.90
+707,Apple Smartwatches Premium 9946,Electronics,Smartwatches,Apple,19885.38,26449.74
+708,Wonderchef Cookware Smart 2434,Home & Kitchen,Cookware,Wonderchef,2201.08,3103.00
+709,Wonderchef Cookware Smart 191,Home & Kitchen,Cookware,Wonderchef,3616.17,4566.79
+710,Nivea Fragrances Everyday 7957,Beauty & Personal Care,Fragrances,Nivea,3953.56,5443.41
+711,Mother Dairy Dairy Deluxe 3556,Groceries,Dairy,Mother Dairy,338.51,492.41
+712,Sony Camera Everyday 9272,Electronics,Cameras,Sony,64177.92,75171.89
+713,Johnson's Baby Care Original 860,Toys & Baby Products,Baby Care,Johnson's,430.58,621.10
+714,Parker Office Supplies Premium 1529,Books & Stationery,Office Supplies,Parker,118.65,150.61
+715,Puma Bag Compact 4304,Fashion,Bags,Puma,2868.67,3631.05
+716,Titan Smartwatche Advanced 3614,Electronics,Smartwatches,Titan,8213.89,11925.98
+717,Axe Fragrances Deluxe 7574,Beauty & Personal Care,Fragrances,Axe,1410.94,1985.96
+718,Funskool Toy Plus 4936,Toys & Baby Products,Toys,Funskool,6720.55,9028.56
+719,Pepperfry Home Decor Essential 4355,Home & Kitchen,Home Decor,Pepperfry,3484.86,3885.50
+720,Funskool Toy Pro 663,Toys & Baby Products,Toys,Funskool,4120.17,6156.50
+721,Puma Footwear Value 3136,Fashion,Footwear,Puma,7334.07,10196.88
+722,H&M Women's Clothing Deluxe 5610,Fashion,Women's Clothing,H&M,1037.59,1564.55
+723,Wild Stone Fragrances Deluxe 4352,Beauty & Personal Care,Fragrances,Wild Stone,1009.35,1522.00
+724,Nivia Fitness Equipment Standard 7367,Sports & Fitness,Fitness Equipment,Nivia,4698.73,6048.90
+725,Johnson's Baby Care Sport 3901,Toys & Baby Products,Baby Care,Johnson's,1684.17,2217.02
+726,Lakme Makeup Smart 2061,Beauty & Personal Care,Makeup,Lakme,1923.38,2466.38
+727,Durian Furniture Original 8179,Home & Kitchen,Furniture,Durian,35755.90,48393.78
+728,Puma Bag Superior 5482,Fashion,Bags,Puma,5312.35,6722.55
+729,Zara Women's Clothing Superior 4730,Fashion,Women's Clothing,Zara,4937.88,6287.24
+730,Homesake Home Decor Everyday 3451,Home & Kitchen,Home Decor,Homesake,2012.07,3079.57
+731,MamyPoko Diapers Superior 6036,Toys & Baby Products,Diapers,MamyPoko,1192.81,1418.25
+732,Chumbak Home Decor Value 3219,Home & Kitchen,Home Decor,Chumbak,1359.49,2088.39
+733,The Body Shop Skincare Premium 3534,Beauty & Personal Care,Skincare,The Body Shop,1671.72,1993.69
+734,Fabindia Women's Clothing Ultra 4797,Fashion,Women's Clothing,Fabindia,4742.79,7334.50
+735,Boat Headphones Elite 1534,Electronics,Headphones,Boat,6857.35,9297.28
+736,Fujifilm Cameras Signature 9758,Electronics,Cameras,Fujifilm,22367.47,30372.59
+737,Nilkamal Furniture Max 2092,Home & Kitchen,Furniture,Nilkamal,10888.90,16292.16
+738,Britannia Dairy Premium 1202,Groceries,Dairy,Britannia,257.87,364.62
+739,Rupa Fiction Smart 2523,Books & Stationery,Fiction,Rupa,397.27,592.67
+740,Samsung Mobile Phones Elite 8805,Electronics,Mobile Phones,Samsung,16352.66,23330.83
+741,Fabindia Home Decor Deluxe 9005,Home & Kitchen,Home Decor,Fabindia,704.44,825.02
+742,Wonderchef Cookware Ultra 2722,Home & Kitchen,Cookware,Wonderchef,1438.11,1948.93
+743,Puma Bags Elite 7691,Fashion,Bags,Puma,443.91,499.90
+744,HarperCollins Non-Fiction Premium 4063,Books & Stationery,Non-Fiction,HarperCollins,1150.17,1450.18
+745,Timex Watches Sport 7134,Fashion,Watches,Timex,9867.78,11841.77
+746,Samsung Smartwatches Essential 716,Electronics,Smartwatches,Samsung,5971.96,6755.93
+747,Nike Footwear Everyday 1391,Fashion,Footwear,Nike,3447.27,4270.60
+748,Hot Wheels Toys Lite 5102,Toys & Baby Products,Toys,Hot Wheels,6339.63,7276.46
+749,Penguin Non-Fiction Original 2105,Books & Stationery,Non-Fiction,Penguin,1262.11,1805.72
+750,Pigeon Cookware Smart 749,Home & Kitchen,Cookware,Pigeon,1544.17,1769.78
+751,Wild Stone Fragrances Essential 3532,Beauty & Personal Care,Fragrances,Wild Stone,2839.95,3240.82
+752,Hot Wheels Toy Sport 1754,Toys & Baby Products,Toys,Hot Wheels,678.59,956.36
+753,Haldiram's Snack Deluxe 5509,Groceries,Snacks,Haldiram's,173.58,244.71
+754,HarperCollins Fiction Pro 1254,Books & Stationery,Fiction,HarperCollins,104.30,123.74
+755,Nivia Fitness Equipment Smart 8102,Sports & Fitness,Fitness Equipment,Nivia,5554.92,6358.38
+756,Mee Mee Diapers Advanced 1139,Toys & Baby Products,Diapers,Mee Mee,1059.98,1391.84
+757,Milton Cookware Elite 2181,Home & Kitchen,Cookware,Milton,2865.38,3184.35
+758,Bombay Dyeing Bedding Pro 1949,Home & Kitchen,Bedding,Bombay Dyeing,4829.16,5833.68
+759,MAC Makeup Lite 6108,Beauty & Personal Care,Makeup,MAC,1435.31,2113.30
+760,Havells Kitchen Appliance Lite 158,Home & Kitchen,Kitchen Appliances,Havells,11831.24,15307.25
+761,Loreal Haircare Ultra 1987,Beauty & Personal Care,Haircare,Loreal,1727.25,1971.45
+762,Lakme Skincare Classic 5893,Beauty & Personal Care,Skincare,Lakme,304.85,377.31
+763,Mother Dairy Dairy Advanced 8599,Groceries,Dairy,Mother Dairy,96.15,137.24
+764,Fabindia Home Decor Smart 9260,Home & Kitchen,Home Decor,Fabindia,2547.87,3057.82
+765,Under Armour Sportswear Premium 6961,Sports & Fitness,Sportswear,Under Armour,2362.03,3233.63
+766,Sony Cameras Deluxe 2048,Electronics,Cameras,Sony,73197.70,106243.75
+767,Barbie Toys Standard 6246,Toys & Baby Products,Toys,Barbie,2055.85,3029.31
+768,Bose Headphones Everyday 3588,Electronics,Headphones,Bose,18361.92,26058.56
+769,Johnson's Baby Care Signature 3497,Toys & Baby Products,Baby Care,Johnson's,2116.02,3263.95
+770,Reynolds Office Supplies Premium 4569,Books & Stationery,Office Supplies,Reynolds,294.16,377.80
+771,Camlin Office Supplies Everyday 5620,Books & Stationery,Office Supplies,Camlin,612.77,877.28
+772,Philips Kitchen Appliance Signature 3328,Home & Kitchen,Kitchen Appliances,Philips,10660.44,15142.38
+773,Britannia Dairy Advanced 7001,Groceries,Dairy,Britannia,76.04,88.91
+774,Urban Ladder Furniture Deluxe 1093,Home & Kitchen,Furniture,Urban Ladder,35339.42,52434.14
+775,Aashirvaad Staples Classic 7099,Groceries,Staples,Aashirvaad,219.02,318.22
+776,Van Heusen Men's Clothing Compact 8464,Fashion,Men's Clothing,Van Heusen,1833.19,2507.57
+777,Nivia Fitness Equipment Sport 3144,Sports & Fitness,Fitness Equipment,Nivia,8208.36,9070.12
+778,Fortune Staples Everyday 2176,Groceries,Staples,Fortune,806.83,955.92
+779,GoPro Camera Value 3896,Electronics,Cameras,GoPro,24258.49,36021.45
+780,Tresemme Haircare Superior 9515,Beauty & Personal Care,Haircare,Tresemme,1880.62,2171.32
+781,Patanjali Staple Compact 2104,Groceries,Staples,Patanjali,577.72,893.70
+782,Aashirvaad Staples Ultra 5538,Groceries,Staples,Aashirvaad,328.61,488.14
+783,Sugar Makeup Essential 6280,Beauty & Personal Care,Makeup,Sugar,2186.72,2916.77
+784,Montra Cycles Original 7764,Sports & Fitness,Cycles,Montra,4348.91,5528.09
+785,Wow Haircare Original 9084,Beauty & Personal Care,Haircare,Wow,2033.81,2383.44
+786,Skechers Footwear Compact 1590,Fashion,Footwear,Skechers,2624.09,3915.24
+787,Apple Mobile Phones Pro 3111,Electronics,Mobile Phones,Apple,35816.61,47582.55
+788,Decathlon Cycle Signature 2872,Sports & Fitness,Cycles,Decathlon,21324.38,24550.69
+789,Adidas Sportswear Sport 5961,Sports & Fitness,Sportswear,Adidas,4369.11,5989.54
+790,Hero Cycles Value 6151,Sports & Fitness,Cycles,Hero,15522.05,23949.09
+791,Bru Beverage Ultra 5647,Groceries,Beverages,Bru,36.25,54.53
+792,Fogg Fragrances Lite 3339,Beauty & Personal Care,Fragrances,Fogg,1946.03,2496.08
+793,Tresemme Haircare Lite 6243,Beauty & Personal Care,Haircare,Tresemme,1742.32,1962.22
+794,Westland Non-Fiction Sport 791,Books & Stationery,Non-Fiction,Westland,678.24,890.23
+795,Dove Haircare Lite 3151,Beauty & Personal Care,Haircare,Dove,593.58,825.11
+796,Spaces Bedding Smart 5244,Home & Kitchen,Bedding,Spaces,1940.15,2600.56
+797,Pampers Diapers Plus 4584,Toys & Baby Products,Diapers,Pampers,903.05,1215.30
+798,Park Avenue Fragrances Superior 2168,Beauty & Personal Care,Fragrances,Park Avenue,1603.61,2087.61
+799,Prestige Cookware Pro 643,Home & Kitchen,Cookware,Prestige,2588.43,3649.70
+800,Homesake Home Decor Lite 8631,Home & Kitchen,Home Decor,Homesake,215.90,297.59
+801,Fogg Fragrance Compact 8828,Beauty & Personal Care,Fragrances,Fogg,848.44,1053.18
+802,Aashirvaad Staple Everyday 6206,Groceries,Staples,Aashirvaad,119.20,164.60
+803,Allen Solly Men's Clothing Advanced 4666,Fashion,Men's Clothing,Allen Solly,1445.15,2067.32
+804,Zara Women's Clothing Value 4702,Fashion,Women's Clothing,Zara,2927.13,3227.09
+805,Sony Television Essential 5144,Electronics,Televisions,Sony,94806.46,127844.01
+806,Morphy Richards Kitchen Appliances Compact 6271,Home & Kitchen,Kitchen Appliances,Morphy Richards,10014.73,11902.69
+807,MAC Makeup Smart 4159,Beauty & Personal Care,Makeup,MAC,530.27,656.23
+808,Dell Laptops Max 7305,Electronics,Laptops,Dell,56423.63,75011.35
+809,Barbie Toy Signature 6673,Toys & Baby Products,Toys,Barbie,2420.60,3460.21
+810,HarperCollins Non-Fiction Elite 3123,Books & Stationery,Non-Fiction,HarperCollins,648.41,861.13
+811,Loreal Haircare Superior 1645,Beauty & Personal Care,Haircare,Loreal,603.85,758.95
+812,Casio Watches Sport 9820,Fashion,Watches,Casio,3151.29,4086.65
+813,Sony Headphones Plus 9146,Electronics,Headphones,Sony,12101.35,18197.95
+814,Homesake Home Decor Elite 7752,Home & Kitchen,Home Decor,Homesake,1922.77,2697.66
+815,Penguin Non-Fiction Plus 6849,Books & Stationery,Non-Fiction,Penguin,293.54,441.36
+816,Red Label Beverage Sport 4647,Groceries,Beverages,Red Label,169.58,230.60
+817,Tresemme Haircare Superior 8909,Beauty & Personal Care,Haircare,Tresemme,458.16,637.11
+818,Funskool Toy Max 7379,Toys & Baby Products,Toys,Funskool,5239.44,7107.17
+819,Westland Non-Fiction Value 3839,Books & Stationery,Non-Fiction,Westland,1202.47,1415.77
+820,Lays Snacks Original 1168,Groceries,Snacks,Lays,71.91,89.04
+821,Decathlon Fitness Equipment Superior 927,Sports & Fitness,Fitness Equipment,Decathlon,4387.53,5232.66
+822,Hero Cycle Deluxe 8117,Sports & Fitness,Cycles,Hero,2405.91,3640.30
+823,Lakme Makeup Elite 1969,Beauty & Personal Care,Makeup,Lakme,2586.13,3849.49
+824,Skechers Footwear Ultra 7509,Fashion,Footwear,Skechers,5441.53,7896.47
+825,Loreal Haircare Classic 5234,Beauty & Personal Care,Haircare,Loreal,1622.24,2085.05
+826,Westland Non-Fiction Elite 1290,Books & Stationery,Non-Fiction,Westland,822.43,1203.72
+827,Mee Mee Diapers Superior 8797,Toys & Baby Products,Diapers,Mee Mee,669.05,789.59
+828,Navneet Notebook Classic 9270,Books & Stationery,Notebooks,Navneet,404.70,609.51
+829,Zara Men's Clothing Signature 7159,Fashion,Men's Clothing,Zara,4161.93,4603.00
+830,Huggies Diapers Max 7800,Toys & Baby Products,Diapers,Huggies,1129.51,1463.07
+831,Tresemme Haircare Premium 4954,Beauty & Personal Care,Haircare,Tresemme,104.62,135.87
+832,Bru Beverage Pro 2199,Groceries,Beverages,Bru,83.10,93.02
+833,Decathlon Cycle Lite 1993,Sports & Fitness,Cycles,Decathlon,25429.46,39364.88
+834,Reebok Fitness Equipment Lite 6570,Sports & Fitness,Fitness Equipment,Reebok,13616.49,19512.37
+835,H&M Men's Clothing Compact 5016,Fashion,Men's Clothing,H&M,2192.60,2849.87
+836,Fossil Watches Sport 3374,Fashion,Watches,Fossil,8409.32,12400.85
+837,Classmate Office Supplies Superior 791,Books & Stationery,Office Supplies,Classmate,227.37,344.67
+838,Havells Kitchen Appliances Value 4624,Home & Kitchen,Kitchen Appliances,Havells,13057.78,15370.15
+839,Chumbak Home Decor Ultra 9288,Home & Kitchen,Home Decor,Chumbak,188.20,213.94
+840,MamyPoko Diapers Superior 7306,Toys & Baby Products,Diapers,MamyPoko,192.23,291.39
+841,Casio Watches Smart 416,Fashion,Watches,Casio,4947.13,7219.38
+842,Levi's Men's Clothing Plus 8353,Fashion,Men's Clothing,Levi's,1131.38,1286.00
+843,American Tourister Bag Value 8581,Fashion,Bags,American Tourister,1978.29,3038.64
+844,Sebamed Baby Care Essential 5224,Toys & Baby Products,Baby Care,Sebamed,2149.76,2410.11
+845,Puma Bag Advanced 9891,Fashion,Bags,Puma,984.71,1272.79
+846,Nykaa Makeup Advanced 3158,Beauty & Personal Care,Makeup,Nykaa,1990.62,2208.84
+847,MamyPoko Diaper Advanced 9118,Toys & Baby Products,Diapers,MamyPoko,861.31,980.60
+848,Himalaya Baby Care Signature 1983,Toys & Baby Products,Baby Care,Himalaya,847.68,1250.02
+849,BSA Cycles Essential 6854,Sports & Fitness,Cycles,BSA,20793.12,28440.65
+850,Nivea Fragrance Deluxe 3442,Beauty & Personal Care,Fragrances,Nivea,2367.38,2740.48
+851,Realme Mobile Phone Lite 6004,Electronics,Mobile Phones,Realme,48982.23,58156.19
+852,Funskool Toy Advanced 1811,Toys & Baby Products,Toys,Funskool,4397.11,5882.92
+853,HarperCollins Fiction Sport 6506,Books & Stationery,Fiction,HarperCollins,600.50,713.43
+854,Strauss Yoga & Accessorie Smart 6583,Sports & Fitness,Yoga & Accessories,Strauss,3233.29,4960.48
+855,Amul Dairy Pro 4042,Groceries,Dairy,Amul,293.51,332.91
+856,Fabindia Home Decor Compact 7887,Home & Kitchen,Home Decor,Fabindia,1492.26,2045.32
+857,Spaces Bedding Lite 1551,Home & Kitchen,Bedding,Spaces,1178.90,1598.12
+858,Park Avenue Fragrance Ultra 8695,Beauty & Personal Care,Fragrances,Park Avenue,3072.12,3688.51
+859,Britannia Snack Pro 4482,Groceries,Snacks,Britannia,390.27,595.99
+860,Nivea Fragrances Premium 7318,Beauty & Personal Care,Fragrances,Nivea,1649.98,1815.30
+861,Park Avenue Fragrances Essential 497,Beauty & Personal Care,Fragrances,Park Avenue,2011.25,2592.05
+862,Zara Women's Clothing Advanced 3588,Fashion,Women's Clothing,Zara,4953.78,6278.95
+863,Samsung Mobile Phones Superior 8048,Electronics,Mobile Phones,Samsung,63081.80,73772.38
+864,Mee Mee Baby Care Sport 2733,Toys & Baby Products,Baby Care,Mee Mee,535.65,759.95
+865,Mother Dairy Dairy Advanced 9385,Groceries,Dairy,Mother Dairy,293.45,329.06
+866,Tata Staples Everyday 4264,Groceries,Staples,Tata,1188.65,1652.88
+867,Strauss Yoga & Accessories Compact 7665,Sports & Fitness,Yoga & Accessories,Strauss,1977.78,2994.33
+868,Hawkins Cookware Plus 3532,Home & Kitchen,Cookware,Hawkins,731.83,967.38
+869,Bru Beverages Compact 7997,Groceries,Beverages,Bru,542.83,639.48
+870,Asus Laptops Pro 1202,Electronics,Laptops,Asus,17006.11,22385.79
+871,Bloomsbury Fiction Essential 2365,Books & Stationery,Fiction,Bloomsbury,675.22,920.89
+872,MAC Makeup Original 6911,Beauty & Personal Care,Makeup,MAC,1397.01,1942.57
+873,Boat Headphone Value 7164,Electronics,Headphones,Boat,7331.99,8104.92
+874,Peter England Men's Clothing Original 8178,Fashion,Men's Clothing,Peter England,4113.23,6073.71
+875,Classmate Office Supplies Sport 4386,Books & Stationery,Office Supplies,Classmate,814.36,1078.92
+876,Bloomsbury Fiction Ultra 6725,Books & Stationery,Fiction,Bloomsbury,579.52,767.36
+877,Penguin Fiction Value 7794,Books & Stationery,Fiction,Penguin,747.27,1153.77
+878,Nivia Fitness Equipment Value 4631,Sports & Fitness,Fitness Equipment,Nivia,14282.48,15728.70
+879,Lego Toys Superior 7776,Toys & Baby Products,Toys,Lego,2075.27,2993.70
+880,Sony Headphones Standard 3947,Electronics,Headphones,Sony,12173.06,18394.47
+881,Apple Smartwatches Standard 9607,Electronics,Smartwatches,Apple,18814.32,24742.81
+882,Sony Televisions Premium 2521,Electronics,Televisions,Sony,90130.54,101563.02
+883,Himalaya Skincare Lite 4401,Beauty & Personal Care,Skincare,Himalaya,753.37,957.95
+884,Sugar Makeup Superior 2423,Beauty & Personal Care,Makeup,Sugar,3248.39,4712.24
+885,Zara Women's Clothing Smart 6419,Fashion,Women's Clothing,Zara,4864.66,5687.25
+886,Barbie Toy Advanced 6173,Toys & Baby Products,Toys,Barbie,1905.88,2519.34
+887,Biba Women's Clothing Sport 9075,Fashion,Women's Clothing,Biba,3551.71,5100.89
+888,Lays Snack Plus 6321,Groceries,Snacks,Lays,132.95,188.17
+889,Timex Watches Plus 8082,Fashion,Watches,Timex,10550.88,12635.15
+890,Chumbak Home Decor Premium 988,Home & Kitchen,Home Decor,Chumbak,3701.29,5447.27
+891,Zara Women's Clothing Smart 5470,Fashion,Women's Clothing,Zara,4991.56,5781.36
+892,Pepperfry Home Decor Plus 9387,Home & Kitchen,Home Decor,Pepperfry,1969.58,2880.74
+893,IKEA Furniture Signature 2590,Home & Kitchen,Furniture,IKEA,9948.85,14065.23
+894,Vero Moda Women's Clothing Premium 5119,Fashion,Women's Clothing,Vero Moda,1809.28,2593.31
+895,Huggies Diaper Compact 1845,Toys & Baby Products,Diapers,Huggies,583.57,689.16
+896,Nivea Skincare Pro 6673,Beauty & Personal Care,Skincare,Nivea,302.67,366.56
+897,Titan Smartwatche Compact 2012,Electronics,Smartwatches,Titan,10609.14,12825.65
+898,Parker Office Supplies Standard 6033,Books & Stationery,Office Supplies,Parker,113.27,144.22
+899,Boldfit Yoga & Accessorie Advanced 2021,Sports & Fitness,Yoga & Accessories,Boldfit,1186.46,1455.89
+900,Pampers Baby Care Value 1567,Toys & Baby Products,Baby Care,Pampers,2398.26,3123.35
+901,Mee Mee Baby Care Original 4337,Toys & Baby Products,Baby Care,Mee Mee,1043.00,1256.03
+902,D'Decor Bedding Max 200,Home & Kitchen,Bedding,D'Decor,3017.98,3839.09
+903,Amul Dairy Standard 1480,Groceries,Dairy,Amul,392.51,548.35
+904,Cosco Yoga & Accessories Advanced 5416,Sports & Fitness,Yoga & Accessories,Cosco,1654.78,2499.54
+905,Huggies Diapers Lite 4260,Toys & Baby Products,Diapers,Huggies,1126.91,1449.21
+906,Sennheiser Headphones Original 6231,Electronics,Headphones,Sennheiser,18610.09,24047.48
+907,Apple Smartwatche Max 1619,Electronics,Smartwatches,Apple,29111.94,34922.03
+908,Rupa Non-Fiction Signature 9545,Books & Stationery,Non-Fiction,Rupa,873.70,1230.77
+909,Mee Mee Diaper Signature 6475,Toys & Baby Products,Diapers,Mee Mee,198.87,265.19
+910,Mee Mee Baby Care Superior 6950,Toys & Baby Products,Baby Care,Mee Mee,1634.78,1974.71
+911,Reynolds Office Supplies Sport 5267,Books & Stationery,Office Supplies,Reynolds,622.62,695.30
+912,Huggies Diaper Classic 2707,Toys & Baby Products,Diapers,Huggies,463.55,526.31
+913,Tresemme Haircare Advanced 7335,Beauty & Personal Care,Haircare,Tresemme,1918.15,2463.30
+914,Zara Men's Clothing Pro 2931,Fashion,Men's Clothing,Zara,2916.09,4111.96
+915,Westland Non-Fiction Signature 1196,Books & Stationery,Non-Fiction,Westland,257.19,320.49
+916,Penguin Non-Fiction Classic 1391,Books & Stationery,Non-Fiction,Penguin,666.48,743.38
+917,Reynolds Office Supplie Compact 3916,Books & Stationery,Office Supplies,Reynolds,400.37,469.11
+918,MamyPoko Diapers Plus 9862,Toys & Baby Products,Diapers,MamyPoko,1056.77,1525.06
+919,Vero Moda Women's Clothing Signature 4580,Fashion,Women's Clothing,Vero Moda,2827.08,3922.38
+920,Skybags Bags Sport 3879,Fashion,Bags,Skybags,2142.12,2365.50
+921,Reynolds Office Supplies Original 3906,Books & Stationery,Office Supplies,Reynolds,191.85,229.03
+922,Nestle Dairy Sport 1459,Groceries,Dairy,Nestle,418.60,462.33
+923,GoPro Cameras Sport 5261,Electronics,Cameras,GoPro,47109.50,65572.95
+924,Fogg Fragrances Original 3673,Beauty & Personal Care,Fragrances,Fogg,3323.45,4695.46
+925,Decathlon Sportswear Value 3475,Sports & Fitness,Sportswear,Decathlon,1667.63,2203.41
+926,Urban Ladder Furniture Sport 5719,Home & Kitchen,Furniture,Urban Ladder,1737.46,2143.26
+927,Pantene Haircare Elite 4776,Beauty & Personal Care,Haircare,Pantene,300.49,432.13
+928,Pigeon Cookware Deluxe 8537,Home & Kitchen,Cookware,Pigeon,1862.16,2586.69
+929,Sebamed Baby Care Everyday 4276,Toys & Baby Products,Baby Care,Sebamed,1698.52,2610.70
+930,Lenovo Laptops Essential 5359,Electronics,Laptops,Lenovo,104720.61,127584.54
+931,Fortune Staples Advanced 322,Groceries,Staples,Fortune,1216.76,1413.64
+932,Fortune Staples Everyday 2058,Groceries,Staples,Fortune,561.17,639.19
+933,Mee Mee Baby Care Signature 8716,Toys & Baby Products,Baby Care,Mee Mee,1347.38,1979.95
+934,Bose Headphones Value 4395,Electronics,Headphones,Bose,10262.89,12811.25
+935,Urban Ladder Furniture Value 1715,Home & Kitchen,Furniture,Urban Ladder,9696.31,11746.85
+936,Lakme Skincare Smart 4002,Beauty & Personal Care,Skincare,Lakme,440.48,619.46
+937,Pampers Baby Care Signature 1047,Toys & Baby Products,Baby Care,Pampers,538.24,743.81
+938,Navneet Notebook Classic 5730,Books & Stationery,Notebooks,Navneet,124.99,144.11
+939,Spaces Bedding Ultra 8568,Home & Kitchen,Bedding,Spaces,3819.18,5680.85
+940,Chumbak Home Decor Superior 5578,Home & Kitchen,Home Decor,Chumbak,2061.34,3132.14
+941,Mother Dairy Dairy Signature 427,Groceries,Dairy,Mother Dairy,410.27,615.80
+942,Wow Haircare Smart 2023,Beauty & Personal Care,Haircare,Wow,1482.35,1937.73
+943,Ponds Skincare Plus 1777,Beauty & Personal Care,Skincare,Ponds,614.50,830.45
+944,Lays Snacks Elite 1808,Groceries,Snacks,Lays,24.13,36.68
+945,Camlin Notebooks Deluxe 5714,Books & Stationery,Notebooks,Camlin,236.67,263.02
+946,Funskool Toys Max 5740,Toys & Baby Products,Toys,Funskool,2941.54,4525.37
+947,H&M Men's Clothing Classic 2171,Fashion,Men's Clothing,H&M,302.73,458.86
+948,MamyPoko Diapers Deluxe 578,Toys & Baby Products,Diapers,MamyPoko,772.52,1033.40
+949,Decathlon Sportswear Max 3538,Sports & Fitness,Sportswear,Decathlon,1466.30,1631.34
+950,Decathlon Sportswear Elite 6028,Sports & Fitness,Sportswear,Decathlon,4842.39,5333.78
+951,Penguin Fiction Original 9676,Books & Stationery,Fiction,Penguin,723.74,1034.42
+952,Titan Smartwatches Plus 8176,Electronics,Smartwatches,Titan,5798.80,8407.60
+953,Rupa Non-Fiction Deluxe 4460,Books & Stationery,Non-Fiction,Rupa,190.11,218.98
+954,Patanjali Staple Standard 8498,Groceries,Staples,Patanjali,673.89,782.97
+955,Adidas Footwear Everyday 3843,Fashion,Footwear,Adidas,1263.13,1627.12
+956,Motorola Mobile Phones Original 3556,Electronics,Mobile Phones,Motorola,26426.28,37739.36
+957,Wow Haircare Value 7698,Beauty & Personal Care,Haircare,Wow,1660.74,1952.18
+958,Bru Beverages Ultra 3543,Groceries,Beverages,Bru,114.97,165.15
+959,Nescafe Beverage Deluxe 9746,Groceries,Beverages,Nescafe,497.77,641.87
+960,Lenovo Laptop Elite 7003,Electronics,Laptops,Lenovo,42017.81,56039.32
+961,Rupa Non-Fiction Deluxe 6185,Books & Stationery,Non-Fiction,Rupa,441.86,607.16
+962,Lego Toys Ultra 6575,Toys & Baby Products,Toys,Lego,1263.58,1458.12
+963,Acer Laptops Premium 2579,Electronics,Laptops,Acer,120637.30,148222.58
+964,MamyPoko Diapers Classic 3953,Toys & Baby Products,Diapers,MamyPoko,397.77,483.16
+965,Pampers Baby Care Ultra 3926,Toys & Baby Products,Baby Care,Pampers,523.00,765.45
+966,Fortune Staples Superior 7624,Groceries,Staples,Fortune,1234.46,1593.79
+967,Himalaya Skincare Compact 9602,Beauty & Personal Care,Skincare,Himalaya,1439.50,2160.99
+968,Wonderchef Cookware Premium 6996,Home & Kitchen,Cookware,Wonderchef,1843.62,2445.59
+969,American Tourister Bag Compact 5713,Fashion,Bags,American Tourister,5353.14,6105.95
+970,Raymond Home Bedding Pro 5465,Home & Kitchen,Bedding,Raymond Home,5226.32,5793.46
+971,Cosco Yoga & Accessories Smart 5712,Sports & Fitness,Yoga & Accessories,Cosco,1588.52,1977.57
+972,Loreal Haircare Standard 2538,Beauty & Personal Care,Haircare,Loreal,1919.18,2556.10
+973,Montra Cycle Plus 4903,Sports & Fitness,Cycles,Montra,18124.81,27344.29
+974,Spaces Bedding Compact 2257,Home & Kitchen,Bedding,Spaces,5250.91,7489.52
+975,Bajaj Kitchen Appliances Sport 7883,Home & Kitchen,Kitchen Appliances,Bajaj,3795.46,4798.60
+976,Titan Smartwatches Deluxe 2988,Electronics,Smartwatches,Titan,15970.98,22469.23
+977,Camlin Office Supplies Plus 5991,Books & Stationery,Office Supplies,Camlin,696.47,926.85
+978,Pantene Haircare Everyday 9002,Beauty & Personal Care,Haircare,Pantene,606.94,851.62
+979,Penguin Non-Fiction Deluxe 1597,Books & Stationery,Non-Fiction,Penguin,340.12,500.07
+980,Sebamed Baby Care Essential 4870,Toys & Baby Products,Baby Care,Sebamed,2112.83,3072.61
+981,Panasonic Televisions Superior 1959,Electronics,Televisions,Panasonic,8193.48,11100.92
+982,Puma Bags Max 4067,Fashion,Bags,Puma,3401.80,4976.72
+983,Lego Toys Deluxe 2021,Toys & Baby Products,Toys,Lego,5321.45,7727.09
+984,Cosco Fitness Equipment Value 5407,Sports & Fitness,Fitness Equipment,Cosco,6166.47,7539.21
+985,Biba Women's Clothing Pro 6356,Fashion,Women's Clothing,Biba,1939.94,2296.93
+986,Reynolds Office Supplies Essential 2796,Books & Stationery,Office Supplies,Reynolds,816.02,1087.15
+987,Under Armour Sportswear Ultra 9157,Sports & Fitness,Sportswear,Under Armour,1135.03,1372.02
+988,Barbie Toys Elite 9606,Toys & Baby Products,Toys,Barbie,370.85,546.58
+989,Sony Televisions Plus 520,Electronics,Televisions,Sony,81063.36,93869.01
+990,Cosco Fitness Equipment Elite 2644,Sports & Fitness,Fitness Equipment,Cosco,11638.16,14348.15
+991,Durian Furniture Lite 7396,Home & Kitchen,Furniture,Durian,15932.77,18435.90
+992,Westland Non-Fiction Standard 4034,Books & Stationery,Non-Fiction,Westland,567.74,828.94
+993,Skybags Bags Value 7585,Fashion,Bags,Skybags,5506.44,7953.35
+994,Skybags Bag Value 1696,Fashion,Bags,Skybags,2194.60,3267.37
+995,Canon Cameras Ultra 3050,Electronics,Cameras,Canon,82129.17,119765.07
+996,Hero Cycles Plus 4580,Sports & Fitness,Cycles,Hero,15720.02,19720.56
+997,Havells Kitchen Appliances Classic 5666,Home & Kitchen,Kitchen Appliances,Havells,15240.66,17459.33
+998,Fortune Staples Smart 6714,Groceries,Staples,Fortune,472.65,637.72
+999,Nestle Dairy Plus 1252,Groceries,Dairy,Nestle,342.09,423.28
+1000,Fabindia Women's Clothing Elite 742,Fashion,Women's Clothing,Fabindia,434.96,659.92
+1001,Decathlon Sportswear Standard 8922,Sports & Fitness,Sportswear,Decathlon,731.35,1107.21
+1002,Fabindia Women's Clothing Compact 119,Fashion,Women's Clothing,Fabindia,4762.26,5349.29
+1003,LG Televisions Plus 6283,Electronics,Televisions,LG,79953.98,93571.42
+1004,Oxford Notebooks Premium 3902,Books & Stationery,Notebooks,Oxford,137.37,196.35
+1005,Lego Toys Elite 2169,Toys & Baby Products,Toys,Lego,3113.11,4212.75
+1006,India Gate Staple Standard 9115,Groceries,Staples,India Gate,449.69,639.13
+1007,Classmate Office Supplies Original 842,Books & Stationery,Office Supplies,Classmate,401.45,457.57
+1008,Camlin Office Supplies Deluxe 7433,Books & Stationery,Office Supplies,Camlin,380.97,511.48
+1009,MamyPoko Diapers Smart 9975,Toys & Baby Products,Diapers,MamyPoko,681.10,1009.24
+1010,Fogg Fragrances Elite 2126,Beauty & Personal Care,Fragrances,Fogg,3052.26,4102.29
+1011,Pantene Haircare Essential 3734,Beauty & Personal Care,Haircare,Pantene,764.08,978.47
+1012,Decathlon Fitness Equipment Smart 6957,Sports & Fitness,Fitness Equipment,Decathlon,6554.92,9197.84
+1013,Camlin Office Supplies Original 7543,Books & Stationery,Office Supplies,Camlin,247.11,276.27
+1014,MamyPoko Diapers Lite 8405,Toys & Baby Products,Diapers,MamyPoko,1105.06,1621.40
+1015,Hot Wheels Toys Deluxe 6149,Toys & Baby Products,Toys,Hot Wheels,6695.92,7700.73
+1016,Sony Cameras Signature 6446,Electronics,Cameras,Sony,15717.76,23258.07
+1017,Britannia Snack Advanced 2429,Groceries,Snacks,Britannia,409.80,559.49
+1018,Timex Watches Everyday 3700,Fashion,Watches,Timex,1754.14,2224.18
+1019,Reynolds Office Supplie Deluxe 8864,Books & Stationery,Office Supplies,Reynolds,803.78,979.58
+1020,Patanjali Staples Standard 6366,Groceries,Staples,Patanjali,348.97,512.79
+1021,Bose Headphone Premium 4938,Electronics,Headphones,Bose,7993.12,10885.10
+1022,Fogg Fragrance Value 5642,Beauty & Personal Care,Fragrances,Fogg,2986.81,3753.74
+1023,Milton Cookware Compact 3968,Home & Kitchen,Cookware,Milton,4126.24,6258.99
+1024,Montra Cycles Deluxe 6799,Sports & Fitness,Cycles,Montra,22977.94,33744.86
+1025,H&M Men's Clothing Standard 9518,Fashion,Men's Clothing,H&M,469.69,685.32
+1026,Himalaya Baby Care Elite 6843,Toys & Baby Products,Baby Care,Himalaya,2167.41,2672.75
+1027,Himalaya Skincare Pro 9025,Beauty & Personal Care,Skincare,Himalaya,443.73,539.12
+1028,Prestige Cookware Value 6072,Home & Kitchen,Cookware,Prestige,1481.66,1670.00
+1029,Adidas Sportswear Superior 1834,Sports & Fitness,Sportswear,Adidas,5006.29,5978.55
+1030,Biba Women's Clothing Essential 3752,Fashion,Women's Clothing,Biba,719.56,980.84
+1031,Bata Footwear Everyday 7885,Fashion,Footwear,Bata,7171.73,10455.31
+1032,Huggies Diapers Everyday 6332,Toys & Baby Products,Diapers,Huggies,332.30,380.71
+1033,Timex Watche Original 1822,Fashion,Watches,Timex,3429.59,5000.81
+1034,Wonderchef Cookware Elite 7843,Home & Kitchen,Cookware,Wonderchef,4154.16,5275.16
+1035,D'Decor Bedding Original 3148,Home & Kitchen,Bedding,D'Decor,5551.99,6826.29
+1036,Fossil Bags Lite 5483,Fashion,Bags,Fossil,3691.35,5413.98
+1037,Tresemme Haircare Sport 8350,Beauty & Personal Care,Haircare,Tresemme,1997.83,2590.13
+1038,Godrej Interio Furniture Signature 5524,Home & Kitchen,Furniture,Godrej Interio,3336.60,4129.98
+1039,Fisher-Price Toys Compact 124,Toys & Baby Products,Toys,Fisher-Price,3978.70,5309.94
+1040,Mamaearth Skincare Plus 3414,Beauty & Personal Care,Skincare,Mamaearth,2262.00,2838.47
+1041,Bru Beverages Value 3257,Groceries,Beverages,Bru,236.16,342.64
+1042,Lenovo Laptop Smart 1048,Electronics,Laptops,Lenovo,48642.42,66849.34
+1043,Peter England Men's Clothing Smart 6999,Fashion,Men's Clothing,Peter England,3231.10,4072.18
+1044,Panasonic Television Value 7496,Electronics,Televisions,Panasonic,9384.83,13832.27
+1045,Sebamed Baby Care Deluxe 8817,Toys & Baby Products,Baby Care,Sebamed,1225.24,1506.24
+1046,Tata Staples Pro 7338,Groceries,Staples,Tata,34.68,44.66
+1047,Titan Watche Ultra 4505,Fashion,Watches,Titan,1618.76,2394.25
+1048,Wild Stone Fragrances Ultra 5423,Beauty & Personal Care,Fragrances,Wild Stone,2952.87,3937.85
+1049,Bombay Dyeing Bedding Pro 2986,Home & Kitchen,Bedding,Bombay Dyeing,4540.13,5456.41
+1050,Parle Snacks Classic 5765,Groceries,Snacks,Parle,59.56,92.25
+1051,Lego Toys Smart 216,Toys & Baby Products,Toys,Lego,2347.67,3019.21
+1052,Huggies Diapers Advanced 772,Toys & Baby Products,Diapers,Huggies,970.68,1318.14
+1053,Classmate Notebook Pro 1690,Books & Stationery,Notebooks,Classmate,235.13,310.10
+1054,Wildcraft Bags Max 702,Fashion,Bags,Wildcraft,4975.62,6859.58
+1055,Nivea Fragrances Essential 4506,Beauty & Personal Care,Fragrances,Nivea,2759.98,3457.61
+1056,Fisher-Price Toys Deluxe 8444,Toys & Baby Products,Toys,Fisher-Price,5833.88,6989.44
+1057,Park Avenue Fragrances Superior 9600,Beauty & Personal Care,Fragrances,Park Avenue,3356.23,4245.21
+1058,TCL Television Plus 1304,Electronics,Televisions,TCL,27338.96,38168.36
+1059,Hawkins Cookware Original 2726,Home & Kitchen,Cookware,Hawkins,204.30,248.53
+1060,Rupa Non-Fiction Premium 4359,Books & Stationery,Non-Fiction,Rupa,901.72,1339.36
+1061,Bajaj Kitchen Appliances Signature 5453,Home & Kitchen,Kitchen Appliances,Bajaj,994.95,1469.31
+1062,Pampers Diapers Essential 1414,Toys & Baby Products,Diapers,Pampers,647.38,771.94
+1063,Funskool Toys Smart 7530,Toys & Baby Products,Toys,Funskool,876.56,1090.18
+1064,Axe Fragrance Pro 364,Beauty & Personal Care,Fragrances,Axe,2476.80,3666.72
+1065,Decathlon Fitness Equipment Lite 7379,Sports & Fitness,Fitness Equipment,Decathlon,7514.42,8943.20
+1066,Camlin Office Supplies Deluxe 6737,Books & Stationery,Office Supplies,Camlin,573.74,691.44
+1067,Classmate Notebook Elite 8787,Books & Stationery,Notebooks,Classmate,68.05,83.37
+1068,Spaces Bedding Original 8860,Home & Kitchen,Bedding,Spaces,5682.23,6779.28
+1069,Durian Furniture Pro 7783,Home & Kitchen,Furniture,Durian,13981.61,20957.14
+1070,Biba Women's Clothing Superior 8779,Fashion,Women's Clothing,Biba,326.02,457.50
+1071,Van Heusen Men's Clothing Essential 9754,Fashion,Men's Clothing,Van Heusen,1927.81,2956.56
+1072,Britannia Dairy Standard 8951,Groceries,Dairy,Britannia,423.11,597.39
+1073,Bombay Dyeing Bedding Advanced 3453,Home & Kitchen,Bedding,Bombay Dyeing,1522.16,2063.79
+1074,Fisher-Price Toys Original 3723,Toys & Baby Products,Toys,Fisher-Price,572.99,833.01
+1075,Reynolds Office Supplies Elite 4423,Books & Stationery,Office Supplies,Reynolds,734.24,1037.65
+1076,Apple Smartwatche Signature 8300,Electronics,Smartwatches,Apple,14368.25,19247.82
+1077,Hero Cycle Original 8029,Sports & Fitness,Cycles,Hero,34011.51,44136.86
+1078,Nestle Dairy Smart 5643,Groceries,Dairy,Nestle,172.12,199.67
+1079,TCL Television Pro 6107,Electronics,Televisions,TCL,39768.76,49461.90
+1080,Classmate Notebooks Plus 2273,Books & Stationery,Notebooks,Classmate,385.22,462.72
+1081,Mother Dairy Dairy Superior 7296,Groceries,Dairy,Mother Dairy,252.71,337.04
+1082,TCL Televisions Value 3963,Electronics,Televisions,TCL,9453.76,14473.05
+1083,Puma Footwear Elite 8128,Fashion,Footwear,Puma,2427.01,3672.50
+1084,Bru Beverage Smart 3910,Groceries,Beverages,Bru,242.75,320.21
+1085,Zara Women's Clothing Pro 6888,Fashion,Women's Clothing,Zara,2696.14,3802.92
+1086,Decathlon Fitness Equipment Ultra 5949,Sports & Fitness,Fitness Equipment,Decathlon,10580.94,12707.47
+1087,Casio Watches Deluxe 2568,Fashion,Watches,Casio,2030.22,2991.85
+1088,Axe Fragrances Plus 3778,Beauty & Personal Care,Fragrances,Axe,2038.61,2341.38
+1089,Under Armour Sportswear Value 4757,Sports & Fitness,Sportswear,Under Armour,4431.32,6776.45
+1090,Skullcandy Headphones Lite 4034,Electronics,Headphones,Skullcandy,13208.83,19965.74
+1091,Fisher-Price Toy Premium 2408,Toys & Baby Products,Toys,Fisher-Price,5370.45,6740.56
+1092,Reebok Fitness Equipment Compact 1229,Sports & Fitness,Fitness Equipment,Reebok,5079.39,6168.78
+1093,Homesake Home Decor Plus 4141,Home & Kitchen,Home Decor,Homesake,2209.73,3392.74
+1094,Funskool Toys Everyday 7576,Toys & Baby Products,Toys,Funskool,2631.16,3109.20
+1095,Pepperfry Home Decor Premium 8015,Home & Kitchen,Home Decor,Pepperfry,511.69,735.68
+1096,HarperCollins Non-Fiction Ultra 3828,Books & Stationery,Non-Fiction,HarperCollins,368.17,458.59
+1097,Timex Watches Signature 1703,Fashion,Watches,Timex,899.79,1198.63
+1098,Timex Watche Compact 5464,Fashion,Watches,Timex,4499.22,5123.21
+1099,Rupa Fiction Classic 3956,Books & Stationery,Fiction,Rupa,267.44,370.79
+1100,Sony Headphones Ultra 7844,Electronics,Headphones,Sony,5397.90,7125.42
+1101,Pantene Haircare Premium 2297,Beauty & Personal Care,Haircare,Pantene,1348.10,2003.28
+1102,Apple Mobile Phones Lite 4395,Electronics,Mobile Phones,Apple,19815.40,29974.13
+1103,Adidas Footwear Standard 196,Fashion,Footwear,Adidas,1681.74,1997.85
+1104,Penguin Fiction Ultra 3747,Books & Stationery,Fiction,Penguin,200.34,224.85
+1105,Puma Footwear Sport 9053,Fashion,Footwear,Puma,3267.57,4294.88
+1106,Nikon Cameras Pro 9364,Electronics,Cameras,Nikon,10423.56,14647.66
+1107,Mee Mee Diaper Value 7028,Toys & Baby Products,Diapers,Mee Mee,791.52,985.11
+1108,Hot Wheels Toy Premium 8416,Toys & Baby Products,Toys,Hot Wheels,3670.71,4861.08
+1109,Pampers Diaper Advanced 1974,Toys & Baby Products,Diapers,Pampers,708.38,948.97
+1110,Nivea Fragrances Essential 5925,Beauty & Personal Care,Fragrances,Nivea,657.35,812.13
+1111,Bru Beverages Pro 9710,Groceries,Beverages,Bru,37.98,56.42
+1112,Decathlon Cycles Compact 4411,Sports & Fitness,Cycles,Decathlon,8142.50,10294.13
+1113,Timex Watche Ultra 2017,Fashion,Watches,Timex,3627.39,4041.48
+1114,Sebamed Baby Care Elite 7782,Toys & Baby Products,Baby Care,Sebamed,103.68,130.46
+1115,Noise Smartwatche Original 6541,Electronics,Smartwatches,Noise,10987.41,13064.05
+1116,GoPro Cameras Original 5958,Electronics,Cameras,GoPro,78909.66,89900.08
+1117,Skullcandy Headphone Sport 9877,Electronics,Headphones,Skullcandy,13299.35,14888.45
+1118,Classmate Notebook Value 2504,Books & Stationery,Notebooks,Classmate,63.29,95.38
+1119,Nilkamal Furniture Deluxe 7693,Home & Kitchen,Furniture,Nilkamal,36769.12,47264.35
+1120,IKEA Furniture Signature 222,Home & Kitchen,Furniture,IKEA,5329.29,8106.37
+1121,Barbie Toy Superior 5470,Toys & Baby Products,Toys,Barbie,2316.66,2703.94
+1122,Pampers Diapers Max 2433,Toys & Baby Products,Diapers,Pampers,206.64,308.09
+1123,Parker Office Supplies Pro 5362,Books & Stationery,Office Supplies,Parker,152.05,234.58
+1124,Morphy Richards Kitchen Appliances Everyday 4287,Home & Kitchen,Kitchen Appliances,Morphy Richards,15257.21,19941.86
+1125,Boldfit Yoga & Accessorie Standard 3842,Sports & Fitness,Yoga & Accessories,Boldfit,1091.51,1379.15
+1126,Rupa Fiction Original 1072,Books & Stationery,Fiction,Rupa,270.37,391.31
+1127,Decathlon Fitness Equipment Ultra 8066,Sports & Fitness,Fitness Equipment,Decathlon,3369.19,5219.00
+1128,Patanjali Staples Elite 8002,Groceries,Staples,Patanjali,288.31,392.90
+1129,Fossil Watches Advanced 4895,Fashion,Watches,Fossil,7451.61,9910.72
+1130,Himalaya Baby Care Sport 9147,Toys & Baby Products,Baby Care,Himalaya,1692.65,2376.57
+1131,Rupa Fiction Smart 1280,Books & Stationery,Fiction,Rupa,575.73,674.30
+1132,Nykaa Makeup Ultra 2693,Beauty & Personal Care,Makeup,Nykaa,2091.64,2998.67
+1133,Decathlon Cycle Essential 4270,Sports & Fitness,Cycles,Decathlon,15641.98,21112.80
+1134,Strauss Yoga & Accessories Standard 8464,Sports & Fitness,Yoga & Accessories,Strauss,348.35,439.28
+1135,Bombay Dyeing Bedding Original 4338,Home & Kitchen,Bedding,Bombay Dyeing,5050.13,7379.63
+1136,Boat Headphone Value 5666,Electronics,Headphones,Boat,11077.83,12705.68
+1137,Lays Snack Standard 8318,Groceries,Snacks,Lays,199.88,241.69
+1138,Cosco Fitness Equipment Pro 3596,Sports & Fitness,Fitness Equipment,Cosco,8411.22,10861.96
+1139,Bingo Snack Everyday 3562,Groceries,Snacks,Bingo,331.60,461.40
+1140,Titan Watches Max 6061,Fashion,Watches,Titan,12713.94,14066.09
+1141,Ponds Skincare Standard 8518,Beauty & Personal Care,Skincare,Ponds,2212.74,2590.78
+1142,Bru Beverages Max 9070,Groceries,Beverages,Bru,742.82,1140.90
+1143,Homesake Home Decor Everyday 7986,Home & Kitchen,Home Decor,Homesake,3666.19,5322.07
+1144,Decathlon Yoga & Accessories Classic 1110,Sports & Fitness,Yoga & Accessories,Decathlon,2509.14,3413.21
+1145,Pepperfry Home Decor Signature 1233,Home & Kitchen,Home Decor,Pepperfry,2320.19,3210.47
+1146,Mee Mee Diapers Standard 4643,Toys & Baby Products,Diapers,Mee Mee,916.70,1420.74
+1147,Wow Haircare Smart 1498,Beauty & Personal Care,Haircare,Wow,1708.48,2211.53
+1148,Boat Smartwatche Classic 9109,Electronics,Smartwatches,Boat,8277.68,10675.63
+1149,Pampers Baby Care Everyday 6692,Toys & Baby Products,Baby Care,Pampers,2054.99,3049.79
+1150,Nikon Cameras Plus 9087,Electronics,Cameras,Nikon,23595.06,29641.78
+1151,Haldiram's Snack Advanced 7193,Groceries,Snacks,Haldiram's,230.36,265.88
+1152,Mee Mee Baby Care Advanced 3765,Toys & Baby Products,Baby Care,Mee Mee,1196.15,1615.63
+1153,Classmate Notebooks Advanced 1938,Books & Stationery,Notebooks,Classmate,155.97,214.58
+1154,Tata Tea Beverages Essential 3097,Groceries,Beverages,Tata Tea,600.16,861.71
+1155,Decathlon Fitness Equipment Original 7123,Sports & Fitness,Fitness Equipment,Decathlon,18447.15,26646.52
+1156,Pampers Diapers Signature 7892,Toys & Baby Products,Diapers,Pampers,550.65,764.03
+1157,Titan Watches Signature 5195,Fashion,Watches,Titan,6773.03,8219.41
+1158,Dove Haircare Smart 3995,Beauty & Personal Care,Haircare,Dove,2033.75,3117.96
+1159,Fisher-Price Toy Premium 2223,Toys & Baby Products,Toys,Fisher-Price,2603.92,3200.22
+1160,Montra Cycles Plus 7060,Sports & Fitness,Cycles,Montra,26334.64,34813.75
+1161,Ponds Skincare Elite 9515,Beauty & Personal Care,Skincare,Ponds,1756.12,2538.16
+1162,Decathlon Fitness Equipment Max 2654,Sports & Fitness,Fitness Equipment,Decathlon,11898.40,14831.79
+1163,Zara Women's Clothing Smart 3428,Fashion,Women's Clothing,Zara,2068.96,2752.99
+1164,Lakme Skincare Max 2366,Beauty & Personal Care,Skincare,Lakme,152.92,173.87
+1165,Johnson's Baby Care Smart 7849,Toys & Baby Products,Baby Care,Johnson's,856.24,1319.70
+1166,Titan Smartwatche Smart 9131,Electronics,Smartwatches,Titan,26351.01,35859.04
+1167,Fortune Staples Lite 6300,Groceries,Staples,Fortune,96.60,135.27
+1168,Apple Laptops Lite 9356,Electronics,Laptops,Apple,58738.57,86634.08
+1169,Mamaearth Skincare Elite 8654,Beauty & Personal Care,Skincare,Mamaearth,573.99,737.20
+1170,Hot Wheels Toy Original 1456,Toys & Baby Products,Toys,Hot Wheels,2814.13,3190.68
+1171,Funskool Toys Compact 2945,Toys & Baby Products,Toys,Funskool,3320.78,3776.53
+1172,Parker Office Supplies Classic 6608,Books & Stationery,Office Supplies,Parker,427.96,583.71
+1173,Nykaa Makeup Classic 2021,Beauty & Personal Care,Makeup,Nykaa,3233.40,4048.84
+1174,Mi Televisions Value 9666,Electronics,Televisions,Mi,43938.04,64062.30
+1175,Nivea Skincare Essential 7713,Beauty & Personal Care,Skincare,Nivea,1823.52,2440.96
+1176,Prestige Cookware Superior 3786,Home & Kitchen,Cookware,Prestige,555.33,704.34
+1177,Rupa Fiction Smart 1913,Books & Stationery,Fiction,Rupa,485.58,635.09
+1178,Penguin Non-Fiction Compact 1634,Books & Stationery,Non-Fiction,Penguin,732.71,922.52
+1179,Wildcraft Bags Smart 8934,Fashion,Bags,Wildcraft,4234.90,5803.17
+1180,Mother Dairy Dairy Original 2471,Groceries,Dairy,Mother Dairy,365.74,433.05
+1181,Red Label Beverages Elite 5050,Groceries,Beverages,Red Label,431.42,477.20
+1182,Rupa Non-Fiction Elite 7807,Books & Stationery,Non-Fiction,Rupa,517.97,724.11
+1183,Hot Wheels Toys Signature 4819,Toys & Baby Products,Toys,Hot Wheels,2027.98,2382.27
+1184,Allen Solly Men's Clothing Signature 2606,Fashion,Men's Clothing,Allen Solly,3952.00,4507.93
+1185,Pigeon Cookware Smart 5408,Home & Kitchen,Cookware,Pigeon,888.93,1100.38
+1186,Huggies Diaper Value 1911,Toys & Baby Products,Diapers,Huggies,719.83,1001.67
+1187,Puma Bags Advanced 9111,Fashion,Bags,Puma,3801.76,5737.85
+1188,Prestige Kitchen Appliance Pro 2568,Home & Kitchen,Kitchen Appliances,Prestige,9208.76,11301.75
+1189,Pampers Diaper Smart 4649,Toys & Baby Products,Diapers,Pampers,1051.33,1281.34
+1190,American Tourister Bags Lite 7925,Fashion,Bags,American Tourister,1259.46,1562.83
+1191,Aashirvaad Staple Max 1304,Groceries,Staples,Aashirvaad,977.89,1146.71
+1192,Decathlon Fitness Equipment Max 5957,Sports & Fitness,Fitness Equipment,Decathlon,6833.17,9070.39
+1193,Pepperfry Home Decor Ultra 8175,Home & Kitchen,Home Decor,Pepperfry,3340.95,4443.53
+1194,Zara Women's Clothing Pro 3948,Fashion,Women's Clothing,Zara,2985.08,3991.34
+1195,Urban Ladder Furniture Ultra 3706,Home & Kitchen,Furniture,Urban Ladder,27826.17,34791.16
+1196,Boat Headphones Signature 9491,Electronics,Headphones,Boat,7884.91,9951.11
+1197,Firefox Cycles Sport 9807,Sports & Fitness,Cycles,Firefox,23342.97,27149.32
+1198,Cosco Fitness Equipment Standard 4472,Sports & Fitness,Fitness Equipment,Cosco,15256.55,19040.67
+1199,Mee Mee Diapers Standard 1295,Toys & Baby Products,Diapers,Mee Mee,298.88,451.23
+1200,Cosco Yoga & Accessories Lite 3894,Sports & Fitness,Yoga & Accessories,Cosco,2149.52,3087.35
+1201,Sony Televisions Deluxe 9176,Electronics,Televisions,Sony,99189.46,141703.20
+1202,Puma Bags Original 4840,Fashion,Bags,Puma,3466.27,4508.38
+1203,Prestige Kitchen Appliances Advanced 4426,Home & Kitchen,Kitchen Appliances,Prestige,18363.19,27487.35
+1204,Adidas Footwear Classic 8947,Fashion,Footwear,Adidas,5364.60,7025.18
+1205,Sprite Beverages Sport 8272,Groceries,Beverages,Sprite,465.23,711.14
+1206,Lego Toys Deluxe 1367,Toys & Baby Products,Toys,Lego,3935.04,5508.66
+1207,Fire-Boltt Smartwatches Elite 3470,Electronics,Smartwatches,Fire-Boltt,2497.21,3067.71
+1208,Funskool Toys Advanced 9872,Toys & Baby Products,Toys,Funskool,5914.23,7189.97
+1209,Parker Office Supplies Standard 5765,Books & Stationery,Office Supplies,Parker,99.07,109.19
+1210,Decathlon Yoga & Accessories Pro 4191,Sports & Fitness,Yoga & Accessories,Decathlon,2222.45,3231.82
+1211,Tata Staple Pro 9617,Groceries,Staples,Tata,1094.90,1316.69
+1212,Mother Dairy Dairy Plus 1609,Groceries,Dairy,Mother Dairy,111.22,146.12
+1213,Canon Cameras Ultra 7470,Electronics,Cameras,Canon,30670.25,44085.09
+1214,Bingo Snacks Superior 955,Groceries,Snacks,Bingo,167.88,258.40
+1215,BSA Cycles Elite 5271,Sports & Fitness,Cycles,BSA,34336.16,49502.52
+1216,Fabindia Women's Clothing Superior 8394,Fashion,Women's Clothing,Fabindia,4910.98,7290.93
+1217,BSA Cycles Pro 1836,Sports & Fitness,Cycles,BSA,12035.19,16531.34
+1218,Parker Office Supplies Plus 8913,Books & Stationery,Office Supplies,Parker,583.20,758.14
+1219,Firefox Cycles Ultra 8936,Sports & Fitness,Cycles,Firefox,35365.18,40905.15
+1220,Patanjali Staples Everyday 4817,Groceries,Staples,Patanjali,112.19,136.02
+1221,Sony Cameras Original 9346,Electronics,Cameras,Sony,19826.53,22908.09
+1222,Aashirvaad Staples Ultra 1790,Groceries,Staples,Aashirvaad,1136.88,1555.25
+1223,Barbie Toys Advanced 1907,Toys & Baby Products,Toys,Barbie,635.71,712.60
+1224,Tata Tea Beverage Classic 9684,Groceries,Beverages,Tata Tea,554.98,646.94
+1225,Cosco Yoga & Accessories Sport 7908,Sports & Fitness,Yoga & Accessories,Cosco,1386.96,2143.87
+1226,Pigeon Cookware Value 8537,Home & Kitchen,Cookware,Pigeon,1025.21,1402.75
+1227,Firefox Cycles Smart 3600,Sports & Fitness,Cycles,Firefox,16431.32,22983.23
+1228,IKEA Furniture Smart 9658,Home & Kitchen,Furniture,IKEA,27384.45,30880.90
+1229,Barbie Toys Premium 812,Toys & Baby Products,Toys,Barbie,891.71,1084.84
+1230,Britannia Snacks Max 8147,Groceries,Snacks,Britannia,199.94,241.98
+1231,Decathlon Cycle Smart 5291,Sports & Fitness,Cycles,Decathlon,24956.22,38219.18
+1232,Rupa Fiction Plus 7861,Books & Stationery,Fiction,Rupa,696.26,896.08
+1233,Parle Snacks Elite 6505,Groceries,Snacks,Parle,326.46,384.93
+1234,Nescafe Beverages Classic 3386,Groceries,Beverages,Nescafe,777.95,1088.65
+1235,Fisher-Price Toys Essential 4146,Toys & Baby Products,Toys,Fisher-Price,138.20,169.22
+1236,MAC Makeup Essential 6737,Beauty & Personal Care,Makeup,MAC,573.84,880.82
+1237,Nikon Camera Classic 1429,Electronics,Cameras,Nikon,45951.50,70824.96
+1238,Bombay Dyeing Bedding Essential 2683,Home & Kitchen,Bedding,Bombay Dyeing,1314.77,1588.99
+1239,Canon Cameras Max 3185,Electronics,Cameras,Canon,8501.12,13143.02
+1240,Adidas Footwear Pro 2712,Fashion,Footwear,Adidas,5209.67,5933.60
+1241,Decathlon Fitness Equipment Standard 4800,Sports & Fitness,Fitness Equipment,Decathlon,17015.18,21293.43
+1242,Apple Mobile Phones Standard 2165,Electronics,Mobile Phones,Apple,59563.12,70848.16
+1243,Nike Sportswear Plus 2159,Sports & Fitness,Sportswear,Nike,3782.20,4226.38
+1244,MamyPoko Diapers Lite 8921,Toys & Baby Products,Diapers,MamyPoko,909.05,1080.66
+1245,Titan Smartwatche Signature 7522,Electronics,Smartwatches,Titan,25059.76,37685.01
+1246,Red Label Beverages Smart 7599,Groceries,Beverages,Red Label,424.85,473.62
+1247,Himalaya Baby Care Everyday 6558,Toys & Baby Products,Baby Care,Himalaya,132.58,197.04
+1248,Wild Stone Fragrance Smart 2156,Beauty & Personal Care,Fragrances,Wild Stone,990.22,1133.13
+1249,Navneet Notebooks Value 8253,Books & Stationery,Notebooks,Navneet,154.60,177.92
+1250,Bajaj Kitchen Appliances Plus 9150,Home & Kitchen,Kitchen Appliances,Bajaj,16147.51,18735.32
+1251,Spaces Bedding Max 1592,Home & Kitchen,Bedding,Spaces,1798.58,2607.66
+1252,Boldfit Yoga & Accessorie Sport 1562,Sports & Fitness,Yoga & Accessories,Boldfit,301.46,461.63
+1253,Fortune Staples Elite 1458,Groceries,Staples,Fortune,125.42,166.73
+1254,Skybags Bags Smart 3522,Fashion,Bags,Skybags,1349.25,2014.42
+1255,Chumbak Home Decor Sport 7093,Home & Kitchen,Home Decor,Chumbak,3157.51,4587.55
+1256,Titan Watche Premium 1995,Fashion,Watches,Titan,10403.05,11979.13
+1257,Decathlon Cycles Essential 599,Sports & Fitness,Cycles,Decathlon,9269.88,11004.02
+1258,Motorola Mobile Phones Signature 885,Electronics,Mobile Phones,Motorola,10422.55,14229.23
+1259,Noise Smartwatches Essential 8940,Electronics,Smartwatches,Noise,27812.78,33747.49
+1260,Fujifilm Camera Deluxe 7254,Electronics,Cameras,Fujifilm,58491.63,65808.72
+1261,Bloomsbury Fiction Plus 1828,Books & Stationery,Fiction,Bloomsbury,374.63,497.38
+1262,Decathlon Yoga & Accessories Sport 1058,Sports & Fitness,Yoga & Accessories,Decathlon,774.09,1066.44
+1263,Nikon Cameras Lite 5166,Electronics,Cameras,Nikon,76543.95,84915.90
+1264,Van Heusen Men's Clothing Value 1202,Fashion,Men's Clothing,Van Heusen,4012.17,5222.01
+1265,Xiaomi Mobile Phone Everyday 5334,Electronics,Mobile Phones,Xiaomi,10773.84,14387.37
+1266,Westland Non-Fiction Max 4246,Books & Stationery,Non-Fiction,Westland,310.34,387.98
+1267,Pampers Baby Care Value 2143,Toys & Baby Products,Baby Care,Pampers,642.89,872.09
+1268,Bajaj Kitchen Appliances Standard 8027,Home & Kitchen,Kitchen Appliances,Bajaj,19143.10,28781.41
+1269,Himalaya Baby Care Premium 9343,Toys & Baby Products,Baby Care,Himalaya,2286.05,2726.00
+1270,Titan Smartwatches Everyday 4390,Electronics,Smartwatches,Titan,16465.04,25390.30
+1271,Mother Dairy Dairy Smart 9334,Groceries,Dairy,Mother Dairy,159.86,244.27
+1272,Pampers Baby Care Value 5664,Toys & Baby Products,Baby Care,Pampers,1789.89,2410.95
+1273,D'Decor Bedding Classic 1587,Home & Kitchen,Bedding,D'Decor,1319.97,2034.42
+1274,Rupa Non-Fiction Signature 1083,Books & Stationery,Non-Fiction,Rupa,1061.23,1290.27
+1275,Loreal Haircare Premium 9031,Beauty & Personal Care,Haircare,Loreal,1535.75,2091.57
+1276,Mee Mee Baby Care Premium 5863,Toys & Baby Products,Baby Care,Mee Mee,1072.33,1415.77
+1277,Lakme Makeup Essential 5349,Beauty & Personal Care,Makeup,Lakme,1717.52,2275.26
+1278,Fossil Watche Premium 8150,Fashion,Watches,Fossil,8290.17,11350.16
+1279,Classmate Notebooks Ultra 5951,Books & Stationery,Notebooks,Classmate,81.16,121.30
+1280,Boat Smartwatches Deluxe 7918,Electronics,Smartwatches,Boat,5844.95,8510.33
+1281,Bingo Snacks Everyday 408,Groceries,Snacks,Bingo,42.76,60.10
+1282,Aashirvaad Staples Superior 4138,Groceries,Staples,Aashirvaad,92.37,121.68
+1283,Dove Haircare Compact 4082,Beauty & Personal Care,Haircare,Dove,925.45,1371.00
+1284,Pigeon Cookware Plus 1181,Home & Kitchen,Cookware,Pigeon,3118.35,4769.64
+1285,Hot Wheels Toys Compact 3486,Toys & Baby Products,Toys,Hot Wheels,6648.27,8219.99
+1286,Huggies Diapers Smart 926,Toys & Baby Products,Diapers,Huggies,891.45,1361.35
+1287,Noise Smartwatches Plus 3006,Electronics,Smartwatches,Noise,25072.05,35133.85
+1288,Park Avenue Fragrance Signature 1795,Beauty & Personal Care,Fragrances,Park Avenue,1509.61,2025.70
+1289,Panasonic Televisions Smart 3999,Electronics,Televisions,Panasonic,63210.51,75857.87
+1290,Skybags Bag Compact 7788,Fashion,Bags,Skybags,3484.39,4248.28
+1291,BSA Cycles Value 9106,Sports & Fitness,Cycles,BSA,18578.48,24048.76
+1292,Lays Snacks Sport 4982,Groceries,Snacks,Lays,285.68,340.14
+1293,Chumbak Home Decor Everyday 7642,Home & Kitchen,Home Decor,Chumbak,4228.41,6019.45
+1294,Red Label Beverages Plus 7216,Groceries,Beverages,Red Label,558.99,780.21
+1295,Raymond Home Bedding Ultra 1085,Home & Kitchen,Bedding,Raymond Home,4587.80,6199.65
+1296,Fastrack Watche Premium 2407,Fashion,Watches,Fastrack,704.21,950.33
+1297,IKEA Furniture Original 158,Home & Kitchen,Furniture,IKEA,19099.37,25188.35
+1298,Timex Watches Smart 5572,Fashion,Watches,Timex,10793.47,14987.44
+1299,Philips Kitchen Appliances Plus 2041,Home & Kitchen,Kitchen Appliances,Philips,19614.49,28562.13
+1300,HarperCollins Fiction Classic 5359,Books & Stationery,Fiction,HarperCollins,485.25,657.83
+1301,Parle Snacks Advanced 347,Groceries,Snacks,Parle,226.01,297.83
+1302,Montra Cycle Sport 7819,Sports & Fitness,Cycles,Montra,37478.57,49710.06
+1303,Philips Kitchen Appliances Deluxe 6417,Home & Kitchen,Kitchen Appliances,Philips,17487.18,21525.99
+1304,Park Avenue Fragrance Premium 1233,Beauty & Personal Care,Fragrances,Park Avenue,1492.36,2077.82
+1305,Durian Furniture Plus 4535,Home & Kitchen,Furniture,Durian,35201.81,43829.47
+1306,Bru Beverages Value 1470,Groceries,Beverages,Bru,605.28,812.24
+1307,Boldfit Yoga & Accessories Premium 3867,Sports & Fitness,Yoga & Accessories,Boldfit,2132.77,2822.15
+1308,Morphy Richards Kitchen Appliances Compact 8253,Home & Kitchen,Kitchen Appliances,Morphy Richards,2885.06,3774.23
+1309,Maybelline Makeup Advanced 4531,Beauty & Personal Care,Makeup,Maybelline,1383.32,1907.76
+1310,Johnson's Baby Care Superior 844,Toys & Baby Products,Baby Care,Johnson's,987.30,1507.05
+1311,Westland Non-Fiction Essential 6298,Books & Stationery,Non-Fiction,Westland,291.98,379.61
+1312,Decathlon Fitness Equipment Premium 1936,Sports & Fitness,Fitness Equipment,Decathlon,9399.41,12385.02
+1313,Prestige Kitchen Appliances Signature 7687,Home & Kitchen,Kitchen Appliances,Prestige,20568.36,31673.04
+1314,Rupa Non-Fiction Value 2582,Books & Stationery,Non-Fiction,Rupa,1136.20,1702.35
+1315,Godrej Interio Furniture Classic 1202,Home & Kitchen,Furniture,Godrej Interio,28539.14,35183.12
+1316,Puma Footwear Everyday 146,Fashion,Footwear,Puma,2491.06,2845.25
+1317,Decathlon Cycles Everyday 3744,Sports & Fitness,Cycles,Decathlon,37127.10,46938.56
+1318,Tresemme Haircare Superior 7348,Beauty & Personal Care,Haircare,Tresemme,1030.85,1508.37
+1319,Prestige Kitchen Appliance Ultra 6661,Home & Kitchen,Kitchen Appliances,Prestige,15463.78,22839.33
+1320,Haldiram's Snack Standard 6452,Groceries,Snacks,Haldiram's,149.18,184.92
+1321,Dell Laptops Advanced 7589,Electronics,Laptops,Dell,16769.72,21162.10
+1322,Panasonic Televisions Everyday 8098,Electronics,Televisions,Panasonic,20927.72,28366.05
+1323,Huggies Diapers Elite 8200,Toys & Baby Products,Diapers,Huggies,777.29,1092.64
+1324,Sebamed Baby Care Max 6253,Toys & Baby Products,Baby Care,Sebamed,1754.64,2582.04
+1325,Panasonic Televisions Ultra 6345,Electronics,Televisions,Panasonic,88466.27,132865.72
+1326,Sony Cameras Smart 1151,Electronics,Cameras,Sony,82027.62,98133.92
+1327,Amul Dairy Compact 7000,Groceries,Dairy,Amul,266.99,317.09
+1328,IKEA Furniture Original 7675,Home & Kitchen,Furniture,IKEA,20116.39,25423.41
+1329,Pampers Baby Care Original 3994,Toys & Baby Products,Baby Care,Pampers,2490.26,3757.23
+1330,Nilkamal Furniture Sport 9887,Home & Kitchen,Furniture,Nilkamal,29434.59,40989.80
+1331,Bingo Snacks Max 6155,Groceries,Snacks,Bingo,359.67,490.41
+1332,Adidas Footwear Premium 5180,Fashion,Footwear,Adidas,6888.24,9204.03
+1333,Nivea Fragrances Sport 6497,Beauty & Personal Care,Fragrances,Nivea,3998.80,4839.17
+1334,Reynolds Office Supplies Everyday 2619,Books & Stationery,Office Supplies,Reynolds,720.84,812.59
+1335,Fossil Bags Standard 5008,Fashion,Bags,Fossil,1113.25,1629.88
+1336,Lego Toys Ultra 8787,Toys & Baby Products,Toys,Lego,3089.68,4288.84
+1337,Pigeon Cookware Superior 4703,Home & Kitchen,Cookware,Pigeon,930.85,1250.89
+1338,Bingo Snacks Signature 3214,Groceries,Snacks,Bingo,163.04,181.67
+1339,Fossil Bags Elite 9089,Fashion,Bags,Fossil,2728.38,3648.52
+1340,Oxford Notebooks Essential 6790,Books & Stationery,Notebooks,Oxford,15.96,22.04
+1341,Rupa Non-Fiction Max 5188,Books & Stationery,Non-Fiction,Rupa,320.59,368.04
+1342,Puma Footwear Everyday 8766,Fashion,Footwear,Puma,6669.03,9398.56
+1343,Johnson's Baby Care Signature 1332,Toys & Baby Products,Baby Care,Johnson's,1652.91,2081.36
+1344,Homesake Home Decor Elite 9598,Home & Kitchen,Home Decor,Homesake,2176.36,2496.80
+1345,Skullcandy Headphone Everyday 1173,Electronics,Headphones,Skullcandy,3565.39,4079.82
+1346,Classmate Notebooks Pro 5865,Books & Stationery,Notebooks,Classmate,26.26,39.95
+1347,MamyPoko Diapers Smart 8372,Toys & Baby Products,Diapers,MamyPoko,692.88,886.16
+1348,Boldfit Yoga & Accessories Signature 5608,Sports & Fitness,Yoga & Accessories,Boldfit,1437.84,1717.53
+1349,Red Label Beverage Essential 4753,Groceries,Beverages,Red Label,513.23,620.81
+1350,Huggies Diapers Essential 3724,Toys & Baby Products,Diapers,Huggies,766.33,1163.46
+1351,Strauss Yoga & Accessories Max 7640,Sports & Fitness,Yoga & Accessories,Strauss,1726.45,2505.61
+1352,Sugar Makeup Original 9589,Beauty & Personal Care,Makeup,Sugar,261.63,369.10
+1353,Oxford Notebook Original 4210,Books & Stationery,Notebooks,Oxford,315.46,484.72
+1354,Park Avenue Fragrances Pro 9183,Beauty & Personal Care,Fragrances,Park Avenue,393.48,538.38
+1355,Pampers Baby Care Ultra 5364,Toys & Baby Products,Baby Care,Pampers,571.62,850.05
+1356,Titan Watches Deluxe 7437,Fashion,Watches,Titan,7148.51,9740.44
+1357,MSI Laptops Max 7440,Electronics,Laptops,MSI,25157.00,29082.14
+1358,H&M Women's Clothing Superior 1015,Fashion,Women's Clothing,H&M,609.22,922.16
+1359,Penguin Non-Fiction Ultra 2332,Books & Stationery,Non-Fiction,Penguin,1103.91,1699.26
+1360,Nestle Dairy Compact 8395,Groceries,Dairy,Nestle,17.04,22.79
+1361,Hero Cycle Classic 176,Sports & Fitness,Cycles,Hero,16769.51,19704.61
+1362,Funskool Toys Smart 5403,Toys & Baby Products,Toys,Funskool,6293.44,9624.53
+1363,Prestige Kitchen Appliances Value 9170,Home & Kitchen,Kitchen Appliances,Prestige,19124.70,28344.42
+1364,Bloomsbury Fiction Plus 6322,Books & Stationery,Fiction,Bloomsbury,99.27,113.64
+1365,Under Armour Sportswear Plus 2874,Sports & Fitness,Sportswear,Under Armour,1782.96,2244.02
+1366,The Body Shop Skincare Smart 1827,Beauty & Personal Care,Skincare,The Body Shop,2227.36,2734.35
+1367,Morphy Richards Kitchen Appliance Deluxe 9867,Home & Kitchen,Kitchen Appliances,Morphy Richards,19170.11,21734.72
+1368,Bombay Dyeing Bedding Advanced 6061,Home & Kitchen,Bedding,Bombay Dyeing,5012.18,6481.35
+1369,Lays Snacks Sport 9198,Groceries,Snacks,Lays,310.43,432.99
+1370,Mi Televisions Lite 3272,Electronics,Televisions,Mi,44242.45,54757.15
+1371,Bata Footwear Elite 3566,Fashion,Footwear,Bata,7616.47,10893.84
+1372,HarperCollins Fiction Elite 9213,Books & Stationery,Fiction,HarperCollins,739.69,1110.55
+1373,Tata Staples Advanced 738,Groceries,Staples,Tata,1029.16,1508.18
+1374,Under Armour Sportswear Ultra 5253,Sports & Fitness,Sportswear,Under Armour,1107.99,1538.56
+1375,Montra Cycles Original 9843,Sports & Fitness,Cycles,Montra,36101.74,44648.59
+1376,MamyPoko Diapers Max 9026,Toys & Baby Products,Diapers,MamyPoko,170.03,203.91
+1377,HarperCollins Fiction Signature 2704,Books & Stationery,Fiction,HarperCollins,365.37,537.19
+1378,Timex Watches Standard 1995,Fashion,Watches,Timex,11841.15,16263.00
+1379,Wildcraft Bag Ultra 6019,Fashion,Bags,Wildcraft,4571.28,6440.64
+1380,Urban Ladder Furniture Original 8882,Home & Kitchen,Furniture,Urban Ladder,35947.48,50802.14
+1381,Skybags Bags Elite 2217,Fashion,Bags,Skybags,1290.46,1684.44
+1382,D'Decor Bedding Standard 1722,Home & Kitchen,Bedding,D'Decor,2184.65,2441.62
+1383,HarperCollins Fiction Smart 3308,Books & Stationery,Fiction,HarperCollins,216.48,299.22
+1384,Rupa Non-Fiction Sport 4093,Books & Stationery,Non-Fiction,Rupa,1049.04,1337.80
+1385,Fujifilm Cameras Smart 8509,Electronics,Cameras,Fujifilm,100939.44,153284.78
+1386,MamyPoko Diapers Sport 7498,Toys & Baby Products,Diapers,MamyPoko,607.68,912.19
+1387,Camlin Office Supplie Everyday 2427,Books & Stationery,Office Supplies,Camlin,274.01,365.66
+1388,Sugar Makeup Classic 9766,Beauty & Personal Care,Makeup,Sugar,534.21,749.32
+1389,Philips Kitchen Appliances Value 1007,Home & Kitchen,Kitchen Appliances,Philips,6295.06,7455.32
+1390,Decathlon Fitness Equipment Everyday 1298,Sports & Fitness,Fitness Equipment,Decathlon,7988.67,11439.88
+1391,Aashirvaad Staple Compact 4297,Groceries,Staples,Aashirvaad,463.70,638.56
+1392,Skullcandy Headphone Superior 7658,Electronics,Headphones,Skullcandy,19601.65,30245.31
+1393,Parker Office Supplies Superior 7710,Books & Stationery,Office Supplies,Parker,134.19,193.79
+1394,Bombay Dyeing Bedding Essential 2557,Home & Kitchen,Bedding,Bombay Dyeing,4857.38,5924.29
+1395,Fortune Staples Deluxe 7607,Groceries,Staples,Fortune,355.28,536.48
+1396,Godrej Interio Furniture Elite 8633,Home & Kitchen,Furniture,Godrej Interio,32948.17,51005.48
+1397,Homesake Home Decor Classic 9435,Home & Kitchen,Home Decor,Homesake,3578.12,4718.07
+1398,Casio Watches Premium 2719,Fashion,Watches,Casio,4879.91,5604.97
+1399,Bajaj Kitchen Appliances Original 1437,Home & Kitchen,Kitchen Appliances,Bajaj,20544.39,26283.60
+1400,Mee Mee Baby Care Everyday 8678,Toys & Baby Products,Baby Care,Mee Mee,1398.67,1733.35
+1401,Decathlon Fitness Equipment Elite 6351,Sports & Fitness,Fitness Equipment,Decathlon,13199.24,20237.78
+1402,Johnson's Baby Care Superior 1524,Toys & Baby Products,Baby Care,Johnson's,2426.07,3036.35
+1403,Adidas Sportswear Pro 6732,Sports & Fitness,Sportswear,Adidas,685.39,1006.14
+1404,Wild Stone Fragrance Value 991,Beauty & Personal Care,Fragrances,Wild Stone,2480.42,2967.41
+1405,Strauss Yoga & Accessories Lite 6924,Sports & Fitness,Yoga & Accessories,Strauss,712.94,992.36
+1406,Huggies Diapers Elite 4410,Toys & Baby Products,Diapers,Huggies,702.09,789.96
+1407,Aashirvaad Staples Sport 7784,Groceries,Staples,Aashirvaad,482.99,571.03
+1408,Pigeon Cookware Essential 1656,Home & Kitchen,Cookware,Pigeon,3464.33,5301.01
+1409,Wild Stone Fragrances Everyday 1084,Beauty & Personal Care,Fragrances,Wild Stone,397.47,615.03
+1410,Britannia Dairy Everyday 9357,Groceries,Dairy,Britannia,296.43,401.84
+1411,Decathlon Sportswear Everyday 7745,Sports & Fitness,Sportswear,Decathlon,2734.69,3565.94
+1412,Amul Dairy Advanced 8164,Groceries,Dairy,Amul,89.02,108.70
+1413,Camlin Notebooks Elite 1171,Books & Stationery,Notebooks,Camlin,84.54,118.48
+1414,Pampers Baby Care Compact 603,Toys & Baby Products,Baby Care,Pampers,2402.02,2668.11
+1415,Oxford Notebooks Standard 8376,Books & Stationery,Notebooks,Oxford,13.02,16.68
+1416,Funskool Toy Plus 2553,Toys & Baby Products,Toys,Funskool,6045.10,8058.97
+1417,Pampers Baby Care Lite 7327,Toys & Baby Products,Baby Care,Pampers,1720.49,2377.39
+1418,Peter England Men's Clothing Ultra 3755,Fashion,Men's Clothing,Peter England,280.48,309.02
+1419,Johnson's Baby Care Ultra 9507,Toys & Baby Products,Baby Care,Johnson's,290.87,426.88
+1420,India Gate Staples Sport 1728,Groceries,Staples,India Gate,115.25,145.33
+1421,Strauss Yoga & Accessories Ultra 763,Sports & Fitness,Yoga & Accessories,Strauss,537.99,765.28
+1422,Park Avenue Fragrances Deluxe 783,Beauty & Personal Care,Fragrances,Park Avenue,1527.60,2060.26
+1423,Reynolds Office Supplies Essential 7360,Books & Stationery,Office Supplies,Reynolds,399.38,505.01
+1424,Red Label Beverage Standard 7396,Groceries,Beverages,Red Label,777.38,983.32
+1425,D'Decor Bedding Everyday 3394,Home & Kitchen,Bedding,D'Decor,3412.51,5183.28
+1426,Wow Haircare Sport 2286,Beauty & Personal Care,Haircare,Wow,348.35,513.58
+1427,Bose Headphones Essential 8737,Electronics,Headphones,Bose,8031.85,10659.04
+1428,Peter England Men's Clothing Everyday 352,Fashion,Men's Clothing,Peter England,3871.41,5428.07
+1429,Classmate Office Supplies Signature 3478,Books & Stationery,Office Supplies,Classmate,507.38,664.51
+1430,Milton Cookware Sport 4206,Home & Kitchen,Cookware,Milton,1939.67,2672.53
+1431,Strauss Yoga & Accessorie Premium 1983,Sports & Fitness,Yoga & Accessories,Strauss,1579.27,2076.11
+1432,Johnson's Baby Care Ultra 109,Toys & Baby Products,Baby Care,Johnson's,1253.47,1806.17
+1433,Pampers Baby Care Classic 9493,Toys & Baby Products,Baby Care,Pampers,1344.12,1928.37
+1434,Decathlon Sportswear Pro 4947,Sports & Fitness,Sportswear,Decathlon,3868.49,5013.37
+1435,Dove Haircare Deluxe 4611,Beauty & Personal Care,Haircare,Dove,2118.68,2778.27
+1436,Wonderchef Cookware Classic 7695,Home & Kitchen,Cookware,Wonderchef,2752.54,3775.90
+1437,Penguin Fiction Standard 1333,Books & Stationery,Fiction,Penguin,337.28,446.27
+1438,Huggies Diapers Pro 7760,Toys & Baby Products,Diapers,Huggies,131.39,168.48
+1439,Barbie Toys Compact 8852,Toys & Baby Products,Toys,Barbie,1089.40,1614.80
+1440,IKEA Furniture Classic 8691,Home & Kitchen,Furniture,IKEA,11717.99,16215.05
+1441,Sony Televisions Lite 8999,Electronics,Televisions,Sony,73215.73,103543.30
+1442,Classmate Notebooks Compact 1858,Books & Stationery,Notebooks,Classmate,74.40,111.83
+1443,Tata Tea Beverages Deluxe 2129,Groceries,Beverages,Tata Tea,382.18,453.15
+1444,Fabindia Women's Clothing Pro 2300,Fashion,Women's Clothing,Fabindia,1312.78,1516.22
+1445,Fabindia Women's Clothing Deluxe 9064,Fashion,Women's Clothing,Fabindia,2325.20,2620.18
+1446,Westland Non-Fiction Superior 1104,Books & Stationery,Non-Fiction,Westland,626.66,902.72
+1447,Casio Watche Sport 835,Fashion,Watches,Casio,12151.84,17530.90
+1448,Cosco Yoga & Accessories Original 2946,Sports & Fitness,Yoga & Accessories,Cosco,1390.10,2020.92
+1449,Cosco Yoga & Accessories Max 4751,Sports & Fitness,Yoga & Accessories,Cosco,2172.99,2691.98
+1450,Boldfit Yoga & Accessories Original 4139,Sports & Fitness,Yoga & Accessories,Boldfit,2379.19,3015.10
+1451,Decathlon Sportswear Premium 7312,Sports & Fitness,Sportswear,Decathlon,2813.08,4286.12
+1452,Sugar Makeup Sport 4018,Beauty & Personal Care,Makeup,Sugar,305.18,389.79
+1453,Haldiram's Snacks Standard 7770,Groceries,Snacks,Haldiram's,276.00,317.26
+1454,Camlin Office Supplies Plus 8371,Books & Stationery,Office Supplies,Camlin,379.99,568.06
+1455,Decathlon Yoga & Accessories Advanced 8652,Sports & Fitness,Yoga & Accessories,Decathlon,2245.97,2809.01
+1456,Nestle Dairy Standard 6347,Groceries,Dairy,Nestle,311.51,423.00
+1457,HarperCollins Non-Fiction Everyday 6056,Books & Stationery,Non-Fiction,HarperCollins,618.93,877.89
+1458,Sebamed Baby Care Original 3362,Toys & Baby Products,Baby Care,Sebamed,1813.33,2048.92
+1459,Bombay Dyeing Bedding Compact 8424,Home & Kitchen,Bedding,Bombay Dyeing,2722.25,3382.27
+1460,Nivea Fragrances Everyday 8779,Beauty & Personal Care,Fragrances,Nivea,3289.80,4302.42
+1461,Sony Televisions Smart 5953,Electronics,Televisions,Sony,53424.17,72731.12
+1462,Classmate Notebooks Superior 4070,Books & Stationery,Notebooks,Classmate,108.48,151.37
+1463,Decathlon Cycle Smart 629,Sports & Fitness,Cycles,Decathlon,11111.62,15218.44
+1464,Decathlon Cycle Lite 8398,Sports & Fitness,Cycles,Decathlon,4915.22,5918.29
+1465,Amul Dairy Advanced 6125,Groceries,Dairy,Amul,295.82,349.92
+1466,Westland Non-Fiction Essential 4020,Books & Stationery,Non-Fiction,Westland,253.71,390.04
+1467,D'Decor Bedding Max 3879,Home & Kitchen,Bedding,D'Decor,4436.86,6107.53
+1468,HarperCollins Fiction Everyday 7212,Books & Stationery,Fiction,HarperCollins,143.85,173.13
+1469,Mother Dairy Dairy Standard 4098,Groceries,Dairy,Mother Dairy,86.40,112.23
+1470,Nike Sportswear Premium 7161,Sports & Fitness,Sportswear,Nike,3236.69,4154.46
+1471,Parker Office Supplie Original 8008,Books & Stationery,Office Supplies,Parker,19.29,28.72
+1472,Parle Snacks Signature 6643,Groceries,Snacks,Parle,64.79,83.27
+1473,Cosco Yoga & Accessorie Max 959,Sports & Fitness,Yoga & Accessories,Cosco,1431.42,2054.21
+1474,Nescafe Beverages Essential 8891,Groceries,Beverages,Nescafe,364.47,423.79
+1475,Godrej Interio Furniture Standard 7258,Home & Kitchen,Furniture,Godrej Interio,35332.48,39794.03
+1476,Pepperfry Home Decor Signature 581,Home & Kitchen,Home Decor,Pepperfry,2443.45,3092.48
+1477,Cosco Yoga & Accessories Ultra 6947,Sports & Fitness,Yoga & Accessories,Cosco,619.86,925.43
+1478,Chumbak Home Decor Essential 2674,Home & Kitchen,Home Decor,Chumbak,3606.86,4726.02
+1479,Hawkins Cookware Standard 7249,Home & Kitchen,Cookware,Hawkins,1896.24,2458.65
+1480,Vero Moda Women's Clothing Max 4769,Fashion,Women's Clothing,Vero Moda,1587.99,1789.63
+1481,Prestige Kitchen Appliance Advanced 4480,Home & Kitchen,Kitchen Appliances,Prestige,1023.79,1371.93
+1482,Zara Women's Clothing Deluxe 4235,Fashion,Women's Clothing,Zara,1079.00,1568.55
+1483,Mother Dairy Dairy Original 9450,Groceries,Dairy,Mother Dairy,301.79,425.97
+1484,Puma Bag Deluxe 7654,Fashion,Bags,Puma,4405.60,6663.65
+1485,Red Label Beverages Superior 754,Groceries,Beverages,Red Label,520.55,699.56
+1486,Oppo Mobile Phones Elite 2520,Electronics,Mobile Phones,Oppo,40348.45,60898.92
+1487,Decathlon Cycle Elite 1991,Sports & Fitness,Cycles,Decathlon,23175.85,31787.22
+1488,Reynolds Office Supplies Elite 2727,Books & Stationery,Office Supplies,Reynolds,98.45,149.36
+1489,Reynolds Office Supplies Premium 9369,Books & Stationery,Office Supplies,Reynolds,462.03,668.92
+1490,The Body Shop Skincare Value 3232,Beauty & Personal Care,Skincare,The Body Shop,2049.51,2423.47
+1491,Bru Beverages Smart 8940,Groceries,Beverages,Bru,203.48,311.35
+1492,Boat Smartwatches Essential 9840,Electronics,Smartwatches,Boat,11730.80,13851.39
+1493,Ponds Skincare Standard 5858,Beauty & Personal Care,Skincare,Ponds,1940.61,2650.01
+1494,Bingo Snacks Superior 9397,Groceries,Snacks,Bingo,388.57,513.22
+1495,Johnson's Baby Care Max 7347,Toys & Baby Products,Baby Care,Johnson's,1804.43,2547.73
+1496,Tata Staples Value 8764,Groceries,Staples,Tata,714.72,997.04
+1497,Samsung Mobile Phones Everyday 4637,Electronics,Mobile Phones,Samsung,11067.24,13284.80
+1498,Classmate Notebook Advanced 7775,Books & Stationery,Notebooks,Classmate,385.14,433.52
+1499,MamyPoko Diapers Signature 4193,Toys & Baby Products,Diapers,MamyPoko,1162.87,1422.74
+1500,Nivea Fragrances Superior 5713,Beauty & Personal Care,Fragrances,Nivea,1892.65,2463.50
+1501,Fabindia Home Decor Superior 4636,Home & Kitchen,Home Decor,Fabindia,1198.74,1802.10
+1502,Puma Bag Advanced 5342,Fashion,Bags,Puma,1018.51,1499.91
+1503,Reebok Fitness Equipment Superior 7313,Sports & Fitness,Fitness Equipment,Reebok,11184.17,15703.99
+1504,BSA Cycle Ultra 5649,Sports & Fitness,Cycles,BSA,11838.64,14045.02
+1505,Camlin Office Supplie Signature 8992,Books & Stationery,Office Supplies,Camlin,13.94,18.79
+1506,Acer Laptop Elite 519,Electronics,Laptops,Acer,51673.65,57190.87
+1507,Fisher-Price Toys Compact 2779,Toys & Baby Products,Toys,Fisher-Price,6342.78,9750.28
+1508,Patanjali Staples Essential 6879,Groceries,Staples,Patanjali,134.12,188.75
+1509,Mother Dairy Dairy Everyday 5552,Groceries,Dairy,Mother Dairy,13.61,17.35
+1510,American Tourister Bags Value 4479,Fashion,Bags,American Tourister,3754.05,5738.53
+1511,Reynolds Office Supplies Signature 7092,Books & Stationery,Office Supplies,Reynolds,330.36,469.86
+1512,Haldiram's Snack Smart 1736,Groceries,Snacks,Haldiram's,22.70,28.33
+1513,Hero Cycles Signature 8821,Sports & Fitness,Cycles,Hero,37343.86,49923.51
+1514,Bloomsbury Fiction Smart 8494,Books & Stationery,Fiction,Bloomsbury,538.13,615.11
+1515,Dove Haircare Pro 4760,Beauty & Personal Care,Haircare,Dove,127.48,171.53
+1516,Wildcraft Bags Essential 8334,Fashion,Bags,Wildcraft,3845.85,4974.97
+1517,Reebok Fitness Equipment Plus 6448,Sports & Fitness,Fitness Equipment,Reebok,8025.68,9637.40
+1518,Mi Televisions Ultra 4219,Electronics,Televisions,Mi,43065.97,63849.06
+1519,Boldfit Yoga & Accessories Essential 8017,Sports & Fitness,Yoga & Accessories,Boldfit,396.51,474.59
+1520,Sony Cameras Value 2482,Electronics,Cameras,Sony,14453.20,17642.00
+1521,Classmate Notebooks Lite 1021,Books & Stationery,Notebooks,Classmate,346.93,473.65
+1522,Sony Headphones Premium 6873,Electronics,Headphones,Sony,7475.04,10802.03
+1523,Himalaya Baby Care Everyday 1589,Toys & Baby Products,Baby Care,Himalaya,1618.76,2115.51
+1524,Puma Bags Signature 8003,Fashion,Bags,Puma,5124.48,7471.32
+1525,MAC Makeup Original 3888,Beauty & Personal Care,Makeup,MAC,1923.37,2379.09
+1526,Havells Kitchen Appliance Lite 7183,Home & Kitchen,Kitchen Appliances,Havells,16933.55,22906.41
+1527,Zara Men's Clothing Max 4176,Fashion,Men's Clothing,Zara,469.22,552.12
+1528,TCL Televisions Elite 450,Electronics,Televisions,TCL,64084.52,71771.24
+1529,GoPro Cameras Signature 9452,Electronics,Cameras,GoPro,30039.15,34825.85
+1530,Classmate Office Supplie Everyday 4639,Books & Stationery,Office Supplies,Classmate,361.64,398.62
+1531,Nykaa Makeup Lite 486,Beauty & Personal Care,Makeup,Nykaa,350.35,446.72
+1532,The Body Shop Skincare Advanced 6567,Beauty & Personal Care,Skincare,The Body Shop,2656.46,3332.57
+1533,Acer Laptop Sport 4424,Electronics,Laptops,Acer,40103.32,55845.07
+1534,Lenovo Laptops Essential 9632,Electronics,Laptops,Lenovo,84653.72,106606.99
+1535,Fabindia Home Decor Deluxe 7801,Home & Kitchen,Home Decor,Fabindia,2976.93,4571.10
+1536,Samsung Televisions Essential 1950,Electronics,Televisions,Samsung,42753.68,56793.66
+1537,Nestle Dairy Elite 8460,Groceries,Dairy,Nestle,386.33,510.05
+1538,Rupa Fiction Advanced 8465,Books & Stationery,Fiction,Rupa,343.36,484.39
+1539,Urban Ladder Furniture Max 1235,Home & Kitchen,Furniture,Urban Ladder,4887.22,7373.59
+1540,Red Label Beverages Original 8626,Groceries,Beverages,Red Label,319.75,491.03
+1541,Fabindia Home Decor Essential 2780,Home & Kitchen,Home Decor,Fabindia,1100.95,1644.33
+1542,H&M Women's Clothing Max 3663,Fashion,Women's Clothing,H&M,2610.39,3851.04
+1543,Zara Women's Clothing Superior 281,Fashion,Women's Clothing,Zara,2711.09,3475.12
+1544,Sebamed Baby Care Lite 8745,Toys & Baby Products,Baby Care,Sebamed,2322.10,2785.46
+1545,Mi Televisions Advanced 7225,Electronics,Televisions,Mi,18099.98,23782.07
+1546,Nescafe Beverages Max 7509,Groceries,Beverages,Nescafe,493.07,697.82
+1547,Puma Footwear Essential 6268,Fashion,Footwear,Puma,3514.62,5037.39
+1548,Parle Snacks Lite 8827,Groceries,Snacks,Parle,326.28,449.38
+1549,Mee Mee Diapers Compact 9775,Toys & Baby Products,Diapers,Mee Mee,1114.93,1295.11
+1550,Skechers Footwear Smart 8370,Fashion,Footwear,Skechers,3268.09,4747.79
+1551,Himalaya Skincare Deluxe 6387,Beauty & Personal Care,Skincare,Himalaya,1896.70,2851.63
+1552,Amul Dairy Sport 2624,Groceries,Dairy,Amul,33.78,44.68
+1553,Boat Headphones Everyday 6251,Electronics,Headphones,Boat,5524.78,7754.15
+1554,Himalaya Baby Care Ultra 1561,Toys & Baby Products,Baby Care,Himalaya,909.34,1266.17
+1555,Hawkins Cookware Compact 3618,Home & Kitchen,Cookware,Hawkins,2758.94,4120.07
+1556,Camlin Notebooks Superior 3560,Books & Stationery,Notebooks,Camlin,130.15,153.64
+1557,Mamaearth Skincare Sport 7519,Beauty & Personal Care,Skincare,Mamaearth,795.25,1017.43
+1558,Oxford Notebook Compact 6621,Books & Stationery,Notebooks,Oxford,289.62,378.81
+1559,The Body Shop Skincare Ultra 2938,Beauty & Personal Care,Skincare,The Body Shop,1665.26,2208.97
+1560,Nivia Fitness Equipment Everyday 6368,Sports & Fitness,Fitness Equipment,Nivia,13129.45,17092.12
+1561,Sprite Beverages Elite 7307,Groceries,Beverages,Sprite,465.81,653.37
+1562,Parle Snacks Original 7258,Groceries,Snacks,Parle,192.77,213.13
+1563,Camlin Office Supplies Pro 8692,Books & Stationery,Office Supplies,Camlin,439.48,679.59
+1564,Mee Mee Diaper Max 3807,Toys & Baby Products,Diapers,Mee Mee,775.91,1096.28
+1565,Parker Office Supplie Compact 5717,Books & Stationery,Office Supplies,Parker,61.21,76.72
+1566,Bose Headphones Superior 7236,Electronics,Headphones,Bose,3055.78,4370.02
+1567,Montra Cycle Deluxe 5733,Sports & Fitness,Cycles,Montra,31441.28,36117.34
+1568,Bajaj Kitchen Appliance Classic 8402,Home & Kitchen,Kitchen Appliances,Bajaj,18521.85,24670.28
+1569,Huggies Diapers Plus 2082,Toys & Baby Products,Diapers,Huggies,655.11,812.89
+1570,MAC Makeup Signature 4568,Beauty & Personal Care,Makeup,MAC,3170.77,3921.79
+1571,Decathlon Yoga & Accessories Value 2665,Sports & Fitness,Yoga & Accessories,Decathlon,1827.53,2520.80
+1572,Sebamed Baby Care Plus 611,Toys & Baby Products,Baby Care,Sebamed,75.65,104.97
+1573,Bombay Dyeing Bedding Pro 5851,Home & Kitchen,Bedding,Bombay Dyeing,2237.42,3375.23
+1574,Dell Laptops Ultra 8285,Electronics,Laptops,Dell,89632.57,138505.94
+1575,Himalaya Baby Care Classic 4117,Toys & Baby Products,Baby Care,Himalaya,1495.20,2295.00
+1576,Rupa Fiction Essential 4622,Books & Stationery,Fiction,Rupa,168.63,207.74
+1577,Mee Mee Baby Care Standard 553,Toys & Baby Products,Baby Care,Mee Mee,1706.51,2536.85
+1578,Penguin Non-Fiction Smart 3147,Books & Stationery,Non-Fiction,Penguin,427.18,502.48
+1579,Ponds Skincare Superior 9583,Beauty & Personal Care,Skincare,Ponds,850.80,1047.11
+1580,Haldiram's Snack Superior 7044,Groceries,Snacks,Haldiram's,266.97,293.69
+1581,Axe Fragrances Deluxe 3189,Beauty & Personal Care,Fragrances,Axe,110.84,167.95
+1582,Mamaearth Skincare Ultra 7559,Beauty & Personal Care,Skincare,Mamaearth,2461.34,3186.04
+1583,Decathlon Yoga & Accessories Smart 6445,Sports & Fitness,Yoga & Accessories,Decathlon,2079.59,2536.06
+1584,Casio Watches Essential 7439,Fashion,Watches,Casio,10949.26,12468.59
+1585,The Body Shop Skincare Classic 694,Beauty & Personal Care,Skincare,The Body Shop,1795.30,2556.97
+1586,Britannia Dairy Value 2908,Groceries,Dairy,Britannia,48.67,64.62
+1587,Tata Tea Beverages Elite 3905,Groceries,Beverages,Tata Tea,51.18,73.94
+1588,Wildcraft Bag Deluxe 5812,Fashion,Bags,Wildcraft,5684.16,7839.05
+1589,Decathlon Yoga & Accessorie Sport 1810,Sports & Fitness,Yoga & Accessories,Decathlon,2075.69,2651.62
+1590,Lakme Makeup Superior 7131,Beauty & Personal Care,Makeup,Lakme,2589.27,2908.80
+1591,Prestige Kitchen Appliances Essential 4263,Home & Kitchen,Kitchen Appliances,Prestige,2125.20,3212.01
+1592,Aashirvaad Staples Lite 5687,Groceries,Staples,Aashirvaad,1048.93,1291.60
+1593,HarperCollins Non-Fiction Essential 6896,Books & Stationery,Non-Fiction,HarperCollins,368.10,475.65
+1594,Tresemme Haircare Lite 6242,Beauty & Personal Care,Haircare,Tresemme,825.91,1004.22
+1595,Mamaearth Skincare Deluxe 4928,Beauty & Personal Care,Skincare,Mamaearth,1467.51,2264.55
+1596,Samsung Mobile Phones Plus 3491,Electronics,Mobile Phones,Samsung,46125.49,62681.40
+1597,Pigeon Cookware Signature 1317,Home & Kitchen,Cookware,Pigeon,4072.25,4625.75
+1598,Spaces Bedding Advanced 8100,Home & Kitchen,Bedding,Spaces,3351.09,5147.82
+1599,MamyPoko Diaper Original 2288,Toys & Baby Products,Diapers,MamyPoko,656.93,972.92
+1600,Skechers Footwear Compact 7620,Fashion,Footwear,Skechers,6284.53,7636.15
+1601,Red Label Beverages Premium 1124,Groceries,Beverages,Red Label,362.56,437.59
+1602,HarperCollins Non-Fiction Premium 4137,Books & Stationery,Non-Fiction,HarperCollins,1034.02,1586.85
+1603,Bajaj Kitchen Appliances Premium 5706,Home & Kitchen,Kitchen Appliances,Bajaj,8094.49,10498.68
+1604,Lego Toys Max 7148,Toys & Baby Products,Toys,Lego,3478.90,4821.26
+1605,Pepperfry Home Decor Smart 5138,Home & Kitchen,Home Decor,Pepperfry,565.21,712.06
+1606,Nivea Skincare Smart 6257,Beauty & Personal Care,Skincare,Nivea,2509.68,3426.83
+1607,D'Decor Bedding Pro 1468,Home & Kitchen,Bedding,D'Decor,1101.69,1216.59
+1608,Westland Non-Fiction Deluxe 2074,Books & Stationery,Non-Fiction,Westland,1213.04,1439.30
+1609,Tresemme Haircare Essential 9645,Beauty & Personal Care,Haircare,Tresemme,194.76,223.50
+1610,Tata Staples Plus 7980,Groceries,Staples,Tata,960.76,1282.51
+1611,Tata Staples Classic 7477,Groceries,Staples,Tata,377.24,576.52
+1612,HarperCollins Non-Fiction Ultra 8214,Books & Stationery,Non-Fiction,HarperCollins,1045.64,1216.92
+1613,Firefox Cycle Premium 8778,Sports & Fitness,Cycles,Firefox,20143.07,24656.31
+1614,HarperCollins Non-Fiction Classic 602,Books & Stationery,Non-Fiction,HarperCollins,924.43,1394.21
+1615,Panasonic Televisions Ultra 754,Electronics,Televisions,Panasonic,14676.93,19782.56
+1616,HarperCollins Fiction Compact 3896,Books & Stationery,Fiction,HarperCollins,723.79,1042.23
+1617,Hawkins Cookware Max 7352,Home & Kitchen,Cookware,Hawkins,3213.15,3897.16
+1618,Casio Watches Max 9719,Fashion,Watches,Casio,2195.27,3283.36
+1619,Fujifilm Cameras Ultra 6303,Electronics,Cameras,Fujifilm,91486.49,124425.12
+1620,Decathlon Yoga & Accessories Essential 8611,Sports & Fitness,Yoga & Accessories,Decathlon,1979.28,2632.80
+1621,GoPro Cameras Lite 3452,Electronics,Cameras,GoPro,47813.00,70842.24
+1622,Strauss Yoga & Accessories Smart 9549,Sports & Fitness,Yoga & Accessories,Strauss,3165.08,3711.13
+1623,Westland Non-Fiction Lite 5451,Books & Stationery,Non-Fiction,Westland,1136.75,1607.63
+1624,MAC Makeup Signature 789,Beauty & Personal Care,Makeup,MAC,1303.55,1469.48
+1625,Havells Kitchen Appliances Max 5669,Home & Kitchen,Kitchen Appliances,Havells,7540.60,10834.75
+1626,Decathlon Sportswear Pro 3897,Sports & Fitness,Sportswear,Decathlon,3549.16,4315.35
+1627,Aashirvaad Staples Superior 4696,Groceries,Staples,Aashirvaad,955.07,1076.47
+1628,Himalaya Baby Care Premium 180,Toys & Baby Products,Baby Care,Himalaya,928.70,1051.63
+1629,HarperCollins Fiction Advanced 892,Books & Stationery,Fiction,HarperCollins,821.10,952.92
+1630,Puma Sportswear Deluxe 5874,Sports & Fitness,Sportswear,Puma,4135.58,5918.83
+1631,MamyPoko Diapers Plus 8826,Toys & Baby Products,Diapers,MamyPoko,732.68,867.68
+1632,Vero Moda Women's Clothing Classic 5296,Fashion,Women's Clothing,Vero Moda,2959.52,4474.46
+1633,Panasonic Televisions Everyday 5138,Electronics,Televisions,Panasonic,45678.12,58320.99
+1634,Rupa Non-Fiction Ultra 620,Books & Stationery,Non-Fiction,Rupa,148.44,226.64
+1635,Homesake Home Decor Premium 3597,Home & Kitchen,Home Decor,Homesake,1807.56,2390.08
+1636,Lakme Skincare Superior 2357,Beauty & Personal Care,Skincare,Lakme,1642.39,2391.28
+1637,Nikon Cameras Max 6070,Electronics,Cameras,Nikon,19707.36,29562.15
+1638,Skechers Footwear Lite 4294,Fashion,Footwear,Skechers,514.39,597.52
+1639,HarperCollins Fiction Lite 3573,Books & Stationery,Fiction,HarperCollins,514.45,703.62
+1640,Zara Women's Clothing Premium 5870,Fashion,Women's Clothing,Zara,2991.24,4518.49
+1641,Red Label Beverages Compact 5039,Groceries,Beverages,Red Label,201.80,282.25
+1642,Penguin Fiction Plus 2025,Books & Stationery,Fiction,Penguin,708.97,996.75
+1643,Woodland Footwear Value 8807,Fashion,Footwear,Woodland,7220.88,8997.04
+1644,Wildcraft Bags Standard 6518,Fashion,Bags,Wildcraft,5896.87,7630.07
+1645,BSA Cycle Max 9762,Sports & Fitness,Cycles,BSA,19193.16,23494.05
+1646,The Body Shop Skincare Premium 9626,Beauty & Personal Care,Skincare,The Body Shop,2412.27,3592.66
+1647,Levi's Men's Clothing Classic 3489,Fashion,Men's Clothing,Levi's,1741.70,2186.44
+1648,Ponds Skincare Classic 2559,Beauty & Personal Care,Skincare,Ponds,964.32,1489.92
+1649,Lakme Skincare Essential 8698,Beauty & Personal Care,Skincare,Lakme,1016.65,1140.51
+1650,Nestle Dairy Ultra 6964,Groceries,Dairy,Nestle,86.59,133.49
+1651,Fortune Staple Smart 4260,Groceries,Staples,Fortune,631.61,822.77
+1652,Sprite Beverage Signature 7600,Groceries,Beverages,Sprite,163.99,198.38
+1653,Timex Watches Advanced 6355,Fashion,Watches,Timex,6876.06,8260.78
+1654,Timex Watches Sport 2526,Fashion,Watches,Timex,11136.67,17249.31
+1655,Sebamed Baby Care Smart 7062,Toys & Baby Products,Baby Care,Sebamed,2102.12,2597.37
+1656,Sony Headphones Max 9848,Electronics,Headphones,Sony,13399.71,16565.91
+1657,Biba Women's Clothing Premium 2955,Fashion,Women's Clothing,Biba,1419.12,1570.11
+1658,Red Label Beverages Classic 2601,Groceries,Beverages,Red Label,32.61,39.59
+1659,Camlin Office Supplies Premium 4549,Books & Stationery,Office Supplies,Camlin,527.77,676.89
+1660,Levi's Men's Clothing Superior 2333,Fashion,Men's Clothing,Levi's,2208.43,2486.37
+1661,Adidas Sportswear Max 4533,Sports & Fitness,Sportswear,Adidas,1609.32,2006.14
+1662,Decathlon Cycles Superior 4340,Sports & Fitness,Cycles,Decathlon,10498.79,12170.57
+1663,Oxford Notebook Lite 9066,Books & Stationery,Notebooks,Oxford,311.71,431.85
+1664,Biba Women's Clothing Standard 7605,Fashion,Women's Clothing,Biba,2335.05,2743.39
+1665,Classmate Notebook Ultra 9916,Books & Stationery,Notebooks,Classmate,15.51,20.31
+1666,Titan Smartwatche Sport 6775,Electronics,Smartwatches,Titan,26413.21,29082.21
+1667,Oxford Notebooks Plus 9531,Books & Stationery,Notebooks,Oxford,227.36,322.78
+1668,Ponds Skincare Advanced 7858,Beauty & Personal Care,Skincare,Ponds,2634.08,3885.94
+1669,Fossil Watche Elite 3418,Fashion,Watches,Fossil,3543.24,4305.65
+1670,Camlin Notebooks Compact 678,Books & Stationery,Notebooks,Camlin,143.21,165.19
+1671,Pampers Baby Care Original 8192,Toys & Baby Products,Baby Care,Pampers,1548.18,2393.38
+1672,Britannia Snacks Plus 7510,Groceries,Snacks,Britannia,231.39,303.26
+1673,Spaces Bedding Superior 1018,Home & Kitchen,Bedding,Spaces,5396.40,6120.15
+1674,Nestle Dairy Deluxe 7326,Groceries,Dairy,Nestle,199.06,288.17
+1675,W Women's Clothing Premium 8763,Fashion,Women's Clothing,W,486.54,618.53
+1676,Hot Wheels Toys Standard 5354,Toys & Baby Products,Toys,Hot Wheels,3728.65,5702.65
+1677,Penguin Fiction Plus 8787,Books & Stationery,Fiction,Penguin,582.36,718.51
+1678,Bajaj Kitchen Appliances Essential 4185,Home & Kitchen,Kitchen Appliances,Bajaj,11628.93,13880.80
+1679,Spaces Bedding Essential 9022,Home & Kitchen,Bedding,Spaces,1107.61,1322.27
+1680,Fogg Fragrances Essential 7337,Beauty & Personal Care,Fragrances,Fogg,1086.98,1325.95
+1681,HarperCollins Non-Fiction Signature 938,Books & Stationery,Non-Fiction,HarperCollins,470.85,618.55
+1682,Maybelline Makeup Advanced 7956,Beauty & Personal Care,Makeup,Maybelline,749.29,1079.78
+1683,Strauss Yoga & Accessories Superior 5358,Sports & Fitness,Yoga & Accessories,Strauss,1256.62,1484.96
+1684,Park Avenue Fragrances Sport 1782,Beauty & Personal Care,Fragrances,Park Avenue,778.68,888.67
+1685,Mee Mee Diapers Superior 4563,Toys & Baby Products,Diapers,Mee Mee,364.56,407.99
+1686,Britannia Snack Deluxe 1470,Groceries,Snacks,Britannia,256.30,310.83
+1687,The Body Shop Skincare Essential 3009,Beauty & Personal Care,Skincare,The Body Shop,718.22,1076.63
+1688,Mamaearth Skincare Compact 4558,Beauty & Personal Care,Skincare,Mamaearth,1297.37,1986.10
+1689,Nike Sportswear Sport 453,Sports & Fitness,Sportswear,Nike,1293.65,1735.59
+1690,Durian Furniture Deluxe 3035,Home & Kitchen,Furniture,Durian,23259.62,28152.13
+1691,Britannia Dairy Lite 8024,Groceries,Dairy,Britannia,381.90,482.36
+1692,Wow Haircare Compact 3314,Beauty & Personal Care,Haircare,Wow,1559.87,1869.03
+1693,MAC Makeup Advanced 7353,Beauty & Personal Care,Makeup,MAC,2467.85,3138.75
+1694,Sebamed Baby Care Smart 6294,Toys & Baby Products,Baby Care,Sebamed,2516.02,3183.61
+1695,Nivea Fragrance Sport 4297,Beauty & Personal Care,Fragrances,Nivea,1231.48,1655.08
+1696,Cosco Fitness Equipment Superior 4354,Sports & Fitness,Fitness Equipment,Cosco,16526.98,20737.62
+1697,Timex Watches Sport 1292,Fashion,Watches,Timex,3802.06,4775.73
+1698,Nivea Fragrances Standard 9096,Beauty & Personal Care,Fragrances,Nivea,1318.56,2036.89
+1699,Samsung Smartwatche Plus 4346,Electronics,Smartwatches,Samsung,4932.16,5458.15
+1700,Huggies Diapers Sport 2453,Toys & Baby Products,Diapers,Huggies,161.41,234.69
+1701,Pepperfry Home Decor Everyday 5000,Home & Kitchen,Home Decor,Pepperfry,542.26,678.13
+1702,Firefox Cycles Classic 653,Sports & Fitness,Cycles,Firefox,3276.47,4982.85
+1703,Montra Cycles Compact 6593,Sports & Fitness,Cycles,Montra,21781.92,29171.65
+1704,Raymond Home Bedding Essential 2026,Home & Kitchen,Bedding,Raymond Home,1482.83,1709.49
+1705,Bru Beverages Advanced 484,Groceries,Beverages,Bru,788.27,1215.39
+1706,Nescafe Beverages Smart 265,Groceries,Beverages,Nescafe,652.88,817.31
+1707,Mee Mee Diaper Value 6198,Toys & Baby Products,Diapers,Mee Mee,450.00,513.26
+1708,GoPro Camera Ultra 7344,Electronics,Cameras,GoPro,97156.96,114508.71
+1709,Mamaearth Skincare Essential 9082,Beauty & Personal Care,Skincare,Mamaearth,2940.42,3301.34
+1710,Pantene Haircare Pro 2510,Beauty & Personal Care,Haircare,Pantene,1691.56,1913.31
+1711,D'Decor Bedding Lite 7244,Home & Kitchen,Bedding,D'Decor,3209.13,4016.82
+1712,Havells Kitchen Appliances Standard 4942,Home & Kitchen,Kitchen Appliances,Havells,679.76,856.25
+1713,Timex Watches Plus 2808,Fashion,Watches,Timex,5978.83,9088.13
+1714,Maybelline Makeup Ultra 5735,Beauty & Personal Care,Makeup,Maybelline,2426.47,2708.17
+1715,Sprite Beverages Max 1865,Groceries,Beverages,Sprite,187.57,249.10
+1716,Fujifilm Cameras Max 3410,Electronics,Cameras,Fujifilm,14551.05,21367.08
+1717,Sebamed Baby Care Max 5558,Toys & Baby Products,Baby Care,Sebamed,538.18,713.33
+1718,Bombay Dyeing Bedding Ultra 2261,Home & Kitchen,Bedding,Bombay Dyeing,929.16,1122.76
+1719,Britannia Dairy Max 7137,Groceries,Dairy,Britannia,72.00,87.37
+1720,Camlin Office Supplie Premium 6437,Books & Stationery,Office Supplies,Camlin,615.51,898.35
+1721,Titan Watches Elite 3197,Fashion,Watches,Titan,7295.03,10900.53
+1722,Navneet Notebook Original 6775,Books & Stationery,Notebooks,Navneet,184.22,238.32
+1723,Parker Office Supplies Signature 3738,Books & Stationery,Office Supplies,Parker,785.24,1039.32
+1724,Fujifilm Camera Compact 334,Electronics,Cameras,Fujifilm,20432.29,29435.81
+1725,Decathlon Fitness Equipment Everyday 1602,Sports & Fitness,Fitness Equipment,Decathlon,7545.25,8651.91
+1726,Godrej Interio Furniture Standard 4568,Home & Kitchen,Furniture,Godrej Interio,27410.61,30327.91
+1727,Pampers Baby Care Essential 3775,Toys & Baby Products,Baby Care,Pampers,1600.92,2096.87
+1728,Decathlon Yoga & Accessories Max 5955,Sports & Fitness,Yoga & Accessories,Decathlon,2965.57,4008.52
+1729,Funskool Toys Classic 1603,Toys & Baby Products,Toys,Funskool,1562.39,2018.69
+1730,Skybags Bags Deluxe 8284,Fashion,Bags,Skybags,1739.91,2375.59
+1731,Classmate Office Supplie Value 2828,Books & Stationery,Office Supplies,Classmate,396.70,444.69
+1732,Sugar Makeup Compact 9455,Beauty & Personal Care,Makeup,Sugar,901.60,1139.13
+1733,Pampers Baby Care Everyday 5832,Toys & Baby Products,Baby Care,Pampers,1761.90,2063.31
+1734,Decathlon Yoga & Accessories Essential 380,Sports & Fitness,Yoga & Accessories,Decathlon,1296.61,1438.57
+1735,Fossil Watches Standard 2151,Fashion,Watches,Fossil,3665.80,4703.95
+1736,Sennheiser Headphones Plus 6713,Electronics,Headphones,Sennheiser,1026.68,1222.33
+1737,Mee Mee Diaper Everyday 2423,Toys & Baby Products,Diapers,Mee Mee,1175.66,1649.27
+1738,Haldiram's Snacks Everyday 2150,Groceries,Snacks,Haldiram's,422.98,540.65
+1739,Lego Toys Advanced 3492,Toys & Baby Products,Toys,Lego,5157.42,6589.65
+1740,Lays Snack Compact 9856,Groceries,Snacks,Lays,334.88,501.76
+1741,HarperCollins Non-Fiction Lite 9932,Books & Stationery,Non-Fiction,HarperCollins,881.30,1037.90
+1742,Classmate Office Supplies Deluxe 8514,Books & Stationery,Office Supplies,Classmate,9.83,14.97
+1743,Raymond Home Bedding Lite 3574,Home & Kitchen,Bedding,Raymond Home,3198.10,4120.73
+1744,Adidas Sportswear Compact 1274,Sports & Fitness,Sportswear,Adidas,2448.39,3108.41
+1745,Milton Cookware Ultra 8994,Home & Kitchen,Cookware,Milton,3705.57,4303.00
+1746,Tresemme Haircare Standard 5772,Beauty & Personal Care,Haircare,Tresemme,1948.77,3015.59
+1747,Tata Staples Essential 7868,Groceries,Staples,Tata,1242.91,1687.24
+1748,H&M Men's Clothing Compact 5493,Fashion,Men's Clothing,H&M,2472.72,2975.09
+1749,Red Label Beverages Sport 8766,Groceries,Beverages,Red Label,451.96,597.83
+1750,Decathlon Fitness Equipment Max 9541,Sports & Fitness,Fitness Equipment,Decathlon,14994.14,19643.15
+1751,Decathlon Fitness Equipment Elite 7430,Sports & Fitness,Fitness Equipment,Decathlon,7024.20,8096.20
+1752,Pepperfry Home Decor Plus 2062,Home & Kitchen,Home Decor,Pepperfry,965.61,1339.07
+1753,Philips Kitchen Appliances Deluxe 4770,Home & Kitchen,Kitchen Appliances,Philips,16422.18,20613.39
+1754,Spaces Bedding Standard 3823,Home & Kitchen,Bedding,Spaces,3704.23,5223.35
+1755,Nivia Fitness Equipment Essential 8942,Sports & Fitness,Fitness Equipment,Nivia,20612.18,24725.82
+1756,Haldiram's Snacks Superior 6171,Groceries,Snacks,Haldiram's,421.52,580.82
+1757,Van Heusen Men's Clothing Ultra 1931,Fashion,Men's Clothing,Van Heusen,2345.49,2717.86
+1758,Hero Cycles Compact 1239,Sports & Fitness,Cycles,Hero,26746.26,32534.45
+1759,Nikon Cameras Classic 564,Electronics,Cameras,Nikon,16016.99,19401.62
+1760,Zara Women's Clothing Premium 6272,Fashion,Women's Clothing,Zara,3645.98,5311.93
+1761,Parker Office Supplie Deluxe 7669,Books & Stationery,Office Supplies,Parker,70.23,94.36
+1762,Tresemme Haircare Smart 2761,Beauty & Personal Care,Haircare,Tresemme,223.31,275.98
+1763,Apple Laptop Smart 8313,Electronics,Laptops,Apple,114230.21,136519.41
+1764,MAC Makeup Pro 516,Beauty & Personal Care,Makeup,MAC,211.72,246.08
+1765,Bata Footwear Compact 5442,Fashion,Footwear,Bata,420.13,492.93
+1766,Penguin Fiction Value 6950,Books & Stationery,Fiction,Penguin,160.07,210.37
+1767,Park Avenue Fragrance Premium 3682,Beauty & Personal Care,Fragrances,Park Avenue,2281.85,3243.62
+1768,Apple Mobile Phone Smart 3534,Electronics,Mobile Phones,Apple,55857.21,75525.78
+1769,Sugar Makeup Essential 8686,Beauty & Personal Care,Makeup,Sugar,945.18,1348.78
+1770,Classmate Office Supplies Original 9697,Books & Stationery,Office Supplies,Classmate,364.21,490.68
+1771,Apple Smartwatches Premium 3257,Electronics,Smartwatches,Apple,14734.88,16285.13
+1772,Johnson's Baby Care Advanced 4482,Toys & Baby Products,Baby Care,Johnson's,1547.14,1876.32
+1773,H&M Women's Clothing Original 978,Fashion,Women's Clothing,H&M,1849.73,2665.13
+1774,Morphy Richards Kitchen Appliances Advanced 1182,Home & Kitchen,Kitchen Appliances,Morphy Richards,9402.99,13848.25
+1775,Mee Mee Diapers Pro 8631,Toys & Baby Products,Diapers,Mee Mee,1022.38,1180.27
+1776,Sprite Beverages Superior 9977,Groceries,Beverages,Sprite,745.87,864.16
+1777,Samsung Smartwatche Compact 6306,Electronics,Smartwatches,Samsung,28481.93,34118.95
+1778,Himalaya Skincare Signature 8806,Beauty & Personal Care,Skincare,Himalaya,1150.07,1633.14
+1779,Rupa Fiction Smart 1937,Books & Stationery,Fiction,Rupa,556.59,844.38
+1780,Maybelline Makeup Smart 2222,Beauty & Personal Care,Makeup,Maybelline,1751.71,2130.06
+1781,Apple Smartwatches Deluxe 8993,Electronics,Smartwatches,Apple,27090.43,38978.01
+1782,Camlin Office Supplies Essential 3826,Books & Stationery,Office Supplies,Camlin,416.20,486.88
+1783,Himalaya Baby Care Signature 4230,Toys & Baby Products,Baby Care,Himalaya,1899.27,2460.28
+1784,Chumbak Home Decor Ultra 8453,Home & Kitchen,Home Decor,Chumbak,4148.27,6224.27
+1785,Skechers Footwear Standard 3122,Fashion,Footwear,Skechers,7539.39,9787.59
+1786,Classmate Notebooks Superior 4010,Books & Stationery,Notebooks,Classmate,366.94,442.98
+1787,Sprite Beverages Superior 2655,Groceries,Beverages,Sprite,236.06,284.62
+1788,Van Heusen Men's Clothing Classic 5295,Fashion,Men's Clothing,Van Heusen,3566.21,5068.16
+1789,Loreal Haircare Max 7934,Beauty & Personal Care,Haircare,Loreal,1593.79,1874.71
+1790,Maybelline Makeup Lite 2563,Beauty & Personal Care,Makeup,Maybelline,3203.17,4335.74
+1791,Parle Snack Smart 2029,Groceries,Snacks,Parle,42.64,63.59
+1792,Mother Dairy Dairy Smart 3108,Groceries,Dairy,Mother Dairy,372.34,484.79
+1793,Camlin Notebooks Compact 3439,Books & Stationery,Notebooks,Camlin,139.92,208.43
+1794,Xiaomi Mobile Phones Sport 4468,Electronics,Mobile Phones,Xiaomi,7175.59,11004.39
+1795,Loreal Haircare Lite 2684,Beauty & Personal Care,Haircare,Loreal,90.23,132.43
+1796,Lakme Skincare Value 1659,Beauty & Personal Care,Skincare,Lakme,763.67,1072.88
+1797,Puma Sportswear Smart 720,Sports & Fitness,Sportswear,Puma,2968.21,3699.99
+1798,HarperCollins Fiction Pro 3916,Books & Stationery,Fiction,HarperCollins,481.77,594.86
+1799,Bingo Snacks Standard 5548,Groceries,Snacks,Bingo,36.98,56.41
+1800,Mee Mee Baby Care Elite 1318,Toys & Baby Products,Baby Care,Mee Mee,971.66,1404.63
+1801,Puma Bag Advanced 8471,Fashion,Bags,Puma,3054.82,3813.76
+1802,Parker Office Supplies Advanced 8739,Books & Stationery,Office Supplies,Parker,487.64,752.96
+1803,Raymond Home Bedding Max 2179,Home & Kitchen,Bedding,Raymond Home,4512.19,6440.32
+1804,Hawkins Cookware Essential 3278,Home & Kitchen,Cookware,Hawkins,2986.99,3713.78
+1805,JBL Headphone Ultra 4481,Electronics,Headphones,JBL,19756.98,29631.57
+1806,Strauss Yoga & Accessories Classic 7092,Sports & Fitness,Yoga & Accessories,Strauss,1224.21,1585.12
+1807,Samsung Televisions Smart 3408,Electronics,Televisions,Samsung,75588.79,88405.66
+1808,Fogg Fragrances Elite 3028,Beauty & Personal Care,Fragrances,Fogg,1539.42,2074.22
+1809,Bingo Snack Sport 8525,Groceries,Snacks,Bingo,341.70,523.61
+1810,Fossil Watche Ultra 5807,Fashion,Watches,Fossil,11159.91,12601.33
+1811,Rupa Non-Fiction Plus 984,Books & Stationery,Non-Fiction,Rupa,598.92,703.95
+1812,Pampers Diapers Lite 743,Toys & Baby Products,Diapers,Pampers,1138.30,1495.56
+1813,Himalaya Skincare Standard 4911,Beauty & Personal Care,Skincare,Himalaya,493.06,648.56
+1814,Durian Furniture Compact 2515,Home & Kitchen,Furniture,Durian,1392.65,1842.57
+1815,Red Label Beverages Superior 4497,Groceries,Beverages,Red Label,225.79,349.69
+1816,Huggies Diapers Everyday 8126,Toys & Baby Products,Diapers,Huggies,1261.95,1890.09
+1817,Biba Women's Clothing Max 1700,Fashion,Women's Clothing,Biba,2866.35,3267.77
+1818,Bru Beverages Signature 6259,Groceries,Beverages,Bru,797.66,931.83
+1819,Tresemme Haircare Deluxe 2495,Beauty & Personal Care,Haircare,Tresemme,1782.62,2557.36
+1820,Britannia Snacks Elite 9093,Groceries,Snacks,Britannia,76.39,116.96
+1821,Aashirvaad Staples Sport 8525,Groceries,Staples,Aashirvaad,559.91,673.05
+1822,Lego Toys Original 6339,Toys & Baby Products,Toys,Lego,1494.34,1742.15
+1823,Lays Snacks Smart 4235,Groceries,Snacks,Lays,276.79,410.49
+1824,H&M Men's Clothing Elite 9055,Fashion,Men's Clothing,H&M,1031.79,1486.22
+1825,Boldfit Yoga & Accessories Sport 380,Sports & Fitness,Yoga & Accessories,Boldfit,871.44,1156.20
+1826,HarperCollins Fiction Ultra 1330,Books & Stationery,Fiction,HarperCollins,327.87,391.61
+1827,Spaces Bedding Standard 5240,Home & Kitchen,Bedding,Spaces,5629.77,8641.86
+1828,Camlin Office Supplies Pro 8910,Books & Stationery,Office Supplies,Camlin,552.88,669.90
+1829,Canon Camera Lite 8855,Electronics,Cameras,Canon,101759.70,123683.87
+1830,Cosco Yoga & Accessories Lite 6673,Sports & Fitness,Yoga & Accessories,Cosco,2977.40,3929.42
+1831,Skullcandy Headphone Original 6669,Electronics,Headphones,Skullcandy,12453.10,17172.74
+1832,Pigeon Cookware Smart 4354,Home & Kitchen,Cookware,Pigeon,1933.18,2779.31
+1833,Puma Sportswear Ultra 9252,Sports & Fitness,Sportswear,Puma,3349.12,5066.02
+1834,MamyPoko Diapers Signature 7828,Toys & Baby Products,Diapers,MamyPoko,792.58,962.56
+1835,Spaces Bedding Original 1355,Home & Kitchen,Bedding,Spaces,4948.48,6756.97
+1836,Ponds Skincare Deluxe 7119,Beauty & Personal Care,Skincare,Ponds,1470.56,1981.02
+1837,Samsung Television Pro 3376,Electronics,Televisions,Samsung,64956.23,93479.05
+1838,Red Label Beverages Lite 4147,Groceries,Beverages,Red Label,505.13,753.86
+1839,Wildcraft Bags Value 4889,Fashion,Bags,Wildcraft,4630.98,5764.86
+1840,Tata Staples Essential 8673,Groceries,Staples,Tata,992.66,1269.50
+1841,Reynolds Office Supplie Lite 4812,Books & Stationery,Office Supplies,Reynolds,641.70,769.25
+1842,Dove Haircare Essential 1936,Beauty & Personal Care,Haircare,Dove,168.94,225.75
+1843,Allen Solly Men's Clothing Classic 373,Fashion,Men's Clothing,Allen Solly,2632.47,3585.81
+1844,Motorola Mobile Phone Plus 1390,Electronics,Mobile Phones,Motorola,33988.16,42313.63
+1845,Wow Haircare Ultra 767,Beauty & Personal Care,Haircare,Wow,1364.98,1589.67
+1846,MSI Laptop Max 8970,Electronics,Laptops,MSI,65741.76,91864.16
+1847,Timex Watches Sport 6635,Fashion,Watches,Timex,1255.11,1689.22
+1848,Nescafe Beverages Sport 9620,Groceries,Beverages,Nescafe,333.57,376.35
+1849,Pampers Baby Care Plus 2601,Toys & Baby Products,Baby Care,Pampers,1818.90,2560.08
+1850,HP Laptops Superior 1247,Electronics,Laptops,HP,101400.52,138521.25
+1851,Decathlon Fitness Equipment Max 8500,Sports & Fitness,Fitness Equipment,Decathlon,5040.79,6477.98
+1852,Lakme Makeup Plus 9660,Beauty & Personal Care,Makeup,Lakme,444.46,490.79
+1853,Navneet Notebooks Max 512,Books & Stationery,Notebooks,Navneet,178.31,236.20
+1854,Johnson's Baby Care Max 8137,Toys & Baby Products,Baby Care,Johnson's,2363.17,2813.46
+1855,Fisher-Price Toys Compact 2705,Toys & Baby Products,Toys,Fisher-Price,1336.65,1840.72
+1856,Skechers Footwear Everyday 9049,Fashion,Footwear,Skechers,1129.37,1481.79
+1857,Fogg Fragrances Compact 2383,Beauty & Personal Care,Fragrances,Fogg,1826.37,2538.23
+1858,Adidas Sportswear Value 7729,Sports & Fitness,Sportswear,Adidas,1909.53,2878.82
+1859,Nikon Cameras Classic 6851,Electronics,Cameras,Nikon,41912.54,54262.40
+1860,Huggies Diapers Compact 7940,Toys & Baby Products,Diapers,Huggies,1068.10,1583.82
+1861,Loreal Haircare Signature 6042,Beauty & Personal Care,Haircare,Loreal,1142.61,1462.17
+1862,Tata Tea Beverage Sport 3960,Groceries,Beverages,Tata Tea,731.12,1096.93
+1863,Pampers Baby Care Sport 3417,Toys & Baby Products,Baby Care,Pampers,821.32,954.26
+1864,Classmate Office Supplies Premium 1874,Books & Stationery,Office Supplies,Classmate,794.05,890.94
+1865,Mee Mee Baby Care Standard 3224,Toys & Baby Products,Baby Care,Mee Mee,1545.31,2384.16
+1866,HarperCollins Fiction Smart 716,Books & Stationery,Fiction,HarperCollins,269.80,356.23
+1867,Hot Wheels Toys Signature 4950,Toys & Baby Products,Toys,Hot Wheels,5153.41,7977.92
+1868,Barbie Toy Advanced 9151,Toys & Baby Products,Toys,Barbie,2367.36,2930.85
+1869,TCL Televisions Deluxe 4507,Electronics,Televisions,TCL,85405.11,119028.02
+1870,GoPro Cameras Smart 3417,Electronics,Cameras,GoPro,7224.50,8774.19
+1871,Fire-Boltt Smartwatche Max 6675,Electronics,Smartwatches,Fire-Boltt,13902.90,20558.24
+1872,Philips Kitchen Appliance Classic 7914,Home & Kitchen,Kitchen Appliances,Philips,18012.29,27680.15
+1873,Wow Haircare Signature 7481,Beauty & Personal Care,Haircare,Wow,1297.02,1495.76
+1874,Penguin Non-Fiction Standard 124,Books & Stationery,Non-Fiction,Penguin,411.79,572.80
+1875,Timex Watches Lite 374,Fashion,Watches,Timex,1663.97,2070.91
+1876,LG Televisions Advanced 2933,Electronics,Televisions,LG,92321.16,109424.03
+1877,Tata Staples Lite 5224,Groceries,Staples,Tata,1148.35,1418.45
+1878,Skullcandy Headphones Max 1501,Electronics,Headphones,Skullcandy,16683.32,24184.32
+1879,Classmate Notebooks Deluxe 2343,Books & Stationery,Notebooks,Classmate,417.67,607.06
+1880,Pampers Diapers Superior 231,Toys & Baby Products,Diapers,Pampers,864.40,1138.75
+1881,HarperCollins Fiction Premium 4282,Books & Stationery,Fiction,HarperCollins,104.80,124.26
+1882,Reynolds Office Supplies Everyday 5258,Books & Stationery,Office Supplies,Reynolds,347.28,517.94
+1883,Biba Women's Clothing Compact 5782,Fashion,Women's Clothing,Biba,3007.59,3552.47
+1884,Oppo Mobile Phones Everyday 6298,Electronics,Mobile Phones,Oppo,35063.03,48148.51
+1885,Mee Mee Diapers Everyday 3292,Toys & Baby Products,Diapers,Mee Mee,1122.77,1467.81
+1886,Durian Furniture Pro 8694,Home & Kitchen,Furniture,Durian,27776.62,35121.00
+1887,Wildcraft Bags Value 3667,Fashion,Bags,Wildcraft,3749.18,5785.72
+1888,Loreal Haircare Superior 3942,Beauty & Personal Care,Haircare,Loreal,540.08,688.74
+1889,Fogg Fragrances Everyday 5349,Beauty & Personal Care,Fragrances,Fogg,1196.04,1319.34
+1890,Pepperfry Home Decor Advanced 6220,Home & Kitchen,Home Decor,Pepperfry,3408.73,5199.64
+1891,Titan Watches Sport 3948,Fashion,Watches,Titan,1106.37,1442.63
+1892,Homesake Home Decor Advanced 6362,Home & Kitchen,Home Decor,Homesake,1117.76,1485.47
+1893,GoPro Cameras Signature 595,Electronics,Cameras,GoPro,18647.75,21485.93
+1894,D'Decor Bedding Max 4881,Home & Kitchen,Bedding,D'Decor,472.30,669.41
+1895,Milton Cookware Superior 5145,Home & Kitchen,Cookware,Milton,417.91,503.69
+1896,Penguin Fiction Lite 7895,Books & Stationery,Fiction,Penguin,646.46,758.18
+1897,Lays Snacks Advanced 7140,Groceries,Snacks,Lays,254.96,393.25
+1898,Oppo Mobile Phones Deluxe 3992,Electronics,Mobile Phones,Oppo,6534.03,8154.18
+1899,Penguin Non-Fiction Pro 633,Books & Stationery,Non-Fiction,Penguin,585.06,787.75
+1900,Dove Haircare Ultra 8082,Beauty & Personal Care,Haircare,Dove,2017.02,2839.06
+1901,Pepperfry Home Decor Deluxe 5379,Home & Kitchen,Home Decor,Pepperfry,1662.68,2435.39
+1902,Firefox Cycles Ultra 7957,Sports & Fitness,Cycles,Firefox,24003.36,33729.10
+1903,Pepperfry Home Decor Smart 8297,Home & Kitchen,Home Decor,Pepperfry,773.70,919.93
+1904,Hot Wheels Toys Premium 7618,Toys & Baby Products,Toys,Hot Wheels,5667.77,8160.29
+1905,India Gate Staples Premium 1430,Groceries,Staples,India Gate,256.94,368.25
+1906,Decathlon Yoga & Accessories Pro 5165,Sports & Fitness,Yoga & Accessories,Decathlon,1625.95,2101.53
+1907,Boldfit Yoga & Accessories Advanced 3494,Sports & Fitness,Yoga & Accessories,Boldfit,2080.52,2547.41
+1908,India Gate Staples Max 8741,Groceries,Staples,India Gate,47.99,64.38
+1909,Asus Laptop Advanced 3887,Electronics,Laptops,Asus,48277.30,62687.62
+1910,Chumbak Home Decor Sport 5343,Home & Kitchen,Home Decor,Chumbak,3838.20,5318.33
+1911,Himalaya Baby Care Signature 9928,Toys & Baby Products,Baby Care,Himalaya,656.40,973.33
+1912,Amul Dairy Pro 4076,Groceries,Dairy,Amul,232.58,326.03
+1913,Fortune Staples Essential 9619,Groceries,Staples,Fortune,1250.58,1628.96
+1914,Decathlon Cycles Compact 8126,Sports & Fitness,Cycles,Decathlon,4585.02,5330.28
+1915,Firefox Cycles Plus 3758,Sports & Fitness,Cycles,Firefox,8114.16,11375.73
+1916,Wonderchef Cookware Smart 8586,Home & Kitchen,Cookware,Wonderchef,4204.59,6334.13
+1917,Fabindia Women's Clothing Lite 6205,Fashion,Women's Clothing,Fabindia,2090.57,2891.48
+1918,Puma Sportswear Value 5407,Sports & Fitness,Sportswear,Puma,4095.97,5789.61
+1919,Navneet Notebooks Compact 2647,Books & Stationery,Notebooks,Navneet,410.07,626.32
+1920,Aashirvaad Staple Max 9852,Groceries,Staples,Aashirvaad,712.16,1013.51
+1921,Fogg Fragrances Ultra 3127,Beauty & Personal Care,Fragrances,Fogg,3912.41,5563.29
+1922,Fabindia Home Decor Essential 7474,Home & Kitchen,Home Decor,Fabindia,231.89,270.34
+1923,Himalaya Baby Care Smart 7115,Toys & Baby Products,Baby Care,Himalaya,2455.30,3126.56
+1924,Pigeon Cookware Signature 189,Home & Kitchen,Cookware,Pigeon,3299.96,4134.20
+1925,Funskool Toys Plus 7728,Toys & Baby Products,Toys,Funskool,2160.21,3059.01
+1926,Reynolds Office Supplies Deluxe 1522,Books & Stationery,Office Supplies,Reynolds,705.17,1066.14
+1927,Mee Mee Diapers Sport 9690,Toys & Baby Products,Diapers,Mee Mee,628.48,860.97
+1928,Fabindia Home Decor Value 2573,Home & Kitchen,Home Decor,Fabindia,3999.28,5480.83
+1929,Mamaearth Skincare Original 3749,Beauty & Personal Care,Skincare,Mamaearth,544.17,795.62
+1930,Tata Tea Beverages Advanced 4668,Groceries,Beverages,Tata Tea,663.07,897.83
+1931,Nivea Skincare Value 7084,Beauty & Personal Care,Skincare,Nivea,97.68,130.26
+1932,Pepperfry Home Decor Compact 8965,Home & Kitchen,Home Decor,Pepperfry,4004.89,5630.34
+1933,Navneet Notebook Plus 8298,Books & Stationery,Notebooks,Navneet,398.13,598.73
+1934,H&M Men's Clothing Lite 6836,Fashion,Men's Clothing,H&M,1713.81,2590.94
+1935,Prestige Cookware Compact 4778,Home & Kitchen,Cookware,Prestige,1429.90,1995.91
+1936,Spaces Bedding Original 6160,Home & Kitchen,Bedding,Spaces,2069.11,2572.99
+1937,Amul Dairy Plus 6211,Groceries,Dairy,Amul,145.58,195.30
+1938,H&M Men's Clothing Essential 1004,Fashion,Men's Clothing,H&M,1148.81,1444.97
+1939,Bru Beverage Classic 832,Groceries,Beverages,Bru,247.54,378.65
+1940,Dove Haircare Signature 3727,Beauty & Personal Care,Haircare,Dove,1732.93,2519.97
+1941,Amul Dairy Essential 6556,Groceries,Dairy,Amul,380.11,528.85
+1942,MAC Makeup Signature 2405,Beauty & Personal Care,Makeup,MAC,2062.79,2769.12
+1943,Zara Men's Clothing Elite 7103,Fashion,Men's Clothing,Zara,1071.52,1636.21
+1944,Strauss Yoga & Accessories Smart 3124,Sports & Fitness,Yoga & Accessories,Strauss,1920.56,2725.90
+1945,Parle Snacks Lite 4739,Groceries,Snacks,Parle,80.40,94.07
+1946,Nike Footwear Classic 4265,Fashion,Footwear,Nike,3746.85,4720.19
+1947,Allen Solly Men's Clothing Compact 6040,Fashion,Men's Clothing,Allen Solly,1429.26,1831.74
+1948,Adidas Sportswear Original 7199,Sports & Fitness,Sportswear,Adidas,1000.77,1351.99
+1949,Camlin Notebooks Pro 1953,Books & Stationery,Notebooks,Camlin,411.41,463.97
+1950,Asus Laptops Original 6734,Electronics,Laptops,Asus,42602.01,64585.38
+1951,Apple Smartwatches Advanced 6664,Electronics,Smartwatches,Apple,17815.92,25786.29
+1952,Nivea Skincare Classic 4984,Beauty & Personal Care,Skincare,Nivea,2244.80,3277.66
+1953,Ponds Skincare Essential 6496,Beauty & Personal Care,Skincare,Ponds,1680.04,2502.33
+1954,JBL Headphones Elite 9161,Electronics,Headphones,JBL,5112.41,6205.59
+1955,H&M Men's Clothing Advanced 3917,Fashion,Men's Clothing,H&M,3537.52,4582.42
+1956,Westland Non-Fiction Elite 4052,Books & Stationery,Non-Fiction,Westland,112.67,138.54
+1957,Hero Cycles Deluxe 4386,Sports & Fitness,Cycles,Hero,4608.34,6584.34
+1958,Oxford Notebooks Standard 7133,Books & Stationery,Notebooks,Oxford,421.71,520.85
+1959,Canon Cameras Standard 1004,Electronics,Cameras,Canon,32631.81,41975.06
+1960,Classmate Office Supplies Max 9021,Books & Stationery,Office Supplies,Classmate,377.77,519.42
+1961,Cosco Yoga & Accessories Max 6641,Sports & Fitness,Yoga & Accessories,Cosco,1451.08,1975.74
+1962,Westland Non-Fiction Pro 3378,Books & Stationery,Non-Fiction,Westland,1252.33,1617.44
+1963,Nescafe Beverages Advanced 5473,Groceries,Beverages,Nescafe,114.40,155.41
+1964,Firefox Cycles Pro 623,Sports & Fitness,Cycles,Firefox,19305.42,28251.32
+1965,Firefox Cycles Compact 9623,Sports & Fitness,Cycles,Firefox,5139.60,7602.25
+1966,Park Avenue Fragrances Classic 7468,Beauty & Personal Care,Fragrances,Park Avenue,137.14,160.43
+1967,Navneet Notebook Sport 333,Books & Stationery,Notebooks,Navneet,44.86,55.85
+1968,Red Label Beverage Elite 2664,Groceries,Beverages,Red Label,21.08,29.83
+1969,Vero Moda Women's Clothing Sport 9056,Fashion,Women's Clothing,Vero Moda,1712.66,2640.36
+1970,Britannia Snack Everyday 5186,Groceries,Snacks,Britannia,344.95,498.09
+1971,Canon Cameras Premium 2396,Electronics,Cameras,Canon,21035.18,32233.84
+1972,Sprite Beverages Original 4396,Groceries,Beverages,Sprite,800.06,1201.99
+1973,MAC Makeup Classic 5467,Beauty & Personal Care,Makeup,MAC,2409.16,2855.10
+1974,W Women's Clothing Smart 9509,Fashion,Women's Clothing,W,828.05,953.79
+1975,Strauss Yoga & Accessories Elite 2409,Sports & Fitness,Yoga & Accessories,Strauss,1996.31,2953.12
+1976,Urban Ladder Furniture Sport 5145,Home & Kitchen,Furniture,Urban Ladder,30302.12,35231.24
+1977,Pampers Diapers Classic 3787,Toys & Baby Products,Diapers,Pampers,938.11,1332.38
+1978,Fabindia Women's Clothing Essential 1564,Fashion,Women's Clothing,Fabindia,643.01,829.37
+1979,Nivia Fitness Equipment Pro 2286,Sports & Fitness,Fitness Equipment,Nivia,10008.38,13823.23
+1980,Camlin Notebooks Standard 3496,Books & Stationery,Notebooks,Camlin,82.82,123.52
+1981,Boat Smartwatche Elite 3221,Electronics,Smartwatches,Boat,21739.74,28649.22
+1982,Homesake Home Decor Plus 4526,Home & Kitchen,Home Decor,Homesake,1393.57,1897.20
+1983,Mamaearth Skincare Smart 9944,Beauty & Personal Care,Skincare,Mamaearth,380.98,487.87
+1984,H&M Men's Clothing Premium 1077,Fashion,Men's Clothing,H&M,1799.88,2013.69
+1985,Rupa Fiction Signature 7501,Books & Stationery,Fiction,Rupa,830.02,1006.73
+1986,Nivia Fitness Equipment Standard 5908,Sports & Fitness,Fitness Equipment,Nivia,20413.12,22688.25
+1987,Strauss Yoga & Accessorie Superior 6338,Sports & Fitness,Yoga & Accessories,Strauss,2803.30,3173.28
+1988,Nivea Skincare Essential 5243,Beauty & Personal Care,Skincare,Nivea,2922.06,3311.38
+1989,GoPro Cameras Sport 3836,Electronics,Cameras,GoPro,71501.95,93740.91
+1990,Fogg Fragrances Sport 4821,Beauty & Personal Care,Fragrances,Fogg,1533.40,1958.27
+1991,Allen Solly Men's Clothing Pro 5947,Fashion,Men's Clothing,Allen Solly,1023.50,1300.83
+1992,Nivea Fragrances Advanced 7650,Beauty & Personal Care,Fragrances,Nivea,418.24,536.11
+1993,Decathlon Sportswear Classic 9334,Sports & Fitness,Sportswear,Decathlon,2046.01,2413.00
+1994,Strauss Yoga & Accessories Premium 3148,Sports & Fitness,Yoga & Accessories,Strauss,1592.18,2349.40
+1995,Sebamed Baby Care Everyday 3730,Toys & Baby Products,Baby Care,Sebamed,1014.93,1354.34
+1996,Rupa Fiction Lite 8238,Books & Stationery,Fiction,Rupa,252.46,306.16
+1997,The Body Shop Skincare Smart 3748,Beauty & Personal Care,Skincare,The Body Shop,427.34,500.63
+1998,Puma Footwear Signature 4182,Fashion,Footwear,Puma,587.93,828.84
+1999,HarperCollins Non-Fiction Standard 3724,Books & Stationery,Non-Fiction,HarperCollins,364.65,564.21
+2000,Cosco Yoga & Accessorie Max 1921,Sports & Fitness,Yoga & Accessories,Cosco,1188.25,1696.36
