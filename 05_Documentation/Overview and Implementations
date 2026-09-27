@@ -1,1 +1,36 @@
 
+UrbanCart-Retail-Analytics/
+│
+├── README.md
+│
+├── 01_Data/
+│   ├── Customers.csv
+│   ├── Products.csv
+│   ├── Orders.csv
+│   ├── Order_Details.csv
+│   └── Date_Dimension.csv
+│
+├── 02_SQL/
+│   ├── 01_Create_Database.sql
+│   ├── 02_Create_Tables.sql
+│   ├── 03_Data_Validation.sql
+│   ├── 04_EDA.sql
+│   ├── 05_Sales_Analysis.sql
+│   ├── 06_Customer_Analysis.sql
+│   ├── 07_Product_Analysis.sql
+│   ├── 08_Regional_Analysis.sql
+│   ├── 09_Operations_Analysis.sql
+│   └── 10_Business_Insights.sql
+│
+├── 03_PowerBI/
+│   └── UrbanCart_Retail_Analytics.pbix
+│
+├── 04_Screenshots/
+│   ├── Executive_Overview.png
+│   ├── Sales_Analysis.png
+│   ├── Customer_Analysis.png
+│   └── Product_Operations_Analysis.png
+│
+└── 05_Documentation/
+    ├── Business_Insights.md
+    └── Business_Recommendations.md
