@@ -59,7 +59,7 @@ The dataset contains approximately:
 | Customers | 20,000 |
 | Products | 2,000 |
 | Orders | 100,000 |
-| Order Details | approximately 321,000 |
+| Order Details | approximately 3,00,000 |
 | Date Dimension | 1,461 |
 
 ## Tables
