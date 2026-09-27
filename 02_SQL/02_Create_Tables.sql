@@ -202,3 +202,19 @@ CREATE TABLE Customers
         CHECK (Customer_Segment IN
         ('New', 'Regular', 'Premium'))
 );
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+----This the code to insert the CSV file into the table for the analysis
+use Urbancart_Retail;
+go
+
+BULK INSERT Customers ----{Change the table name to insert the cvs file accordingly}---
+FROM '---/* File Path */---'
+WITH (
+    FIRSTROW = 2,              -- skip the header row
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0a',    -- use '\n' row terminator
+    CODEPAGE = '65001',        -- UTF-8
+    TABLOCK
+);
